@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.danielknuchel.github.iodkn-zh/./sitemap.xml
+Sitemap: https://danielknuchel.github.io/sitemap.xml
