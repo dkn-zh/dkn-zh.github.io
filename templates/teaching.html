@@ -1,13 +1,32 @@
 {% extends "page.html" %}
 {% block after %}
 <h2 id="courses">{{ t.courses_title }}</h2>
+<p class="muted small">{{ t.courses_hint }}</p>
 {% for inst in data.courses.institutions %}
+{% set items = inst.courses | selectattr('year', 'ge', cfg.courses_since) | list %}
+{% if items %}
 <h3>{{ inst.name }}</h3>
 <ul class="courses">
-  {% for c in inst.courses if c.sem[-4:] >= cfg.courses_since %}
-  <li><span class="sem">{{ c.sem }}</span> <span>{{ c.title }}{% if c.format %} <span class="muted">({{ c.format }})</span>{% endif %}</span></li>
+  {% for c in items %}
+  <li>
+    <span class="sem">{{ c.sem }}</span>
+    {% if c.summary or c.readings %}
+    <details class="course">
+      <summary>{{ c.title }}{% if c.format %} <span class="muted">({{ c.format }})</span>{% endif %}</summary>
+      <div class="course-body">
+        {% if c.summary %}{{ c.summary | md | safe }}{% endif %}
+        {% if c.readings %}
+        <p class="readings-label">{{ t.readings }}</p>
+        <ul class="readings">{% for r in c.readings %}<li>{{ r | md_inline | safe }}</li>{% endfor %}</ul>
+        {% endif %}
+      </div>
+    </details>
+    {% else %}
+    <span>{{ c.title }}{% if c.format %} <span class="muted">({{ c.format }})</span>{% endif %}</span>
+    {% endif %}
+  </li>
   {% endfor %}
 </ul>
+{% endif %}
 {% endfor %}
-
 {% endblock %}

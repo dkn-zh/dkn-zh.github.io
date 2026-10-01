@@ -70,6 +70,9 @@ def url_for(cfg, lang, slug):
 def build():
     cfg = load_yaml(ROOT / "config.yaml")
     data = {p.stem: load_yaml(p) for p in sorted((ROOT / "data").glob("*.yaml"))}
+    for inst in data.get("courses", {}).get("institutions", []):
+        for c in inst["courses"]:
+            c["year"] = re.search(r"(\d{4})(?!.*\d{4})", str(c["sem"])).group(1)  # letztes Jahr im Semesterstring
     today = datetime.date.today()
 
     env = Environment(

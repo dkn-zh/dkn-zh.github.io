@@ -68,6 +68,8 @@ strings:
     invited: eingeladen
     older: Frühere Jahre
     courses_title: Lehrveranstaltungen
+    courses_hint: Kurse mit Pfeil lassen sich aufklappen und zeigen Thema und zentrale Texte.
+    readings: Zentrale Texte
     trainings_title: Weiterbildungen für Lehrpersonen
     supervision_title: Betreuung
   en:
@@ -104,5 +106,7 @@ strings:
     invited: invited
     older: Earlier years
     courses_title: Courses taught
+    courses_hint: Courses marked with an arrow expand to show the topic and key readings.
+    readings: Key readings
     trainings_title: Teacher training
     supervision_title: Supervision

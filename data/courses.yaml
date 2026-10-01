@@ -7,7 +7,18 @@ institutions:
       - {sem: FS 2025, title: "Einführung Germanistische Linguistik B", format: Einführungskurs BA}
       - {sem: HS 2024, title: "Züri brännt: die 1980er-Jugendunruhen aus kommunikationsgeschichtlicher Perspektive", format: MA-Seminar}
       - {sem: FS 2024, title: "Kulturanalytische Linguistik", format: BA-Seminar}
-      - {sem: HS 2023, title: "Sexualität(en) im Wandel: lexikalisch-semantische Perspektiven", format: Proseminar}
+      - sem: HS 2023
+        title: "Sexualität(en) im Wandel: lexikalisch-semantische Perspektiven"
+        format: Proseminar
+        summary: |
+          Wie über sexuelles Begehren, sexuelle Praktiken und Sexualpartner:innen gesprochen wird und wie Sexualorgane bezeichnet werden, ist historisch gebunden und unterliegt dem Wandel. Das Seminar nähert sich diesem Wandel vom 19. bis ins 21. Jahrhundert aus der Perspektive der historischen Semantik und Lexikologie. Ein erster Block erarbeitet den historisch-theoretischen Kontext (Sexualitätsgeschichte, Tabuisierung und Scham), ein zweiter die Werkzeuge der historischen Semantik, ein dritter wendet sie auf Ratgeber, Aufklärungstexte und Zeitschriften an. Die Studierenden realisieren ein eigenes kleines Forschungsprojekt und stellen es an einem Posterworkshop vor. Gastvorträge von Tony McEnery (Lancaster) und Crispin Thurlow (Bern).
+        readings:
+          - "Crespo-Fernández, Eliecer (2018): Taboos in speaking of sex and sexuality. In: Allan, Keith (Hg.): *The Oxford Handbook of Taboo Words and Language*. Oxford University Press, 40–60."
+          - "Eder, Franz X. (2009): *Kultur der Begierde: eine Geschichte der Sexualität*. 2. Aufl. München: C.H. Beck, 9–28."
+          - "Foucault, Michel (1986): *Sexualität und Wahrheit. Der Wille zum Wissen*. Frankfurt a. M.: Suhrkamp, 11–66."
+          - "Nübling, Damaris (2017): Semantischer Wandel. In: Nübling et al.: *Historische Sprachwissenschaft des Deutschen*. Tübingen: Narr, 139–163."
+          - "Sanyal, Mithu (2009): *Vulva: die Enthüllung des unsichtbaren Geschlechts*. Berlin: Wagenbach, 11–26."
+          - "Siefkes, Martin (2015): Tabus in Diskursen aus kultursemiotischer Perspektive. *Kodikas/Code* 38(3–4), 203–226."
       - {sem: FS 2023, title: "Einführung Germanistische Linguistik B", format: Einführungskurs BA}
       - {sem: HS 2022, title: "Sexualität(en) im Wandel: lexikalisch-semantische Perspektiven", format: Proseminar}
       - {sem: FS 2022, title: "Visuelle Linguistik: Sprache digital explorieren (Konzept, Co-Teaching mit Noah Bubenhofer)", format: MA-Seminar}

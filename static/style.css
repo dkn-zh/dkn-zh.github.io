@@ -114,6 +114,17 @@ main { padding: 4rem var(--space) 5rem; }
 .talks .title { font-weight: 500; }
 .courses li { grid-template-columns: 6rem 1fr; }
 
+details.course summary { cursor: pointer; list-style: none; position: relative; padding-right: 1.4rem; }
+details.course summary::-webkit-details-marker { display: none; }
+details.course summary::after { content: "↓"; position: absolute; right: 0; top: 0; color: var(--muted); font-size: 0.85rem; transition: transform .15s; }
+details.course[open] summary::after { transform: rotate(180deg); }
+details.course summary:hover { color: var(--accent); }
+.course-body { margin: 0.8rem 0 0.4rem; padding-left: 1rem; border-left: 1px solid var(--line); color: var(--text-2); font-size: 0.93rem; }
+.course-body p { margin-bottom: 0.7rem; }
+.readings-label { font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); margin: 0.8rem 0 0.3rem; }
+.readings { list-style: none; padding: 0; margin: 0; }
+.readings li { padding: 0.25rem 0; border: 0; display: block; }
+
 /* Footer */
 .site-footer { padding: 0 0 3rem; color: var(--muted); font-size: 0.85rem; }
 .footer-row { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.4rem 1.5rem; padding-top: 1.4rem; border-top: 1px solid var(--line); }

@@ -17,7 +17,7 @@ python3 build.py --serve      # baut nach dist/ und öffnet http://localhost:800
 | `content/de/*.md`, `content/en/*.md` | Eine Datei pro Seite. Oben YAML-Frontmatter (Titel, Navigation, Template), darunter Markdown. |
 | `data/publications.yaml` | Publikationen, eine Liste. Neue Einträge oben anfügen. |
 | `data/talks.yaml` | Vorträge, Poster, Workshops, Organisation, Outreach. |
-| `data/courses.yaml` | Lehrveranstaltungen, Weiterbildungen. |
+| `data/courses.yaml` | Lehrveranstaltungen. Ein Kurs kann `summary:` (Markdown) und `readings:` (Liste) haben; dann wird er auf der Lehre-Seite aufklappbar. |
 | `templates/` | HTML-Gerüst (Jinja2). |
 | `static/` | CSS, Bilder, PDFs. Wird unverändert kopiert. |
 

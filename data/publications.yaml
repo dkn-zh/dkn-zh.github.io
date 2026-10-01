@@ -155,12 +155,6 @@
 - type: article
   status: submitted
   peer_reviewed: true
-  authors: [Knuchel, Daniel, Kaltenbach, Luca, Strietholt, Sophia]
-  title: "Humanizing AI: Authorship and Agency Negotiation in Learners’ Writing with ChatGPT"
-  in: "In: Language Learning Strategies in the Age of Artificial Intelligence. Special issue of *System*."
-- type: article
-  status: submitted
-  peer_reviewed: true
   authors: [Strietholt, Sophia, Knuchel, Daniel, Kaltenbach, Luca]
   title: "Same Tool, Different Ethics: Contextual Differences in Ethical Sense-Making around AI in Language Education"
   in: "In: Dunlevy, Deirdre / Horáčková, Clare (Eds.): AI in Language Education. London: Bloomsbury Academic."
