@@ -69,6 +69,7 @@ nav .lang a { color: var(--muted); }
 main { padding: 4rem var(--space) 5rem; }
 .prose { max-width: var(--measure); }
 .prose ul, .prose ol { padding-left: 1.2rem; }
+.prose .pubs, .prose .talks, .prose .courses, .prose .readings { padding-left: 0; }
 .prose li { margin-bottom: 0.45rem; }
 .prose li::marker { color: var(--muted); }
 .prose strong { font-weight: 500; }

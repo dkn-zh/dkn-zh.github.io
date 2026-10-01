@@ -7,7 +7,7 @@
 # --- Monographien ---
 - type: monograph
   year: 2024
-  authors: [Knuchel, Daniel]
+  authors: ["Knuchel, Daniel"]
   title: "›HIV|AIDS‹ in der Ära der Post-Infektiosität. Korpuspragmatische Analysen zur sprachlichen Konzeptualisierung einer Infektionskrankheit"
   in: "Dissertation, Universität Zürich (verteidigt am 7. Dezember 2023)."
   doi: 10.5167/uzh-263625
@@ -15,17 +15,17 @@
 # --- Herausgaben ---
 - type: edited
   year: 2024
-  authors: [Knuchel, Daniel, Merten, Marie-Luis]
+  authors: ["Knuchel, Daniel", "Merten, Marie-Luis"]
   title: "Digitale Öffentlichkeit(en): empirische Zugänge und theoretische Modellierung"
   in: "Themenheft der *Zeitschrift für Germanistische Linguistik* 52(1)."
 - type: edited
   year: 2022
-  authors: [Herrmann, Berenike, Bubenhofer, Noah, Knuchel, Daniel, Rebora, Simone, Messerli, Thomas]
+  authors: ["Herrmann, Berenike", "Bubenhofer, Noah", "Knuchel, Daniel", "Rebora, Simone", "Messerli, Thomas"]
   title: "Cultures of E/valuation on the Social Web"
   in: "Special issue of the *Journal of Cultural Analytics* 7(2)."
 - type: edited
   year: 2022
-  authors: [Bubenhofer, Noah, Knuchel, Daniel, Schüller, Larissa]
+  authors: ["Bubenhofer, Noah", "Knuchel, Daniel", "Schüller, Larissa"]
   title: "Kulturlinguistik"
   in: "Themenheft von *Germanistik in der Schweiz* 18."
   doi: 10.24894/GiS.2021.18.1
@@ -34,108 +34,108 @@
 - type: article
   year: 2026
   peer_reviewed: true
-  authors: [Knuchel, Daniel]
+  authors: ["Knuchel, Daniel"]
   title: "Postdigitale Schreibkulturen im Kontext generativer KI. Ideologien, Praktiken und Produkte"
   in: "*Zeitschrift für Kulturlinguistik* 1."
 - type: article
   year: 2026
   peer_reviewed: true
-  authors: [Knuchel, Daniel, Bojarski, Xenia, Ventre, Davide, Huber, Sonja, Kaibel, Gunilla]
+  authors: ["Knuchel, Daniel", "Bojarski, Xenia", "Ventre, Davide", "Huber, Sonja", "Kaibel, Gunilla"]
   title: "Diskursiven Wandel korpuspragmatisch aufspüren: Analyse- und Visualisierungsmethoden im Paradigma der data philology"
   in: "In: Brunner, Annelen / Hansen, Sandra / Lang, Christian / Tu, Ngoc Duyen Tanja / Wolfer, Sascha (Hrsg.): IDS Methodenmesse 2025. Mannheim: IDS-Verlag, 140–157."
 - type: article
   year: 2024
-  authors: [Merten, Marie-Luis, Knuchel, Daniel]
+  authors: ["Merten, Marie-Luis", "Knuchel, Daniel"]
   title: "Digitale Öffentlichkeit(en): Linguistische Perspektiven"
   in: "*Zeitschrift für Germanistische Linguistik* 52(1), 1–13."
   doi: 10.1515/zgl-2024-2001
 - type: article
   year: 2023
   peer_reviewed: true
-  authors: [Knuchel, Daniel, Bubenhofer, Noah]
+  authors: ["Knuchel, Daniel", "Bubenhofer, Noah"]
   title: "Machine Learning und Korpuspragmatik. Word Embeddings als Beispiel für einen kreativen Umgang mit NLP-Tools"
   in: "In: Meier-Vieracker, Simon / Marx, Konstanze / Bülow, Lars / Mroczynski, Robert (Hrsg.): Digitale Pragmatik. Heidelberg: Metzler, 213–235."
   doi: 10.1007/978-3-662-65373-9_10
 - type: article
   year: 2022
-  authors: [Knuchel, Daniel, Thomann, Vera, Hottiger, Christoph, Meier, Salomé, Schüller, Larissa, Traupmann, Thomas]
+  authors: ["Knuchel, Daniel", "Thomann, Vera", "Hottiger, Christoph", "Meier, Salomé", "Schüller, Larissa", "Traupmann, Thomas"]
   title: "Germanistik als Sprach- und Literaturwissenschaft: Plädoyer für eine Kulturphilologie"
   in: "*Germanistik in der Schweiz* 18, 97–107."
   doi: 10.24894/1664-2457.00013
 - type: article
   year: 2022
-  authors: [Bubenhofer, Noah, Knuchel, Daniel, Schüller, Larissa]
+  authors: ["Bubenhofer, Noah", "Knuchel, Daniel", "Schüller, Larissa"]
   title: "Digitalität als Gegenstand und Methode in der Kulturlinguistik"
   in: "*Germanistik in der Schweiz* 18, 64–96."
   doi: 10.24894/1664-2457.00012
 - type: article
   year: 2022
-  authors: [Bubenhofer, Noah, Knuchel, Daniel, Schüller, Larissa]
+  authors: ["Bubenhofer, Noah", "Knuchel, Daniel", "Schüller, Larissa"]
   title: "Kulturlinguistik in der Schweiz – eine Einleitung"
   in: "*Germanistik in der Schweiz* 18, 3–13."
   doi: 10.24894/1664-2457.00009
 - type: article
   year: 2022
-  authors: [Herrmann, Berenike, Bubenhofer, Noah, Knuchel, Daniel, Rebora, Simone, Messerli, Thomas]
+  authors: ["Herrmann, Berenike", "Bubenhofer, Noah", "Knuchel, Daniel", "Rebora, Simone", "Messerli, Thomas"]
   title: "Cultures of E/valuation on the Social Web. A Very Short Introduction to the Special Issue"
   in: "*Journal of Cultural Analytics* 7(2), 1–3."
 - type: article
   year: 2021
   peer_reviewed: true
-  authors: [Knuchel, Daniel]
+  authors: ["Knuchel, Daniel"]
   title: "Diskurs-Latenz: Re-Aktivierungen von Stereotypen rund um HIV/AIDS in Onlineforen"
   in: "In: Ilg, Yvonne / Iakushevich, Marina / Schnedermann, Theresa (Hrsg.): Linguistik und Medizin. Sprachwissenschaftliche Zugänge und interdisziplinäre Perspektiven. Berlin/Boston: De Gruyter, 277–294."
 - type: article
   year: 2020
   peer_reviewed: true
-  authors: [Knuchel, Daniel, Bubenhofer, Noah]
+  authors: ["Knuchel, Daniel", "Bubenhofer, Noah"]
   title: "Korpuslinguistische Expeditionen als Anregung zur Reflexion über Sprachgebrauch – Forschendes Lernen mit dem DWDS und dem DeReKo"
   in: "*Der Deutschunterricht* 6, 63–76."
 - type: article
   year: 2020
-  authors: [Bubenhofer, Noah, Knuchel, Daniel, Sutter, Livia, Kellenberger, Maaike, Bodenmann, Niclas]
+  authors: ["Bubenhofer, Noah", "Knuchel, Daniel", "Sutter, Livia", "Kellenberger, Maaike", "Bodenmann, Niclas"]
   title: "Von Grenzen und Welten: Eine korpuspragmatische COVID-19-Diskursanalyse"
   in: "*Aptum* 16(2/3), 46–55."
 - type: article
   year: 2019
   peer_reviewed: true
-  authors: [Knuchel, Daniel]
+  authors: ["Knuchel, Daniel"]
   title: "‘Old’ AIDS – ‘New’ AIDS in Der Spiegel? A corpus linguistic approach to conceptualisations of HIV/AIDS"
   in: "In: Gross, Alexandra / Pech, Ramona / Vlassenko, Ivan (Hrsg.): HIV/AIDS. Interdisziplinäre Perspektiven. Berlin: LIT Verlag, 95–114."
 - type: article
   year: 2019
   peer_reviewed: true
-  authors: [Maci, Stefania M., Jablonkai, Réka R., Lukasik, Marek, Daraselia, Sophiko, Knuchel, Daniel]
+  authors: ["Maci, Stefania M.", "Jablonkai, Réka R.", "Lukasik, Marek", "Daraselia, Sophiko", "Knuchel, Daniel"]
   title: "Disambiguating near synonyms in medical discourse: A multilayered corpus analysis of disease, illness and sickness in the BNC"
   in: "In: Baldry, Anthony / Bianchi, Francesca / Loiacono, Anna (Eds.): Representing and Redefining Specialised Knowledge: Medical Discourse. Lecce: Salento University Publishing, 127–150."
 - type: article
   year: 2018
   peer_reviewed: true
-  authors: [Knuchel, Daniel, Luth, Janine]
+  authors: ["Knuchel, Daniel", "Luth, Janine"]
   title: "Zugängliche Daten im Netz: Herausforderungen beim Korpusaufbau mit besonderer Berücksichtigung rechtlicher und ethischer Aspekte"
   in: "In: Gessinger, Joachim / Redder, Angelika / Schmitz, Ulrich (Hrsg.): Korpuslinguistik (= OBST 92), 31–44."
 
 # --- Rezensionen und kleinere Beiträge ---
 - type: small
   year: 2016
-  authors: [Knuchel, Daniel]
+  authors: ["Knuchel, Daniel"]
   title: "Rezension zu: Vlassenko, Ivan (2015): Sprechen über HIV/AIDS. Narrative Rekonstruktionen und multimodale Metaphern zur Darstellung von Subjektiven Krankheitstheorien. Berlin/Münster: LIT Verlag"
   in: "In: Janson, Christa / Steger, Florian (Hrsg.): Jahrbuch Literatur und Medizin 8. Heidelberg: Winter."
 - type: small
   year: 2016
-  authors: [Knuchel, Daniel]
+  authors: ["Knuchel, Daniel"]
   title: "«Altes» AIDS und «Neues» AIDS – 30 Jahre Berichterstattung in DER SPIEGEL"
   in: "In: Festschrift 30-jähriges Bestehen der Aidshilfe Heidelberg, 20–22."
 - type: small
   year: 2013
-  authors: [Knuchel, Daniel]
+  authors: ["Knuchel, Daniel"]
   title: "Textwalker. Spielerisch mit Sprache den Computer kennenlernen"
   in: "In: Rundschreiben Zentrum Lesen 24(4)."
 
 # --- Expertisen ---
 - type: report
   year: 2021
-  authors: [Knuchel, Daniel, Schüller, Larissa, Hottiger, Christoph]
+  authors: ["Knuchel, Daniel", "Schüller, Larissa", "Hottiger, Christoph"]
   title: "Sprachgebrauch in der Deutschschweiz. Ergebnisse kulturhistorischer und -analytischer Linguistik"
   in: "Expertise zuhanden des Schweizerischen Nationalmuseums für die Ausstellung «Sprachenland Schweiz»."
 
@@ -143,28 +143,28 @@
 - type: article
   status: in_press
   peer_reviewed: true
-  authors: [Knuchel, Daniel]
+  authors: ["Knuchel, Daniel"]
   title: "Quantitative Wortkritik und funktionale Angemessenheit"
   in: "In: Kilian, Jörg / Niehr, Thomas / Schiewe, Jürgen (Hrsg.): Handbuch Sprachkritik. 2., aktualisierte und erweiterte Auflage. Heidelberg/Berlin: J. B. Metzler."
 - type: article
   status: accepted
   peer_reviewed: true
-  authors: [Knuchel, Daniel]
+  authors: ["Knuchel, Daniel"]
   title: "Schüler:innen als Ko-Forschende: Herausforderungen und Potenziale partizipativer Forschung zu KI-basierten Schreibpraktiken"
   in: "In: Ilg, Yvonne / Hauser, Stefan (Hrsg.): Partizipative Forschung in der Linguistik. Themenheft der *Zeitschrift für Germanistische Linguistik* 55(1)."
 - type: article
   status: submitted
   peer_reviewed: true
-  authors: [Strietholt, Sophia, Knuchel, Daniel, Kaltenbach, Luca]
+  authors: ["Strietholt, Sophia", "Knuchel, Daniel", "Kaltenbach, Luca"]
   title: "Same Tool, Different Ethics: Contextual Differences in Ethical Sense-Making around AI in Language Education"
   in: "In: Dunlevy, Deirdre / Horáčková, Clare (Eds.): AI in Language Education. London: Bloomsbury Academic."
 - type: article
   status: in_prep
-  authors: [Knuchel, Daniel]
+  authors: ["Knuchel, Daniel"]
   title: "Prompting als postdigitale Kulturtechnik? Eine assemblagetheoretische Perspektive auf Schreiben"
   in: "In: Donhauser-Buchmaier, Carolin / Führer, Carolin (Hrsg.): Prompten als postdigitale Kulturtechnik und Interaktionspraxis im Deutschunterricht."
 - type: article
   status: in_prep
-  authors: [Knuchel, Daniel]
+  authors: ["Knuchel, Daniel"]
   title: "Discourse Latency as a Semantic Concept: the Case of HIV|AIDS in Switzerland"
   in: "Geplant für *Discourse, Context & Media*."
