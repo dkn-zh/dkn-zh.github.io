@@ -1,12 +1,63 @@
+# Lehrveranstaltungen. Ein Kurs mit `summary:` und/oder `readings:` wird auf der Lehre-Seite aufklappbar.
+# Quellen der Beschreibungen: eigene Syllabi (Dropbox 03__UZH_Lehre, 02_UniversiteGeneve/Lehre, OneDrive 2_Lehre).
 institutions:
   - name: Universität Zürich, Deutsches Seminar
     courses:
-      - {sem: FS 2027, title: "Akademische Textkompetenzen in Zeiten von LLMs (mit Elisabeth Zima)", format: Seminar}
-      - {sem: HS 2026, title: "Linguistik und Posthumanismus", format: MA-Seminar}
-      - {sem: HS 2025, title: "Historische Pragmatik", format: MA-Seminar}
-      - {sem: FS 2025, title: "Einführung Germanistische Linguistik B", format: Einführungskurs BA}
-      - {sem: HS 2024, title: "Züri brännt: die 1980er-Jugendunruhen aus kommunikationsgeschichtlicher Perspektive", format: MA-Seminar}
-      - {sem: FS 2024, title: "Kulturanalytische Linguistik", format: BA-Seminar}
+      - sem: FS 2027
+        title: "Akademische Textkompetenzen in Zeiten von LLMs (mit Elisabeth Zima)"
+        format: Seminar
+      - sem: HS 2026
+        title: "Linguistik und Posthumanismus"
+        format: MA-Seminar
+        summary: |
+          Posthumanistische Ansätze stellen zentrale Prämissen der Sprachwissenschaft infrage. Sie lösen Sprache aus der Vorstellung eines primär kognitiven, im Individuum lokalisierten Systems und begreifen sprachliches Handeln als relationales, materiell und medial eingebettetes Geschehen, das über Menschen, Körper, Artefakte, Technologien und Räume verteilt ist. Das Seminar führt in posthumanistische Perspektiven auf Sprache und Kommunikation ein, diskutiert Konzepte wie distributed cognition, spatial repertoires, languaging und semiotic assemblages und erprobt in einer Vertiefungsphase ihr analytisches Potenzial an exemplarischen Phänomenen. Gastvorträge von Miriam Lind (Frankfurt/Oder) und Britta Schneider (Wien).
+        readings:
+          - "Barad, Karen (2003): Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter. *Signs* 28(3), 801–831."
+          - "Haraway, Donna (1991): A Cyborg Manifesto. In: *Simians, Cyborgs, and Women*. New York: Routledge, 149–181."
+          - "Pennycook, Alastair (2018): Posthumanist Applied Linguistics. *Applied Linguistics* 39(4), 445–461."
+          - "Pennycook, Alastair / Otsuji, Emi (2014): Metrolingual Multitasking and Spatial Repertoires. *Journal of Sociolinguistics* 18(2), 161–184."
+          - "Mondada, Lorenza (2021): Orchestrating Multi-Sensoriality in Tasting Sessions. *Symbolic Interaction* 44(1), 63–86."
+          - "Li Wei (2018): Translanguaging as a Practical Theory of Language. *Applied Linguistics* 39(1), 9–30."
+          - "Schneider, Britta (2024): A Sociolinguist’s Look at the ‘Language’ in Large Language Models. *Critical AI* 2(1)."
+          - "Bender, Emily M. et al. (2021): On the Dangers of Stochastic Parrots. *Proceedings of FAccT ’21*, 610–623."
+      - sem: HS 2025
+        title: "Historische Pragmatik"
+        format: MA-Seminar
+        summary: |
+          Formen und Funktionen sprachlichen Handelns in deutschsprachigen Quellen vom 17. bis zum 21. Jahrhundert. Anhand von Briefen, Predigten, Prozessakten, Ratgebern und Theaterstücken analysieren wir Sprechakte, Höflichkeitsstrategien und diskursive Muster und fragen, wie sich kommunikative Praktiken historisch verändert haben. Methodologisch geht es darum, wie Mündlichkeit in schriftlichen Quellen rekonstruierbar ist, welche Herausforderungen historische Daten stellen und was grosse Sprachmodelle bei der Quellenanalyse leisten.
+        readings:
+          - "Jucker, Andreas H. (2018): Historische Pragmatik. In: Liedtke, Frank / Tuchen, Astrid (Hg.): *Handbuch Pragmatik*. Stuttgart: Metzler, 132–139."
+          - "Linke, Angelika (2021): Musterwandel als Indikator für soziokulturellen Wandel. Grussformeln vom 17. zum 21. Jahrhundert. In: Weidner et al. (Hg.): *Verfestigungen in der Interaktion*. Berlin/Boston: De Gruyter, 131–157."
+          - "Schröter, Juliane (2016): *Abschied nehmen. Veränderungen einer kommunikativen Kultur im 19. und 20. Jahrhundert*. Berlin/Boston: De Gruyter."
+          - "Ackermann, Tanja (2023): Direktive Sprechakte in frühneuzeitlichen Fremdsprachenlehrwerken. *PBB* 145(1), 35–79."
+          - "Nübling, Damaris et al. (2017): *Historische Sprachwissenschaft des Deutschen*. 5. Aufl. Tübingen: Narr, Kap. 7."
+      - sem: FS 2025
+        title: "Einführung Germanistische Linguistik B"
+        format: Einführungskurs BA
+        summary: |
+          Das Modul verbindet eine Vorlesung zu den Paradigmen der Linguistik und zum Neuhochdeutschen, eine digitale Selbstlerneinheit mit den Grundbegriffen von Semantik, Pragmatik, Gesprächs-, Text- und Soziolinguistik sowie ein Begleitseminar. Im Seminar vertiefen und diskutieren wir die Inhalte an Studien und Quellen und üben linguistische Arbeitsweisen: Lesetechniken, Quellenkritik, Transkribieren, Analysemethoden. Das Modul habe ich zusammen mit Noah Bubenhofer neu konzipiert.
+        readings:
+          - "Hausendorf, Heiko / Kesselheim, Wolfgang (2008): *Textlinguistik fürs Examen*. Göttingen: Vandenhoeck & Ruprecht, 21–37."
+          - "Janich, Nina (2008): Konversationsmaximen bei Bahndurchsagen. In: Crijns, Rogier / Thalheim, Janine (Hg.): *Kooperation und Effizienz in der Unternehmenskommunikation*. Wiesbaden: DUV, 85–102."
+          - "Keim, Inken (2012): Zweisprachige Kommunikationspraktiken: Code-switching und Code-mixing. In: *Mehrsprachige Lebenswelten*. Tübingen: Narr, 144–175."
+          - "Linke, Angelika (2001): Trauer, Öffentlichkeit und Intimität. Zum Wandel der Textsorte Todesanzeige."
+          - "Knuchel, Daniel / Bubenhofer, Noah (2020): Korpuslinguistische Expeditionen als Anregung zur Reflexion über Sprachgebrauch. *Der Deutschunterricht* 6, 63–76."
+          - "Knuchel, Daniel (2021): Diskurs-Latenz: Re-Aktivierungen von Stereotypen rund um HIV/AIDS in Onlineforen. In: Ilg et al. (Hg.): *Linguistik und Medizin*. Berlin/Boston: De Gruyter, 277–294."
+      - sem: HS 2024
+        title: "Züri brännt: die 1980er-Jugendunruhen aus kommunikationsgeschichtlicher Perspektive"
+        format: MA-Seminar
+        summary: |
+          Ende Mai 1980 protestierten mehrere hundert Jugendliche vor dem Zürcher Opernhaus gegen die städtische Kulturpolitik; es folgten die Opernhauskrawalle und eine Bewegung, die sich über Demonstrationen, Graffiti, Comics, Videokunst und Flugblätter artikulierte. Das Seminar nähert sich diesem Quellenmaterial kommunikationsgeschichtlich: Ein erster Block erarbeitet Praxistheorie, Protestkommunikation und Multimodalität, ein zweiter erschliesst Bestände des Schweizerischen Sozialarchivs. Die Ergebnisse flossen in eine interaktive Stadtkarte ein.
+        readings:
+          - "Scharloth, Joachim (2011): *1968. Eine Kommunikationsgeschichte*. München: Fink."
+          - "Linke, Angelika (2014): Kommunikationsgeschichte. In: Ágel, Vilmos / Gardt, Andreas (Hg.): *Paradigmen der aktuellen Sprachgeschichtsforschung*. Berlin/Boston: De Gruyter, 22–45."
+          - "Deppermann, Arnulf / Feilke, Helmuth / Linke, Angelika (2016): Sprachliche und kommunikative Praktiken: eine Annäherung aus linguistischer Sicht. In: dies. (Hg.): *Sprachliche und kommunikative Praktiken*. Berlin: De Gruyter, 1–24."
+          - "Linke, Angelika / Schröter, Juliane (2018): Diskurslinguistik und Transsemiotizität. In: Warnke, Ingo H. (Hg.): *Handbuch Diskurs*. Berlin/Boston: De Gruyter, 449–469."
+          - "Scharloth, Joachim (2007): Performanz als Kategorie einer kulturanalytischen Linguistik. *Zeitschrift für Deutsche Philologie* 126, 390–410."
+          - "Zutavern, Julia (2016): Züri brännt. In: *Nach Feierabend. Wissen ca. 1980* (= Zürcher Jahrbuch für Wissensgeschichte 12). Zürich: Diaphanes, 79–89."
+      - sem: FS 2024
+        title: "Kulturanalytische Linguistik"
+        format: BA-Seminar
       - sem: HS 2023
         title: "Sexualität(en) im Wandel: lexikalisch-semantische Perspektiven"
         format: Proseminar
@@ -19,57 +70,145 @@ institutions:
           - "Nübling, Damaris (2017): Semantischer Wandel. In: Nübling et al.: *Historische Sprachwissenschaft des Deutschen*. Tübingen: Narr, 139–163."
           - "Sanyal, Mithu (2009): *Vulva: die Enthüllung des unsichtbaren Geschlechts*. Berlin: Wagenbach, 11–26."
           - "Siefkes, Martin (2015): Tabus in Diskursen aus kultursemiotischer Perspektive. *Kodikas/Code* 38(3–4), 203–226."
-      - {sem: FS 2023, title: "Einführung Germanistische Linguistik B", format: Einführungskurs BA}
-      - {sem: HS 2022, title: "Sexualität(en) im Wandel: lexikalisch-semantische Perspektiven", format: Proseminar}
+      - sem: FS 2023
+        title: "Einführung Germanistische Linguistik B"
+        format: Einführungskurs BA
+      - sem: HS 2022
+        title: "Sexualität(en) im Wandel: lexikalisch-semantische Perspektiven"
+        format: Proseminar
+        summary: |
+          Erste Durchführung des Proseminars, hier mit kulturlinguistischem Schwerpunkt: Nach einem Block zu historischem und theoretischem Kontext führen Kleingruppen eigene Quellenanalysen durch (Ratgeber, Zeitschriften, Wörterbücher) und präsentieren sie als Poster an einem Abschlussworkshop. Mit einem Workshop der Kulturwissenschaftlerin Sarah Scheidmantel zur Entdeckung des Sexuellen um 1900.
+        readings:
+          - "Linke, Angelika (2018): Kulturhistorische Linguistik. In: Deppermann, Arnulf / Reineke, Silke (Hg.): *Sprache im kommunikativen, interaktiven und kulturellen Kontext*. Berlin/Boston: De Gruyter, 347–383."
+          - "Crespo-Fernández, Eliecer (2018): Taboos in speaking of sex and sexuality. In: Allan, Keith (Hg.): *The Oxford Handbook of Taboo Words and Language*. Oxford University Press, 40–60."
+          - "Köhnlein, Stephan (2001): Linguistische Ansätze zur Beschreibung und Erklärung des Phänomens «Sexuelles Sprachtabu». In: Hoberg, Rudolf (Hg.): *Sprache – Erotik – Sexualität*. Berlin: Erich Schmidt, 82–99."
+          - "Schimpf, Silke (2001): Sprache im Bereich der Sexualität – Versuch einer Einordnung. In: Hoberg, Rudolf (Hg.): *Sprache – Erotik – Sexualität*. Berlin: Erich Schmidt, 62–81."
+          - "Nübling, Damaris (2017): Semantischer Wandel. In: Nübling et al.: *Historische Sprachwissenschaft des Deutschen*. Tübingen: Narr, 139–163."
       - {sem: FS 2022, title: "Visuelle Linguistik: Sprache digital explorieren (Konzept, Co-Teaching mit Noah Bubenhofer)", format: MA-Seminar}
       - {sem: FS 2021, title: "Spanische Grippe, AIDS, Corona: diskurslinguistische Perspektiven", format: BA-Seminar}
+      - {sem: FS 2021, title: "Einführung in die Sprachwissenschaft des Deutschen: Neuere Sprachgeschichte", format: Proseminar}
       - {sem: FS 2020, title: "Einführung in die Sprachwissenschaft des Deutschen: Neuere Sprachgeschichte", format: Proseminar}
       - {sem: FS 2020, title: "Einführung in die Sprachwissenschaft des Deutschen: Synchrone Linguistik", format: Proseminar}
       - {sem: HS 2017–2019, title: "Basismodul Linguistik diachron: Neuere Sprachgeschichte", format: Proseminar, jährlich}
       - {sem: HS 2015, title: "Praktische Rhetorik", format: Übung}
       - {sem: FS 2015, title: "Basismodul Linguistik synchron", format: Proseminar}
       - {sem: HS 2014, title: "Wissenschaftliches Schreiben", format: Übung}
+
   - name: Université de Genève, Département de langue et de littérature allemandes
     courses:
-      - {sem: FS 2026, title: "Textkommunikation", format: Seminar}
-      - {sem: FS 2026, title: "Diskurslinguistik", format: Vorlesung}
-      - {sem: HS 2025, title: "Deutsche Sprachgeschichte", format: Vorlesung}
-      - {sem: HS 2025, title: "Helfende Interaktion", format: Seminar}
-      - {sem: FS 2025, title: "Let’s talk about sex: linguistische Perspektiven auf einen tabuisierten Gegenstand", format: Seminar}
-      - {sem: FS 2025, title: "Digitale Schreibkulturen", format: Seminar}
-      - {sem: HS 2024, title: "Protestkommunikation gestern und heute", format: Seminar}
-      - {sem: HS 2024, title: "Korpuslinguistik", format: Vorlesung mit Übung}
-      - {sem: FS 2024, title: "Fakten aus linguistischer Sicht", format: Vorlesung}
-      - {sem: FS 2024, title: "Angewandte Linguistik", format: Seminar}
+      - sem: FS 2026
+        title: "Textkommunikation"
+        format: Seminar
+        summary: |
+          Was macht einen Text aus? Welche Hinweise decodieren wir in der Lektüresituation, um etwas als «lesbares Etwas» wahrzunehmen, und wie sind Texte mit anderen Texten und mit der Welt vernetzt? Das Seminar nähert sich dem Text aus pragmatischer Richtung: Ein erster Teil diskutiert Textualität und Textualitätshinweise, ein zweiter vertieft das an Textfamilien und Textsorten aus Alltag, Schule und Politik, ein dritter erweitert die Perspektive auf digitale und multimodale Texte.
+        readings:
+          - "Hausendorf, Heiko / Kesselheim, Wolfgang / Kato, Hiloko / Breitholz, Martina (2017): *Textkommunikation. Ein textlinguistischer Neuansatz zur Theorie und Empirie der Kommunikation mit und durch Schrift*. Berlin/Boston: De Gruyter."
+          - "Hausendorf, Heiko / Kesselheim, Wolfgang (2008): *Textlinguistik fürs Examen*. Göttingen: Vandenhoeck & Ruprecht."
+          - "Fix, Ulla (2019): Text und Textlinguistik. In: Janich, Nina (Hg.): *Textlinguistik. 15 Einführungen und eine Diskussion*. 2. Aufl. Tübingen: Narr, 15–34."
+          - "Adamzik, Kirsten (2016): *Textlinguistik: Grundlagen, Kontroversen, Perspektiven*. 2. Aufl. Berlin/Boston: De Gruyter."
+          - "Hausendorf, Heiko (2009): Kleine Texte über Randerscheinungen von Textualität. *Germanistik in der Schweiz* 6, 5–19."
+          - "Scharloth, Joachim (2023): Rituelle Wechselnichtigkeiten. Paraphrasenattribution als Methode der Identifikation von Textmustern auf Ansichtskarten. In: Hausendorf et al. (Hg.): *Ansichten zur Ansichtskarte*."
+      - sem: FS 2026
+        title: "Diskurslinguistik"
+        format: Vorlesung
+        summary: |
+          Die Diskurslinguistik untersucht sprachliche Strukturen, Muster und Praktiken, die über einzelne Sätze und Texte hinausreichen: wie gesellschaftlich geteiltes Wissen, Deutungsmuster und soziale Wirklichkeiten sprachlich konstruiert und reproduziert werden. Die Vorlesung stellt theoretische und methodische Zugänge vor, von der qualitativen Analyse bis zu korpuslinguistischen Verfahren, und wendet sie auf Diskurse zu HIV/AIDS, Queerness, Klima, Migration und Künstlicher Intelligenz an.
+        readings:
+          - "Spitzmüller, Jürgen / Warnke, Ingo H. (2011): *Diskurslinguistik. Eine Einführung in Theorien und Methoden der transtextuellen Sprachanalyse*. Berlin/Boston: De Gruyter."
+          - "Linke, Angelika / Schröter, Juliane (2018): Diskurslinguistik und Transsemiotizität. In: Warnke, Ingo H. (Hg.): *Handbuch Diskurs*. Berlin/Boston: De Gruyter, 449–469."
+          - "Gardt, Andreas (2007): Diskursanalyse – Aktueller theoretischer Ort und methodische Möglichkeiten. In: Warnke, Ingo H. (Hg.): *Diskurslinguistik nach Foucault*. Berlin/New York: De Gruyter, 27–52."
+          - "Dreesen, Philipp (2013): Sprechen-für-andere. Eine Annäherung an den Akteur und seine Stimmen mittels Footing und Polyphonie."
+          - "Jacob, Katharina (2022): *Begriffe besetzen*."
+          - "Stumpf, Sören (2025): Zur Verschränkung von Wortbildung und Diskurssemantik: Schlagwortkomposita in Verschwörungstheorien."
+      - sem: HS 2025
+        title: "Deutsche Sprachgeschichte"
+        format: Vorlesung mit Übung
+        summary: |
+          Überblick über die Entwicklung der deutschen Sprache von den Anfängen bis ins 21. Jahrhundert mit Schwerpunkt auf dem Neuhochdeutschen. Neben Laut-, Wortschatz- und Grammatikwandel stehen kultur- und mediengeschichtliche Fragen im Zentrum: Wie hängen gesellschaftliche Umbrüche, neue Medien und Sprachgebrauch zusammen, welche Rolle spielen Normierung, Standardisierung und Sprachreflexion? Fallstudien zur Herausbildung der Schriftsprache, zum Sprachwandel im 19. und 20. Jahrhundert und zu aktuellen digitalen Entwicklungen.
+        readings:
+          - "Ernst, Peter (2021): *Deutsche Sprachgeschichte*. 3. Aufl. Wien: Facultas."
+          - "Riecke, Jörg (2016): *Geschichte der deutschen Sprache. Eine Einführung*. Stuttgart: Reclam."
+          - "Linke, Angelika (1996): *Sprachkultur und Bürgertum. Zur Mentalitätsgeschichte des 19. Jahrhunderts*. Stuttgart: Metzler."
+      - sem: HS 2025
+        title: "Helfende Interaktion"
+        format: Seminar
+        summary: |
+          Helfen ist eine soziale und kommunikative Praxis, die in unterschiedlichsten Bereichen eine Rolle spielt. Das Seminar untersucht aus interaktionslinguistischer Perspektive, wie helfende Interaktionen sprachlich, medial und sozial ausgestaltet werden, in Face-to-Face-Situationen wie in digital-schriftlichen Formaten. Themen sind Machtasymmetrien, Beziehungsgestaltung und Rollenverteilung zwischen Hilfegebenden und Hilfesuchenden; analysiert werden Gespräche, Onlineforen und Briefkolumnen.
+        readings:
+          - "Pick, Ina / Scarvaglieri, Claudio (2019): Helfendes Handeln. Zur Konzeptualisierung einer linguistischen Beratungsforschung."
+          - "Imo, Wolfgang / Lanwer, Jens Philipp (2019): *Interaktionale Linguistik. Eine Einführung*. Stuttgart: Metzler."
+          - "Meer, Dorothee / Pick, Ina (2019): *Einführung in die Angewandte Linguistik. Gespräche, Texte, Medienformate analysieren*. Stuttgart: Metzler."
+          - "Lamerichs, Joyce / Stommel, Wyke (2014): Interaction in online support groups: advice and beyond."
+          - "Pick, Ina (2017): Anwaltliche Rechtsberatung."
+          - "Scarvaglieri, Claudio (2019): Veränderung durch Verstehen in der Psychotherapie."
+      - sem: FS 2025
+        title: "Let’s talk about sex: linguistische Perspektiven auf einen tabuisierten Gegenstand"
+        format: Seminar
+        summary: |
+          Wie wird über sexuelles Begehren und sexuelle Praktiken gesprochen, wie wird sexuelle Identität sprachlich konstruiert, und wie hat sich das verändert? Einführend fragen wir, was Sex und Sexualitäten sind, was sie mit Tabus zu tun haben und welche Rolle Sprache dabei spielt. Anhand von Studien nähern wir uns dem Gegenstand aus historischer Semantik und Interaktionslinguistik; im dritten Teil führen die Studierenden in Gruppen eigene kleine Forschungsprojekte durch.
+        readings:
+          - "Eder, Franz X. (2009): *Kultur der Begierde: eine Geschichte der Sexualität*. 2. Aufl. München: C.H. Beck, 9–28."
+          - "Foucault, Michel (1986): *Sexualität und Wahrheit. Der Wille zum Wissen*. Frankfurt a. M.: Suhrkamp."
+          - "Crespo-Fernández, Eliecer (2018): Taboos in speaking of sex and sexuality. In: Allan, Keith (Hg.): *The Oxford Handbook of Taboo Words and Language*. Oxford University Press, 40–60."
+          - "Müller, Wolfgang (2001): Seid reinlich bei Tage und säuschi bei Nacht. In: Hoberg, Rudolf (Hg.): *Sprache – Erotik – Sexualität*. Berlin: Erich Schmidt, 11–61."
+      - sem: FS 2025
+        title: "Digitale Schreibkulturen"
+        format: Seminar
+        summary: |
+          Die digitale Transformation verändert das Schreiben als kulturelle Praxis tiefgreifend: durch generative KI, die Schreiben in vielen Bereichen abnehmen kann, ebenso wie durch multimodale Textsorten wie TikTok-Videos und interaktive Praktiken wie das Kommentieren in Social Media. Das Seminar untersucht digitales Schreiben als kulturelle Praxis, Schreibprozesse wie Schreibprodukte, und verbindet Soziolinguistik, Medienlinguistik und Schreibforschung. Es ist an mein laufendes Forschungsprojekt angebunden und regt zu eigener Forschung an.
+      - sem: HS 2024
+        title: "Protestkommunikation gestern und heute"
+        format: Seminar
+        summary: |
+          Protestieren ist in demokratischen Gesellschaften eine zentrale kommunikative und soziale Praxis. Das Seminar nähert sich ihr semiotisch-pragmatisch: Nach einem theoretischen Fundament zu Praxis, Materialität und Medialität untersuchen wir Generalstreik, 1968, die Zürcher Jugendunruhen 1980, die LGBTQIA+-Bewegung und die Klimastreiks und fragen nach den Medien und sprachlich-kommunikativen Mustern, die Protest nicht nur ausdrücken, sondern überhaupt erst hervorbringen.
+        readings:
+          - "Dang-Anh, Mark / Meer, Dorothee / Wyss, Eva Lia (Hg.) (2022): *Protest, Protestieren, Protestkommunikation*. Berlin/Boston: De Gruyter."
+          - "Fahlenbrach, Kathrin / Klimke, Martin / Scharloth, Joachim (Hg.) (2016): *Protest Cultures: A Companion*. New York: Berghahn."
+          - "Scharloth, Joachim (2011): *1968. Eine Kommunikationsgeschichte*. München: Fink."
+      - sem: HS 2024
+        title: "Korpuslinguistik"
+        format: Vorlesung mit Übung
+        summary: |
+          Die empirische Arbeit mit grossen Textsammlungen ist aus der Sprachwissenschaft nicht mehr wegzudenken. Die Vorlesung führt in Grundlagen und Anwendungen der Korpuslinguistik ein, von Frequenz-, Kollokations-, Keyness- und Dispersionsanalysen bis zu ihrem Einsatz in Grammatik, Semantik, Pragmatik und Diskurslinguistik. Vorgestellt werden Ressourcen wie das Deutsche Referenzkorpus (DeReKo), das DWDS und die Corpus Workbench; im Übungsteil werden sie ausprobiert und eigene Analysen durchgeführt.
+        readings:
+          - "Perkuhn, Rainer / Keibel, Holger / Kupietz, Marc (2012): *Korpuslinguistik*. Paderborn: Fink."
+          - "Gessinger, Joachim / Redder, Angelika / Schmitz, Ulrich (Hg.) (2018): *Korpuslinguistik* (= OBST 92). Duisburg: Universitätsverlag Rhein-Ruhr."
+      - sem: FS 2024
+        title: "Fakten aus linguistischer Sicht"
+        format: Vorlesung
+        summary: |
+          Was sind (keine) Fakten, und was gilt aus welchen Gründen (nicht) als Faktum? Die Vorlesung stellt die Antworten der Linguistik vor, im Rahmen von Konstruktivismus und Diskursanalyse. Ein erster Block diskutiert Grundbegriffe wie Wahrheit, Wirklichkeit, Daten, Fakten und Wissen, ein zweiter epistemische Modalitäten und Muster der Wissens- und Nichtwissenskommunikation, ein dritter Verschwörungstheorien, das «Postfaktische» und «alternative Fakten» in aktuellen und historischen Diskursen.
+      - sem: FS 2024
+        title: "Angewandte Linguistik"
+        format: Seminar
+        summary: |
+          Linguistik muss nicht abstrakt sein: Mit ihr lassen sich praktische Probleme in Sprache und Kommunikation beschreiben, erklären und lösen. Einführende Sitzungen stellen Felder wie Sprache und Medizin, Coaching, Corporate Communications, Wissenschaftskommunikation und Leichte Sprache vor. Im zweiten Teil bearbeiten die Studierenden Szenarien, die nach linguistischer Beratung verlangen: Problem identifizieren, wissenschaftlich fundierte Lösung entwickeln.
+        readings:
+          - "Knapp, Karlfried et al. (Hg.) (2011): *Angewandte Linguistik. Ein Lehrbuch*. 3. Aufl. Tübingen: Francke."
+          - "Meer, Dorothee / Pick, Ina (2019): *Einführung in die Angewandte Linguistik. Gespräche, Texte, Medienformate analysieren*. Stuttgart: Metzler."
+          - "Bock, Bettina M. / Pappert, Sandra (2022): *Leichte Sprache, Einfache Sprache, verständliche Sprache*. Tübingen: Narr."
+
   - name: Universität Basel, Deutsches Seminar
     courses:
       - {sem: HS 2023, title: "Korpuspragmatik: Akquise, Aufbereitung und Analyse von Medien- und Webdaten", format: MA-Forschungsseminar}
       - {sem: HS 2019, title: "Sprachliche Konstruktion(en) des 20. Jahrhunderts", format: BA-Seminar}
+
   - name: Universität Heidelberg, Germanistisches Seminar
     courses:
       - {sem: WiSe 2016/17, title: "Deutsch als plurizentrische Sprache", format: Seminar BA/MA}
       - {sem: SoSe 2016, title: "Schreibforschung", format: Seminar BA/MA}
       - {sem: SoSe 2016, title: "Korpusarbeit für Diskurslinguistik (mit Katharina Jacob)", format: Übung}
       - {sem: SoSe 2016, title: "Forschungsorientierte Diskurslinguistik (mit Ekkehard Felder und Katharina Jacob)", format: MA-Seminar}
+
   - name: ZHAW, School of Applied Linguistics und School of Management and Law
     courses:
       - {sem: FS 2015, title: "Sprache im Beruf 2: Mündlichkeit", format: Übung Elektrotechnik}
       - {sem: FS 2015, title: "Schreibcoaching Bachelorarbeit", format: School of Management and Law}
       - {sem: HS 2014, title: "Sprache im Beruf 3: Wissenschaftlichkeit", format: Übung Elektrotechnik}
       - {sem: HS 2014, title: "Sprache im Beruf 1: Schriftlichkeit", format: Übung Elektrotechnik}
+
   - name: Ss. Cyril and Methodius University, Skopje
     courses:
       - {sem: 2025/2026, title: "Korpuslinguistik (Gastdozentur, PhD-Workshops)", format: ""}
 
-trainings:
-  - {when: 2027, title: "Linguistisches Forschen im Unterricht (mit Benedikt Knobel)", for: Weiterbildungsprogramm des Deutschen Seminars UZH}
-  - {when: 09/2026, title: "Herausforderung Maturaarbeit: Schreibprozesse begleiten, bewerten und der Einfluss von KI", for: Weiterbildungsprogramm des Deutschen Seminars UZH}
-  - {when: 06/2026, title: "Textproduktion mit generativer KI: Theorie und Praxis", for: Zentralbibliothek Zürich}
-  - {when: 04/2026, title: "KI-basierte Schreibpraktiken – Potenziale, Grenzen und Anwendungen (mit Xenia Bojarski)", for: Weiterbildungsprogramm des Deutschen Seminars UZH}
-  - {when: 03/2026, title: "Postdigitale Schreibkulturen: Texten mit genKI im Deutschunterricht", for: Realgymnasium Rämibühl}
-  - {when: 2022/2024, title: "Digitale Schreibkulturen (mit Karina Frick)", for: Weiterbildungsprogramm des Deutschen Seminars UZH}
-  - {when: 11/2023, title: "Maturaarbeiten als Gelenk zwischen Gymnasium und Hochschule", for: Kantonsschule Hottingen}
-  - {when: 10/2023, title: "KI / Large Language Models und Hochschullehre (mit Noah Bubenhofer)", for: Departement Geschichte, Universität Basel}
-  - {when: 05/2023, title: "Maturaarbeiten und Selbständige Arbeiten: Schreiben und KI (mit Stefan Jörissen)", for: GymFMS Thun}
-  - {when: 2016–2022, title: "Herausforderung Maturaarbeit. Schreibprozesse konstruktiv begleiten und sinnvoll bewerten (mit Stefan Jörissen)", for: "Weiterbildungsprogramm des Deutschen Seminars UZH, mehrfach; Kantonsschule Wettingen 2021"}
-  - {when: 11/2018, title: "Praktische Rhetorik (mit Thorben Päthe)", for: Weiterbildungsprogramm des Deutschen Seminars UZH}
+trainings: []
