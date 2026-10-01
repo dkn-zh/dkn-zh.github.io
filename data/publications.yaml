@@ -32,18 +32,6 @@
 
 # --- Aufsätze und Buchkapitel ---
 - type: article
-  status: accepted
-  peer_reviewed: true
-  authors: [Knuchel, Daniel]
-  title: "Schreibpraktiken gemeinsam erforschen: Vom Gewinn einer Liaison von Schreiber:innenwissen und linguistischem Fachwissen"
-  in: "Erscheint in: Ilg, Yvonne / Hauser, Stefan (Hrsg.): Partizipative Forschung in der Linguistik. Themenheft der *Zeitschrift für Germanistische Linguistik*."
-- type: article
-  status: in_press
-  peer_reviewed: true
-  authors: [Knuchel, Daniel]
-  title: "Quantitative Wortkritik und funktionale Angemessenheit"
-  in: "Erscheint in: Kilian, Jörg / Niehr, Thomas / Schiewe, Jürgen (Hrsg.): Handbuch Sprachkritik. 2., aktualisierte und erweiterte Auflage. Heidelberg/Berlin: J. B. Metzler."
-- type: article
   year: 2026
   peer_reviewed: true
   authors: [Knuchel, Daniel]
@@ -150,3 +138,39 @@
   authors: [Knuchel, Daniel, Schüller, Larissa, Hottiger, Christoph]
   title: "Sprachgebrauch in der Deutschschweiz. Ergebnisse kulturhistorischer und -analytischer Linguistik"
   in: "Expertise zuhanden des Schweizerischen Nationalmuseums für die Ausstellung «Sprachenland Schweiz»."
+
+# --- Im Druck, akzeptiert, eingereicht, in Vorbereitung (eigener Block am Seitenende) ---
+- type: article
+  status: in_press
+  peer_reviewed: true
+  authors: [Knuchel, Daniel]
+  title: "Quantitative Wortkritik und funktionale Angemessenheit"
+  in: "In: Kilian, Jörg / Niehr, Thomas / Schiewe, Jürgen (Hrsg.): Handbuch Sprachkritik. 2., aktualisierte und erweiterte Auflage. Heidelberg/Berlin: J. B. Metzler."
+- type: article
+  status: accepted
+  peer_reviewed: true
+  authors: [Knuchel, Daniel]
+  title: "Schüler:innen als Ko-Forschende: Herausforderungen und Potenziale partizipativer Forschung zu KI-basierten Schreibpraktiken"
+  in: "In: Ilg, Yvonne / Hauser, Stefan (Hrsg.): Partizipative Forschung in der Linguistik. Themenheft der *Zeitschrift für Germanistische Linguistik* 55(1)."
+- type: article
+  status: submitted
+  peer_reviewed: true
+  authors: [Knuchel, Daniel, Kaltenbach, Luca, Strietholt, Sophia]
+  title: "Humanizing AI: Authorship and Agency Negotiation in Learners’ Writing with ChatGPT"
+  in: "In: Language Learning Strategies in the Age of Artificial Intelligence. Special issue of *System*."
+- type: article
+  status: submitted
+  peer_reviewed: true
+  authors: [Strietholt, Sophia, Knuchel, Daniel, Kaltenbach, Luca]
+  title: "Same Tool, Different Ethics: Contextual Differences in Ethical Sense-Making around AI in Language Education"
+  in: "In: Dunlevy, Deirdre / Horáčková, Clare (Eds.): AI in Language Education. London: Bloomsbury Academic."
+- type: article
+  status: in_prep
+  authors: [Knuchel, Daniel]
+  title: "Prompting als postdigitale Kulturtechnik? Eine assemblagetheoretische Perspektive auf Schreiben"
+  in: "In: Donhauser-Buchmaier, Carolin / Führer, Carolin (Hrsg.): Prompten als postdigitale Kulturtechnik und Interaktionspraxis im Deutschunterricht."
+- type: article
+  status: in_prep
+  authors: [Knuchel, Daniel]
+  title: "Discourse Latency as a Semantic Concept: the Case of HIV|AIDS in Switzerland"
+  in: "Geplant für *Discourse, Context & Media*."
