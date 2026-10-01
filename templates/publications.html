@@ -8,12 +8,14 @@
   <h2 id="{{ key }}">{{ label }}</h2>
   <ol class="pubs">
     {% for p in items %}
-    <li>
-      {{ p.authors | join(' / ') }} ({{ p.year if not p.status else t.status[p.status] }}): <span class="title">{{ p.title | md_inline | safe }}</span>{% if p.peer_reviewed %}<sup>*</sup>{% endif %}.
+    <li{% if not p.cover %} class="no-cover"{% endif %}>
+      {% if p.cover %}<img class="cover" src="/static/img/covers/{{ p.cover }}" alt="" loading="lazy">{% endif %}
+      <span>{{ p.authors | join(' / ') }} ({{ p.year if not p.status else t.status[p.status] }}): <span class="title">{{ p.title | md_inline | safe }}</span>{% if p.peer_reviewed %}<sup>*</sup>{% endif %}.
       {% if p.in %} {{ p.in | md_inline | safe }}{% endif %}
       {% if p.doi %} <a class="doi" href="https://doi.org/{{ p.doi }}">{{ t.doi }}</a>{% endif %}
       {% if p.url %} <a class="doi" href="{{ p.url }}">Link</a>{% endif %}
       {% if p.pdf %} <a class="doi" href="{{ p.pdf }}">{{ t.pdf }}</a>{% endif %}
+      </span>
     </li>
     {% endfor %}
   </ol>

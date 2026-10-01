@@ -15,9 +15,9 @@ Ich arbeite mit grossen, meist selbst aufgebauten Datensammlungen und verbinde q
 
 In meiner Dissertation habe ich untersucht, wie HIV/AIDS in der Deutschschweiz sprachlich konzeptualisiert wird, seit die Infektion behandelbar ist und aus der öffentlichen Aufmerksamkeit verschwunden scheint. Daraus ist das Konzept der *Diskurslatenz* entstanden: eine Antwort auf die Frage, was mit Diskursen geschieht, wenn das öffentliche Interesse schwindet. Die Monographie dazu ist in Vorbereitung. Weitere Arbeiten gelten der Wikipedia, Verschwörungstheorien, der Protestkommunikation der 1980er-Jahre und der sprachlichen Konstruktion von Sexualität.
 
-## Schreiben mit generativer KI {#schreibkulturen}
+## Postdigitale Schreibkulturen {#schreibkulturen}
 
-In meinem Habilitationsprojekt untersuche ich, wie generative KI Schreibpraktiken, Schreibprodukte und Vorstellungen vom Schreiben verändert, vor allem im schulischen und akademischen Schreiben. Ich lese das nicht als Bruch, sondern als Zuspitzung von Entwicklungen, die im digitalen Schreiben bereits angelegt sind. Ein Teil der Daten stammt aus partizipativen Projekten mit Schulen, in denen Schüler:innen und Lehrpersonen mitforschen.
+Postdigital nenne ich Schreibkulturen, in denen digitale Werkzeuge und generative KI keine Ausnahme mehr sind, sondern Teil der Schreibumgebung. In meinem Habilitationsprojekt untersuche ich, wie sich darin Schreibpraktiken, Schreibprodukte und Vorstellungen vom Schreiben verändern, vor allem im schulischen und akademischen Schreiben. Ich lese das nicht als Bruch, sondern als Zuspitzung von Entwicklungen, die im digitalen Schreiben bereits angelegt sind. Ein Teil der Daten stammt aus partizipativen Projekten mit Schulen, in denen Schüler:innen und Lehrpersonen mitforschen.
 
 ## Projekte
 

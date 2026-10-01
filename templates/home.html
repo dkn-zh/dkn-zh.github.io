@@ -8,7 +8,8 @@
   "givenName": "Daniel",
   "familyName": "Knuchel",
   "honorificPrefix": "Dr.",
-  "jobTitle": "{{ cfg.jobtitle[lang] }}",
+  "jobTitle": "{{ cfg.role[lang] }}",
+  "description": "{{ cfg.jobtitle[lang] }}",
   "affiliation": {"@type": "Organization", "name": "Universität Zürich, Deutsches Seminar", "url": "https://www.ds.uzh.ch"},
   "email": "mailto:{{ cfg.email }}",
   "image": "{{ cfg.url }}/static/img/daniel-knuchel.jpg",
@@ -20,7 +21,6 @@
 {% endblock %}
 {% block content %}
 <section class="hero">
-  <img class="portrait" src="/static/img/daniel-knuchel.jpg" width="500" height="500" alt="{{ page.portrait_alt }}">
   <div class="hero-text">
     <p class="eyebrow">{{ cfg.jobtitle[lang] }}</p>
     <h1>{{ cfg.name }}</h1>
@@ -30,11 +30,13 @@
       <a href="mailto:{{ cfg.email }}">E-Mail</a>
     </p>
   </div>
+  <img class="portrait" src="/static/img/daniel-knuchel.jpg" width="500" height="500" alt="{{ page.portrait_alt }}">
 </section>
 
 <section class="pillars" aria-label="{{ page.pillars_label }}">
   {% for p in page.pillars %}
   <a class="pillar" href="{{ p.href }}">
+    <span class="num">{{ '%02d' % loop.index }}</span>
     <h2>{{ p.title }}</h2>
     <p>{{ p.text }}</p>
   </a>

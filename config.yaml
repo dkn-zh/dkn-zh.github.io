@@ -11,7 +11,12 @@ tagline:
   de: Sprachwissenschaftler an der Universität Zürich. Korpuspragmatik, digitale Linguistik, Diskurs- und Soziolinguistik des Gegenwartsdeutschen.
   en: Linguist at the University of Zurich. Corpus pragmatics, digital linguistics, discourse and sociolinguistics of contemporary German.
 
+# Anzeige auf der Startseite (Positionierung als Person)
 jobtitle:
+  de: Sprach- und Kulturwissenschaftler
+  en: Linguist and cultural scholar
+# Berufliche Rolle, nur für das maschinenlesbare Personen-Markup
+role:
   de: Oberassistent für Deutsche Sprachwissenschaft, Universität Zürich
   en: Senior Teaching and Research Fellow in German Linguistics, University of Zurich
 

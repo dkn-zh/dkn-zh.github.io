@@ -15,9 +15,9 @@ I work with large, mostly self-built data collections and combine quantitative p
 
 In my dissertation I examined how HIV/AIDS is conceptualised linguistically in German-speaking Switzerland since the infection became treatable and seemingly disappeared from public attention. This led to the concept of *discourse latency*: an answer to the question of what happens to discourses when public interest fades. The monograph is in preparation. Further work concerns Wikipedia, conspiracy theories, 1980s protest communication and the linguistic construction of sexuality.
 
-## Writing with generative AI {#writing-cultures}
+## Postdigital writing cultures {#writing-cultures}
 
-In my habilitation project I study how generative AI changes writing practices, texts and ideas about writing, above all in school and academic writing. I read this not as a rupture but as an intensification of developments already present in digital writing. Part of the data comes from participatory projects with schools in which students and teachers take part as co-researchers.
+I call writing cultures postdigital when digital tools and generative AI are no longer the exception but part of the writing environment. In my habilitation project I study how writing practices, texts and ideas about writing change within them, above all in school and academic writing. I read this not as a rupture but as an intensification of developments already present in digital writing. Part of the data comes from participatory projects with schools in which students and teachers take part as co-researchers.
 
 ## Projects
 

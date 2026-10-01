@@ -5,7 +5,7 @@ nav: 1
 template: home
 alt: ""
 description: "Daniel Knuchel, linguist at the University of Zurich. Corpus pragmatics, digital linguistics, discourse and sociolinguistics, writing with generative AI."
-lead: "Using corpus-pragmatic and digital methods, I study how knowledge, identity and communicative norms emerge in language use, from the discourse on HIV/AIDS to writing with generative AI."
+lead: "Using corpus-pragmatic and digital methods, I study how knowledge, identity and communicative norms emerge in language use, from the discourse on HIV/AIDS to postdigital writing cultures."
 portrait_alt: Portrait of Daniel Knuchel
 pillars_label: Research areas
 pillars:
@@ -15,8 +15,8 @@ pillars:
   - title: Discourse, knowledge, society
     text: How discourses order knowledge even when public attention fades. Discourse latency, with HIV/AIDS as the test case.
     href: /en/research/#discourse
-  - title: Writing with generative AI
-    text: How writing practices, texts and ideas about writing change when language models co-write.
+  - title: Postdigital writing cultures
+    text: How writing practices, texts and ideas about writing change when digital tools and language models are part of the writing environment.
     href: /en/research/#writing-cultures
   - title: Teaching and outreach
     text: Research-based learning, the ZuKoKo summer school, citizen science with schools, teacher training on AI and writing.

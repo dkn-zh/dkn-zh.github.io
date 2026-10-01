@@ -5,7 +5,7 @@ nav: 1
 template: home
 alt: ""
 description: "Daniel Knuchel, Sprachwissenschaftler an der Universität Zürich. Korpuspragmatik, digitale Linguistik, Diskurs- und Soziolinguistik, Schreiben mit generativer KI."
-lead: "Ich untersuche mit korpuspragmatischen und digitalen Methoden, wie im Sprachgebrauch Wissen, Identität und kommunikative Normen entstehen – vom Diskurs über HIV/AIDS bis zum Schreiben mit generativer KI."
+lead: "Ich untersuche mit korpuspragmatischen und digitalen Methoden, wie im Sprachgebrauch Wissen, Identität und kommunikative Normen entstehen – vom Diskurs über HIV/AIDS bis zu postdigitalen Schreibkulturen."
 portrait_alt: Porträt von Daniel Knuchel
 pillars_label: Forschungsschwerpunkte
 pillars:
@@ -15,8 +15,8 @@ pillars:
   - title: Diskurs, Wissen, Gesellschaft
     text: Wie Diskurse Wissen ordnen, auch wenn das öffentliche Interesse schwindet. Diskurslatenz am Beispiel HIV/AIDS.
     href: /forschung/#diskurs
-  - title: Schreiben mit generativer KI
-    text: Wie sich Schreibpraktiken, Texte und Vorstellungen vom Schreiben verändern, wenn Sprachmodelle mitschreiben.
+  - title: Postdigitale Schreibkulturen
+    text: Wie sich Schreibpraktiken, Texte und Vorstellungen vom Schreiben verändern, wenn digitale Werkzeuge und Sprachmodelle zur Schreibumgebung gehören.
     href: /forschung/#schreibkulturen
   - title: Lehre und Transfer
     text: Forschendes Lernen, die Sommerschule ZuKoKo, Citizen Science mit Schulen, Weiterbildungen zu KI und Schreiben.
