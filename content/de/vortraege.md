@@ -5,4 +5,4 @@ template: talks
 alt: talks
 description: Vorträge, Poster, Workshops, Tagungsorganisation und öffentliche Auftritte von Daniel Knuchel.
 ---
-Wissenschaftliche Vorträge, Poster, Workshops und Sommerschulkurse, organisierte Tagungen sowie öffentliche Vorträge und Medienbeiträge, jeweils nach Jahr.
+Vorträge, Poster, Workshops und öffentliche Auftritte der letzten Jahre sowie Tagungen und Workshops, die ich mitorganisiert habe. Eine vollständige Liste gibt es auf Anfrage.

@@ -21,14 +21,4 @@
 {% endfor %}
 <p class="muted small">{{ t.peer_reviewed }}</p>
 
-{% set wip = pubs | selectattr('status', 'in', ['submitted', 'in_prep']) | list %}
-{% if wip %}
-<h2 id="in-progress">{{ t.in_progress }}</h2>
-<p class="muted small">{{ t.in_progress_note }}</p>
-<ul class="pubs wip">
-  {% for p in wip %}
-  <li>{{ p.authors | join(' / ') }}: <span class="title">{{ p.title | md_inline | safe }}</span> <span class="badge">{{ t.status[p.status] }}</span></li>
-  {% endfor %}
-</ul>
-{% endif %}
 {% endblock %}

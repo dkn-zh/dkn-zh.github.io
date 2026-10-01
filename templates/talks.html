@@ -1,7 +1,7 @@
 {% extends "page.html" %}
 {% block after %}
 {% for key, label in t.talk_groups.items() %}
-  {% set items = data.talks | selectattr('kind', 'equalto', key) | sort(attribute='date', reverse=true) | list %}
+  {% set items = data.talks | selectattr('kind', 'equalto', key) | selectattr('date', 'ge', cfg.talks_since if key != 'organisation' else '0') | sort(attribute='date', reverse=true) | list %}
   {% if items %}
   <h2 id="{{ key }}">{{ label }}</h2>
   {% set ns = namespace(year=None) %}

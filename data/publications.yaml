@@ -6,14 +6,6 @@
 
 # --- Monographien ---
 - type: monograph
-  status: submitted
-  authors: [Knuchel, Daniel]
-  title: "Diskurslatenz: Korpuspragmatische Analysen zu HIV/AIDS in der Ära der Post-Infektiosität"
-- type: monograph
-  status: in_prep
-  authors: [Knuchel, Daniel, Bubenhofer, Noah]
-  title: "Korpuspragmatik. Eine Einführung in die digitale Analyse von Sprachgebrauchsdaten"
-- type: monograph
   year: 2024
   authors: [Knuchel, Daniel]
   title: "›HIV|AIDS‹ in der Ära der Post-Infektiosität. Korpuspragmatische Analysen zur sprachlichen Konzeptualisierung einer Infektionskrankheit"
@@ -158,33 +150,3 @@
   authors: [Knuchel, Daniel, Schüller, Larissa, Hottiger, Christoph]
   title: "Sprachgebrauch in der Deutschschweiz. Ergebnisse kulturhistorischer und -analytischer Linguistik"
   in: "Expertise zuhanden des Schweizerischen Nationalmuseums für die Ausstellung «Sprachenland Schweiz»."
-
-# --- In Arbeit (nur Titel sichtbar) ---
-- type: article
-  status: submitted
-  authors: [Knuchel, Daniel, Kaltenbach, Luca, Strietholt, Sophia]
-  title: "Humanizing AI: Authorship and Agency Negotiation in Learners’ Writing with ChatGPT"
-- type: article
-  status: submitted
-  authors: [Strietholt, Sophia, Knuchel, Daniel, Kaltenbach, Luca]
-  title: "Same Tool, Different Ethics: Contextual Differences in Ethical Sense-Making around AI in Language Education"
-- type: article
-  status: in_prep
-  authors: [Knuchel, Daniel]
-  title: "(Post-)Digitales Schreiben als Assemblage? Vom Mehrwert der Dezentrierung des Menschen in der Schreibforschung"
-- type: article
-  status: in_prep
-  authors: [Knuchel, Daniel]
-  title: "Between Tool and Actor: Discursive Constructions of Generative AI in Swiss German Discourse"
-- type: article
-  status: in_prep
-  authors: [Knuchel, Daniel]
-  title: "Spuren heterodoxen Wissens in der Wikipedia. Eine diachrone Analyse der deutschsprachigen Artikelwelt rund um HIV/AIDS"
-- type: article
-  status: in_prep
-  authors: [Knuchel, Daniel]
-  title: "Prompting als postdigitale Kulturtechnik? Eine assemblagetheoretische Perspektive auf Schreiben"
-- type: article
-  status: in_prep
-  authors: [Knuchel, Daniel]
-  title: "Discourse Latency as a Semantic Concept: the Case of HIV|AIDS in Switzerland"

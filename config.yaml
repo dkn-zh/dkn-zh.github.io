@@ -4,6 +4,8 @@ domain:                               # z. B. danielknuchel.ch -> erzeugt die CN
 languages: [de, en]                   # erste Sprache liegt auf /, zweite auf /en/
 email: daniel.knuchel@ds.uzh.ch
 orcid: 0000-0002-5226-0301
+talks_since: '2023'      # Vorträge, Poster, Kurse, Medien erst ab diesem Jahr anzeigen (Organisation immer)
+courses_since: '2019'    # Lehrveranstaltungen erst ab diesem Jahr anzeigen
 
 tagline:
   de: Sprachwissenschaftler an der Universität Zürich. Korpuspragmatik, digitale Linguistik, Diskurs- und Soziolinguistik des Gegenwartsdeutschen.
