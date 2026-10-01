@@ -58,6 +58,13 @@ institutions:
       - sem: FS 2024
         title: "Kulturanalytische Linguistik"
         format: BA-Seminar
+        summary: |
+          Ausgangspunkt ist die Prämisse, dass Kultur und Gesellschaft ohne Sprache und Kommunikation nicht denkbar sind. Im Zentrum steht die Interdependenz von Sprache und Kultur: Über die Analyse kommunikativer Praktiken sollen Einsichten in kulturelle Besonderheiten und Veränderungen gewonnen werden, etwa an musterhaftem Sprachgebrauch von der Kompositabildung bis zur Textsorte, an kommunikativen Gattungen, Personenbezeichnungen und Alltagserzählungen. Ein erster Block entwickelt einen kommunikationstheoretisch fundierten Sprachbegriff (Praktiken, Dialogizität, Perspektivität) und einen methodischen Zugang über Form, Funktion und Musterhaftigkeit; ein zweiter diskutiert anhand von Beispielstudien und Gastvorträgen Identität und Beziehungskonstitution sowie Medialität und Digitalität. Abschluss mit Fallanalysen in Gruppen.
+        readings:
+          - "Günthner, Susanne / Linke, Angelika (2006): Linguistik und Kulturanalyse – Ansichten eines symbiotischen Verhältnisses. *Zeitschrift für Germanistische Linguistik* 34(1/2), 1–27."
+          - "Schröter, Juliane / Tienken, Susanne / Ilg, Yvonne (2019): Linguistische Kulturanalyse. Eine Einführung. In: dies. et al. (Hg.): *Linguistische Kulturanalyse*. Berlin/Boston: De Gruyter, 1–27."
+          - "Linke, Angelika (2016): Einführung: Kommunikation und Kulturalität. In: Jäger, Ludwig et al. (Hg.): *Sprache – Kultur – Kommunikation*. Berlin/Boston: De Gruyter, 351–368."
+          - "Bubenhofer, Noah / Knuchel, Daniel / Schüller, Larissa (2022): Kulturlinguistik in der Schweiz – eine Einleitung. *Germanistik in der Schweiz* 18, 3–13."
       - sem: HS 2023
         title: "Sexualität(en) im Wandel: lexikalisch-semantische Perspektiven"
         format: Proseminar
@@ -84,7 +91,11 @@ institutions:
           - "Köhnlein, Stephan (2001): Linguistische Ansätze zur Beschreibung und Erklärung des Phänomens «Sexuelles Sprachtabu». In: Hoberg, Rudolf (Hg.): *Sprache – Erotik – Sexualität*. Berlin: Erich Schmidt, 82–99."
           - "Schimpf, Silke (2001): Sprache im Bereich der Sexualität – Versuch einer Einordnung. In: Hoberg, Rudolf (Hg.): *Sprache – Erotik – Sexualität*. Berlin: Erich Schmidt, 62–81."
           - "Nübling, Damaris (2017): Semantischer Wandel. In: Nübling et al.: *Historische Sprachwissenschaft des Deutschen*. Tübingen: Narr, 139–163."
-      - {sem: FS 2022, title: "Visuelle Linguistik: Sprache digital explorieren (Konzept, Co-Teaching mit Noah Bubenhofer)", format: MA-Seminar}
+      - sem: FS 2022
+        title: "Visuelle Linguistik: Sprache digital explorieren (Konzept, Co-Teaching mit Noah Bubenhofer)"
+        format: MA-Seminar
+        summary: |
+          Wissen über Sprache und Kommunikation wird nicht nur schriftlich vermittelt und konstruiert, sondern massgeblich auch über Bilder, Grafiken, Diagramme, 3D-Modellierungen, Virtual und Augmented Reality. Wer kulturlinguistisch arbeitet, muss das Zusammenspiel dieser Codes ernst nehmen. Das Seminar legt sprach- und zeichentheoretische Grundlagen für eine visuelle Linguistik, diskutiert Multimodalität, Transsemiotizität und Diagrammatik und analysiert in Gruppenarbeiten einzelne Visualisierungsformen.
       - {sem: FS 2021, title: "Spanische Grippe, AIDS, Corona: diskurslinguistische Perspektiven", format: BA-Seminar}
       - {sem: FS 2021, title: "Einführung in die Sprachwissenschaft des Deutschen: Neuere Sprachgeschichte", format: Proseminar}
       - {sem: FS 2020, title: "Einführung in die Sprachwissenschaft des Deutschen: Neuere Sprachgeschichte", format: Proseminar}

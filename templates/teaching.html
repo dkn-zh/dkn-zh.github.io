@@ -17,7 +17,7 @@
         {% if c.summary %}{{ c.summary | md | safe }}{% endif %}
         {% if c.readings %}
         <p class="readings-label">{{ t.readings }}</p>
-        <ul class="readings">{% for r in c.readings %}<li>{{ r | md_inline | safe }}</li>{% endfor %}</ul>
+        <ul class="readings">{% for r in c.readings[:3] %}<li>{{ r | md_inline | safe }}</li>{% endfor %}</ul>
         {% endif %}
       </div>
     </details>
