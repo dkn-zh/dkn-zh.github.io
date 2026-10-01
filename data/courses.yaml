@@ -96,7 +96,16 @@ institutions:
         format: MA-Seminar
         summary: |
           Wissen über Sprache und Kommunikation wird nicht nur schriftlich vermittelt und konstruiert, sondern massgeblich auch über Bilder, Grafiken, Diagramme, 3D-Modellierungen, Virtual und Augmented Reality. Wer kulturlinguistisch arbeitet, muss das Zusammenspiel dieser Codes ernst nehmen. Das Seminar legt sprach- und zeichentheoretische Grundlagen für eine visuelle Linguistik, diskutiert Multimodalität, Transsemiotizität und Diagrammatik und analysiert in Gruppenarbeiten einzelne Visualisierungsformen.
-      - {sem: FS 2021, title: "Spanische Grippe, AIDS, Corona: diskurslinguistische Perspektiven", format: BA-Seminar}
+      - sem: FS 2021
+        title: "Spanische Grippe, AIDS, Corona: diskurslinguistische Perspektiven"
+        format: BA-Seminar
+        summary: |
+          Geschlossene Schulen, Versammlungsverbote, Abstandhalten: Was nach COVID-19 klingt, gehörte schon zum Massnahmenkatalog gegen die Spanische Grippe. Wissen über Krankheiten wird kommunikativ verhandelt und schlägt sich in Pressetexten und Präventionsmaterialien nieder, denen sich das Seminar diskurslinguistisch nähert. Nach einem theoretisch-methodologischen Block (Foucault, Busse/Teubert, Spitzmüller/Warnke) analysieren Projektgruppen Medientexte und Präventionsmaterial zu den drei Infektionskrankheiten, mit Archivbesuchen, Videobeiträgen und einem Abschlussworkshop mit Gästen.
+        readings:
+          - "Foucault, Michel (2014 [1974]): *Die Ordnung des Diskurses*. Frankfurt a. M.: Fischer, 7–49."
+          - "Busse, Dietrich / Teubert, Wolfgang (1994): Ist Diskurs ein sprachwissenschaftliches Objekt? In: Busse, Dietrich / Hermanns, Fritz / Teubert, Wolfgang (Hg.): *Begriffsgeschichte und Diskursgeschichte*. Opladen: Westdeutscher Verlag, 10–28."
+          - "Gardt, Andreas (2007): Diskursanalyse – Aktueller theoretischer Ort und methodische Möglichkeiten. In: Warnke, Ingo H. (Hg.): *Diskurslinguistik nach Foucault*. Berlin/New York: De Gruyter, 27–52."
+          - "Linke, Angelika (2005): Kulturelles Gedächtnis. Linguistische Perspektiven auf ein kulturwissenschaftliches Forschungsfeld. In: Busse, Dietrich / Niehr, Thomas / Wengeler, Martin (Hg.): *Brisante Semantik*. Tübingen: Niemeyer, 65–85."
       - {sem: FS 2021, title: "Einführung in die Sprachwissenschaft des Deutschen: Neuere Sprachgeschichte", format: Proseminar}
       - {sem: FS 2020, title: "Einführung in die Sprachwissenschaft des Deutschen: Neuere Sprachgeschichte", format: Proseminar}
       - {sem: FS 2020, title: "Einführung in die Sprachwissenschaft des Deutschen: Synchrone Linguistik", format: Proseminar}
@@ -201,8 +210,25 @@ institutions:
 
   - name: Universität Basel, Deutsches Seminar
     courses:
-      - {sem: HS 2023, title: "Korpuspragmatik: Akquise, Aufbereitung und Analyse von Medien- und Webdaten", format: MA-Forschungsseminar}
-      - {sem: HS 2019, title: "Sprachliche Konstruktion(en) des 20. Jahrhunderts", format: BA-Seminar}
+      - sem: HS 2023
+        title: "Korpuspragmatik: Akquise, Aufbereitung und Analyse von Medien- und Webdaten"
+        format: MA-Forschungsseminar
+        summary: |
+          Einführung in die Korpuspragmatik, um Sprachgebrauch in Gesellschaft, Kultur und Geschichte zu untersuchen. In eigenen kleinen Forschungsprojekten durchlaufen die Studierenden den ganzen Forschungsprozess: Daten per Crawling aus dem Web oder aus der Mediendatenbank Swissdox akquirieren, mit NLP-Tools aufbereiten, mit CQP und Python analysieren. Im Zentrum stehen korpuspragmatische Klassiker wie Keyness, Kollokationen und Konkordanzen und ihre statistische Modellierung, mit einem Ausblick auf Topic Modeling und Word Embeddings.
+        readings:
+          - "Bubenhofer, Noah (2009): *Sprachgebrauchsmuster. Korpuslinguistik als Methode der Diskurs- und Kulturanalyse*. Berlin/New York: De Gruyter, 43–53."
+          - "Bubenhofer, Noah (2017): Kollokationen, n-Gramme, Mehrworteinheiten. In: Roth, Kersten / Wengeler, Martin / Ziem, Alexander (Hg.): *Handbuch Sprache in Politik und Gesellschaft*. Berlin/Boston: De Gruyter, 69–93."
+          - "Bubenhofer, Noah (2018): Wenn «Linguistik» in «Korpuslinguistik» bedeutungslos wird. Vier Thesen zur Zukunft der Korpuslinguistik. In: *Korpuslinguistik* (= OBST 92), 17–30."
+          - "Barbaresi, Adrien (2021): Trafilatura: A Web Scraping Library and Command-Line Tool for Text Discovery and Extraction. *Proceedings of ACL-IJCNLP 2021: System Demonstrations*, 122–131."
+      - sem: HS 2019
+        title: "Sprachliche Konstruktion(en) des 20. Jahrhunderts"
+        format: BA-Seminar
+        summary: |
+          Einführung in die korpuslinguistische Diskursanalyse. Diskurse werden als kommunikative Netze verstanden, in denen Themen sprachlich konzeptualisiert und so Wirklichkeit konstituiert wird; ihre Analyse muss auch diachron ansetzen. Ein erster Teil reflektiert ausgehend von Foucault und Spitzmüller/Warnke die Grundannahmen, diskutiert Beispielstudien zu 1968 und zu Aids und beleuchtet das Zusammenspiel quantitativer und qualitativer Korpusarbeit. Im zweiten Teil erarbeiten Kleingruppen nach einer Einführung in Keywords, N-Gramme und Kollokationen diachrone Veränderungen ausgewählter Diskursobjekte des 20. Jahrhunderts.
+        readings:
+          - "Spitzmüller, Jürgen / Warnke, Ingo H. (2011): *Diskurslinguistik. Eine Einführung in Theorien und Methoden der transtextuellen Sprachanalyse*. Berlin/Boston: De Gruyter."
+          - "Foucault, Michel (1973): *Archäologie des Wissens*. Frankfurt a. M.: Suhrkamp."
+          - "Bubenhofer, Noah (2009): *Sprachgebrauchsmuster. Korpuslinguistik als Methode der Diskurs- und Kulturanalyse*. Berlin/New York: De Gruyter."
 
   - name: Universität Heidelberg, Germanistisches Seminar
     courses:
