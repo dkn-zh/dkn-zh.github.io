@@ -31,4 +31,4 @@ Reihenfolge bei neuen Publikationen: zuerst ORCID, dann hier, dann Institutsseit
 
 ## Veröffentlichen
 
-Repository `<github-name>.github.io`, Branch `main`. In den Repository-Einstellungen unter *Pages* die Quelle auf *GitHub Actions* stellen. Für die eigene Domain `domain:` in `config.yaml` setzen und beim Domain-Anbieter einen CNAME-Eintrag auf `<github-name>.github.io` anlegen.
+Repository `dkn-zh/dkn-zh.github.io`, Branch `main`. Der Workflow baut bei jedem Push und schreibt das Ergebnis in den Branch `gh-pages`, aus dem GitHub Pages ausliefert (Einstellung *Pages → Source: Deploy from a branch, gh-pages*). Für die eigene Domain `domain:` in `config.yaml` setzen und beim Domain-Anbieter einen CNAME-Eintrag auf `<github-name>.github.io` anlegen.

@@ -1,5 +1,5 @@
 name: Daniel Knuchel
-url: https://danielknuchel.ch        # wird für canonical, sitemap und hreflang verwendet
+url: https://dkn-zh.github.io        # wird für canonical, sitemap und hreflang verwendet; nach Aufschaltung der Domain anpassen
 domain:                               # z. B. danielknuchel.ch -> erzeugt die CNAME-Datei für GitHub Pages
 languages: [de, en]                   # erste Sprache liegt auf /, zweite auf /en/
 email: daniel.knuchel@ds.uzh.ch
@@ -31,7 +31,7 @@ links:
   - label: LinkedIn
     url:
   - label: GitHub
-    url:
+    url: https://github.com/dkn-zh
 
 strings:
   de:
