@@ -21,6 +21,19 @@
   </ol>
   {% endif %}
 {% endfor %}
+{% for key in ['in_press', 'accepted', 'submitted', 'in_prep'] %}
+  {% set items = pubs | selectattr('status', 'equalto', key) | list %}
+  {% if items %}
+  <h2 id="{{ key }}">{{ t.status[key][:1] | upper }}{{ t.status[key][1:] }}</h2>
+  <ol class="pubs">
+    {% for p in items %}
+    <li class="no-cover">
+      <span>{{ p.authors | join(' / ') }} ({{ t.status[key] }}): <span class="title">{{ p.title | md_inline | safe }}</span>{% if p.peer_reviewed %}<sup>*</sup>{% endif %}.
+      {% if p.in %} {{ p.in | md_inline | safe }}{% endif %}</span>
+    </li>
+    {% endfor %}
+  </ol>
+  {% endif %}
+{% endfor %}
 <p class="muted small">{{ t.peer_reviewed }}</p>
-
 {% endblock %}
