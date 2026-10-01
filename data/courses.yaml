@@ -1,9 +1,8 @@
 institutions:
   - name: Universität Zürich, Deutsches Seminar
     courses:
-      - {sem: FS 2027, title: "Hot Topics in Linguistics: LLMs and Linguistic Theory (mit Elisabeth Zima)", format: Seminar}
       - {sem: FS 2027, title: "Akademische Textkompetenzen in Zeiten von LLMs (mit Elisabeth Zima)", format: Seminar}
-      - {sem: HS 2025, title: "Linguistik und Posthumanismus", format: MA-Seminar}
+      - {sem: HS 2026, title: "Linguistik und Posthumanismus", format: MA-Seminar}
       - {sem: HS 2025, title: "Historische Pragmatik", format: MA-Seminar}
       - {sem: FS 2025, title: "Einführung Germanistische Linguistik B", format: Einführungskurs BA}
       - {sem: HS 2024, title: "Züri brännt: die 1980er-Jugendunruhen aus kommunikationsgeschichtlicher Perspektive", format: MA-Seminar}
