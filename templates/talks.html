@@ -1,0 +1,25 @@
+{% extends "page.html" %}
+{% block after %}
+{% for key, label in t.talk_groups.items() %}
+  {% set items = data.talks | selectattr('kind', 'equalto', key) | sort(attribute='date', reverse=true) | list %}
+  {% if items %}
+  <h2 id="{{ key }}">{{ label }}</h2>
+  {% set ns = namespace(year=None) %}
+  <ul class="talks">
+    {% for x in items %}
+      {% set y = x.date[:4] %}
+      {% if y != ns.year %}{% set ns.year = y %}<li class="year">{{ y }}</li>{% endif %}
+      <li>
+        <span class="date">{{ x.display or x.date }}</span>
+        <span class="talk">
+          <span class="title">{{ x.title | md_inline | safe }}</span>{% if x.with %} ({{ t.with }} {{ x.with }}){% endif %}.
+          {{ x.event | md_inline | safe }}{% if x.place %}, {{ x.place }}{% endif %}.
+          {% if x.invited %}<span class="badge">{{ t.invited }}</span>{% endif %}
+          {% if x.date > build_date.isoformat() %}<span class="badge">{{ t.upcoming }}</span>{% endif %}
+        </span>
+      </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+{% endfor %}
+{% endblock %}

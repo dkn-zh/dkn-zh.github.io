@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block head %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ cfg.name }}",
+  "givenName": "Daniel",
+  "familyName": "Knuchel",
+  "honorificPrefix": "Dr.",
+  "jobTitle": "{{ cfg.jobtitle[lang] }}",
+  "affiliation": {"@type": "Organization", "name": "Universität Zürich, Deutsches Seminar", "url": "https://www.ds.uzh.ch"},
+  "email": "mailto:{{ cfg.email }}",
+  "image": "{{ cfg.url }}/static/img/daniel-knuchel.jpg",
+  "url": "{{ cfg.url }}/",
+  "identifier": "https://orcid.org/{{ cfg.orcid }}",
+  "sameAs": [{% for l in cfg.links if l.url %}"{{ l.url }}"{{ ', ' if not loop.last }}{% endfor %}]
+}
+</script>
+{% endblock %}
+{% block content %}
+<section class="hero">
+  <img class="portrait" src="/static/img/daniel-knuchel.jpg" width="500" height="500" alt="{{ page.portrait_alt }}">
+  <div class="hero-text">
+    <p class="eyebrow">{{ cfg.jobtitle[lang] }}</p>
+    <h1>{{ cfg.name }}</h1>
+    <p class="lead">{{ page.lead }}</p>
+    <p class="links">
+      {% for l in cfg.links if l.url %}<a href="{{ l.url }}" rel="me">{{ l.label }}</a>{% endfor %}
+      <a href="mailto:{{ cfg.email }}">E-Mail</a>
+    </p>
+  </div>
+</section>
+
+<section class="pillars" aria-label="{{ page.pillars_label }}">
+  {% for p in page.pillars %}
+  <a class="pillar" href="{{ p.href }}">
+    <h2>{{ p.title }}</h2>
+    <p>{{ p.text }}</p>
+  </a>
+  {% endfor %}
+</section>
+
+<section class="prose home-body">
+  {{ page.html | safe }}
+</section>
+{% endblock %}

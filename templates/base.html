@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="{{ lang }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.slug %}{{ page.title }} · {% endif %}{{ cfg.name }}</title>
+<meta name="description" content="{{ page.description or cfg.tagline[lang] }}">
+<meta name="author" content="{{ cfg.name }}">
+<link rel="canonical" href="{{ cfg.url }}{{ page.url }}">
+<link rel="alternate" hreflang="{{ lang }}" href="{{ cfg.url }}{{ page.url }}">
+<link rel="alternate" hreflang="{{ page.alt_lang }}" href="{{ cfg.url }}{{ page.alt_url }}">
+<meta property="og:type" content="profile">
+<meta property="og:title" content="{% if page.slug %}{{ page.title }} · {% endif %}{{ cfg.name }}">
+<meta property="og:description" content="{{ page.description or cfg.tagline[lang] }}">
+<meta property="og:image" content="{{ cfg.url }}/static/img/daniel-knuchel.jpg">
+<meta property="og:url" content="{{ cfg.url }}{{ page.url }}">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="/static/img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/static/style.css">
+{% block head %}{% endblock %}
+</head>
+<body>
+<a class="skip" href="#main">{{ 'Zum Inhalt' if lang == 'de' else 'Skip to content' }}</a>
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="brand" href="{{ home_url }}">{{ cfg.name }}</a>
+    <nav aria-label="{{ t.nav_label }}">
+      <ul>
+        {% for n in nav %}
+        <li><a href="{{ n.url }}"{% if n.slug == page.slug %} aria-current="page"{% endif %}>{{ n.nav_title or n.title }}</a></li>
+        {% endfor %}
+        <li class="lang"><a href="{{ page.alt_url }}" lang="{{ t.switch_lang }}" hreflang="{{ t.switch_lang }}">{{ t.switch }}</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<main id="main" class="wrap">
+{% block content %}{% endblock %}
+</main>
+<footer class="site-footer">
+  <div class="wrap footer-row">
+    <p>© {{ build_date.year }} {{ cfg.name }} · {{ t.updated }}: {{ build_date.strftime('%m/%Y') }}</p>
+    <p>
+      {% for l in cfg.links if l.url %}<a href="{{ l.url }}" rel="me">{{ l.label }}</a>{{ ' · ' if not loop.last }}{% endfor %}
+      · <a href="{{ '/impressum/' if lang == 'de' else '/en/imprint/' }}">{{ t.imprint }}</a>
+    </p>
+  </div>
+</footer>
+</body>
+</html>

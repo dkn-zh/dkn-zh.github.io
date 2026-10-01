@@ -1,0 +1,19 @@
+{% extends "page.html" %}
+{% block after %}
+<h2 id="courses">{{ t.courses_title }}</h2>
+{% for inst in data.courses.institutions %}
+<h3>{{ inst.name }}</h3>
+<ul class="courses">
+  {% for c in inst.courses %}
+  <li><span class="sem">{{ c.sem }}</span> <span>{{ c.title }}{% if c.format %} <span class="muted">({{ c.format }})</span>{% endif %}</span></li>
+  {% endfor %}
+</ul>
+{% endfor %}
+
+<h2 id="trainings">{{ t.trainings_title }}</h2>
+<ul class="courses">
+  {% for c in data.courses.trainings %}
+  <li><span class="sem">{{ c.when }}</span> <span>{{ c.title }}{% if c.for %} <span class="muted">({{ c.for }})</span>{% endif %}</span></li>
+  {% endfor %}
+</ul>
+{% endblock %}

@@ -1,0 +1,423 @@
+# kind: talk | poster | course | organisation | outreach
+# date: ISO (für Sortierung), display: Anzeige. invited: true -> Badge.
+- kind: talk
+  date: 2027-02-17
+  display: Februar 2027
+  title: "Schreiben mit KI – neuer Gegenstand, alte Gewissheiten? Schreibideologien im Schweizer Bildungsdiskurs"
+  event: "Tagung *Transformation for the better? Sprachliche Un/Gleichheit im Spannungsfeld zwischen Wandel und Kontinuität*"
+  place: Universität zu Köln
+- kind: talk
+  date: 2027-01-20
+  display: 20.01.2027
+  title: "Was ist eine Schreibideologie? Textur, Text und Zurechnung im Schreiben mit generativer KI"
+  event: "Forschungskolloquium von Prof. Dr. Britta Schneider"
+  place: Universität Wien
+  invited: true
+- kind: talk
+  date: 2026-12-04
+  display: 04.12.2026
+  title: "Linguistik, Schule und KI"
+  event: "Germanistiktag 2026 *Germanistik und Schule*"
+  place: Universität Bern
+- kind: talk
+  date: 2026-11-20
+  display: 20.11.2026
+  title: "Schreibforschung und Citizen Science in der Schule"
+  event: "Gastvortrag im Seminar *Linguistics goes Citizen Science* (Y. Ilg)"
+  place: Universität Zürich
+  invited: true
+- kind: talk
+  date: 2026-09-21
+  display: 21.09.2026
+  title: "Prompten als postdigitale Kulturtechnik und Interaktionspraxis im Deutschunterricht"
+  event: "Symposion Deutschdidaktik 2026"
+  place: Universität Halle
+- kind: talk
+  date: 2026-04-16
+  display: 16.04.2026
+  title: "Humanizing Artificial Others: Relational Positioning and Metapragmatic Awareness in Student Writing with AI"
+  event: "Workshop *Social Encounters with Artificial Others*"
+  place: Universität Zürich
+- kind: talk
+  date: 2026-01-28
+  display: 28.01.2026
+  title: "Corpus Pragmatics and LLMs: Metaphor Detection as a Methodological Case Study and Its Implications for Language Theory"
+  event: "CL Group, auf Einladung von Prof. Dr. Katya Pertsova"
+  place: University of North Carolina at Chapel Hill
+  invited: true
+- kind: talk
+  date: 2026-01-28
+  display: 28.01.2026
+  title: "Discourse Latency: Conceptualizations of HIV|AIDS in the Era of Post-Infectiousness in German-speaking Switzerland"
+  event: "Department of German Studies, auf Einladung von Prof. Dr. Sophia Strietholt und Prof. Dr. Richard Langston"
+  place: University of North Carolina at Chapel Hill
+  invited: true
+- kind: talk
+  date: 2026-01-16
+  display: 16.01.2026
+  title: "Corpus-pragmatic Approaches to Discourse: Potentials and Problems"
+  event: "Department of Linguistics, auf Einladung von Prof. Dr. Brian Hsu"
+  place: University of North Carolina at Chapel Hill
+  invited: true
+- kind: talk
+  date: 2025-07-14
+  display: 14.07.2025
+  title: "Partizipation auf Augenhöhe? Zur Notwendigkeit neuer Formen der Materialaufbereitung in der partizipativen Schreibforschung mit Schüler:innen"
+  event: "Tagung *Sprachforschung und Citizen Science*"
+  place: Leibniz-Institut für Deutsche Sprache, Mannheim
+- kind: talk
+  date: 2025-03-19
+  display: 19.03.2025
+  title: "«Irrsinnig, da von Verschwörungstheorie zu reden» – die diskursive Aushandlung von alternativen Theorien zu HIV/AIDS in der Wikipedia"
+  event: "Konferenz *Sprachgebrauch in Verschwörungstheorien*"
+  place: Universität Kassel
+- kind: talk
+  date: 2024-06-06
+  display: 06.06.2024
+  title: "Vom öffentlichen zum digitalen Schauplatz. Diskursive Verschiebungen korpuspragmatisch aufspüren"
+  event: "Workshop *Sprachwandel im Deutsch der Gegenwart*"
+  place: Universität Mannheim
+- kind: talk
+  date: 2023-09-14
+  display: 14.09.2023
+  title: "Digitalität | Kultur | Sprache. Blinde Flecken der linguistischen Theoriebildung"
+  with: Noah Bubenhofer
+  event: "Eröffnungsvortrag der Konferenz *Digitalität | Sprache | Kultur*"
+  place: Universität Zürich
+- kind: talk
+  date: 2022-11-09
+  display: 09.11.2022
+  title: "Diskurs-Latenzen. Korpuspragmatische Studien zu ›HIV/AIDS‹"
+  event: "Gastvortrag in der Vorlesung Diskurslinguistik"
+  place: Universität Bern
+  invited: true
+- kind: talk
+  date: 2022-07-10
+  display: 10.07.2022
+  title: "Diskurslatenz: ein kulturell konstruktives Formationsprinzip?"
+  event: "Konferenz *Kulturell konstruktiv: Sprachtheoretische Perspektiven der Kulturlinguistik*"
+  place: Université de Genève
+- kind: talk
+  date: 2021-07-02
+  display: 02.07.2021
+  title: "Semantic Spaces and Demarcation within Swiss COVID-19 Discourses"
+  with: Noah Bubenhofer
+  event: "17th International Pragmatics Conference"
+  place: ZHAW Winterthur
+- kind: talk
+  date: 2021-02-19
+  display: 19.02.2021
+  title: "(A)politisches Argumentieren zu Corona: Transsemiotische Praktiken"
+  with: Noah Bubenhofer
+  event: "Online-Tagung *Politisches Argumentieren in der Schweiz*"
+  place: Université de Genève
+- kind: talk
+  date: 2020-11-24
+  display: 24.11.2020
+  title: "«…and even Mummy-in-Law was very enthusiastic» – A corpus pragmatic approach to evaluative patterns on a recipe webpage"
+  with: Noah Bubenhofer
+  event: "Online-Konferenz *Digital Practices*"
+  place: Universität Basel
+- kind: talk
+  date: 2020-03-03
+  display: 03.03.2020
+  title: "Machine-Learning hacken: Korpuspragmatische Methoden nach dem (Neural) Machine Learning Turn"
+  with: Noah Bubenhofer und Klaus Rothenhäusler
+  event: "Konferenz *Digitale Pragmatik*"
+  place: Universität Hamburg
+- kind: talk
+  date: 2020-02-14
+  display: 14.02.2020
+  title: "HIV/AIDS in der digitalen Gesundheitskommunikation – korpuslinguistische Analysen"
+  event: "VALS-ASLA 2020 *Die angewandte Linguistik im digitalen Zeitalter*"
+  place: Université de Neuchâtel
+- kind: talk
+  date: 2020-01-14
+  display: 14.01.2020
+  title: "Evaluative Language Use in Talking about Food and Recipes"
+  event: "Workshop *Words and Actions – Political Text Mining*"
+  place: University of Helsinki
+- kind: talk
+  date: 2019-03-28
+  display: 28.03.2019
+  title: "«Aids bekommt man nicht, man holt es sich» – Die Verhandlung von Schuld und Verantwortung in Postings zu HIV/AIDS in Webforen"
+  event: "Konferenz *Linguistik und Medizin*"
+  place: Universität Paderborn
+- kind: talk
+  date: 2018-09-13
+  display: 13.09.2018
+  title: "Rechtliche Aspekte bei der korpuslinguistischen Analyse digitaler Daten"
+  with: Janine Luth
+  event: "GAL-Panel *Öffentliche Diskurse in digitalen Medien*"
+  place: Universität Duisburg-Essen
+- kind: talk
+  date: 2018-01-23
+  display: 23.01.2018
+  title: "Flüchtig – Fragmentarisch – Historisierend: Thesen zu latenten Diskursen am Beispiel HIV/AIDS"
+  event: "Forschungswerkstatt"
+  place: Universität Heidelberg
+- kind: talk
+  date: 2017-12-01
+  display: 01.12.2017
+  title: "A multilayered corpus analysis of disease, illness and sickness in the BNC"
+  with: Stefania M. Maci, Réka R. Jablonkai, Marek Lukasik und Sophiko Daraselia
+  event: "CLAVIER Conference *Representing and Redefining Specialised Knowledge*"
+  place: Bari
+- kind: talk
+  date: 2016-12-20
+  display: 20.12.2016
+  title: "Kommunikation und (Nicht-)Wissen über HIV/AIDS"
+  event: "Forschungskolloquium Digital Philology"
+  place: TU Darmstadt
+- kind: talk
+  date: 2016-11-30
+  display: 30.11.2016
+  title: "Communication and (lack of) knowledge about HIV/AIDS in Wikipedia"
+  event: "Forschungskolloquium Communication Science"
+  place: Universität Zürich
+- kind: talk
+  date: 2016-10-04
+  display: 04.10.2016
+  title: "HIV/AIDS diskurslinguistisch – ein Promotionsprojekt"
+  event: "Workshop *Krankheiten, Depression, Zukunftsängste*"
+  place: Universität Trier
+- kind: talk
+  date: 2016-05-05
+  display: 05.05.2016
+  title: "Aufklärerische Diskurslinguistik. Eine Position zwischen Deskription und Kritik?"
+  event: "Nachwuchssymposium *Diskurs – interdisziplinär*"
+  place: Universität Mannheim
+- kind: talk
+  date: 2016-04-15
+  display: 15.04.2016
+  title: "Conceptualisations of HIV/AIDS in two German message boards"
+  with: Maria Becker
+  event: "Symposium *Language and Health Online*"
+  place: Universität Basel
+- kind: talk
+  date: 2016-01-28
+  display: 28.01.2016
+  title: "HIV/AIDS diskurslinguistisch: ein multimediales Korpus"
+  event: "Workshop *Digitale Daten in Sprach-, Geschichts-, Kunstwissenschaften*"
+  place: LMU München
+- kind: talk
+  date: 2015-07-08
+  display: 08.07.2015
+  title: "Old AIDS, New AIDS and ‘Normalisation’ in Der Spiegel"
+  event: "Konferenz ASSHH *Rhetoric and Reality*"
+  place: University of Stellenbosch
+- kind: talk
+  date: 2014-06-05
+  display: 05.06.2014
+  title: "eScribere. Fachintegrierte Schreibförderung"
+  event: "Konferenz *Berufliches Schreiben – Schreiben in Berufen*"
+  place: ZHAW Winterthur
+
+# --- Poster ---
+- kind: poster
+  date: 2025-03-12
+  display: 12.03.2025
+  title: "Diskurswandel korpuspragmatisch aufspüren – Potenziale und Grenzen unterschiedlicher Analyse- und Visualisierungstools"
+  with: Xenia Bojarski, Sonja Huber, Davide Ventre, Gunilla Kaibel und Maaike Kellenberger
+  event: "Methodenmesse der IDS-Jahrestagung *Deutsch im Wandel*"
+  place: Mannheim
+- kind: poster
+  date: 2018-07-25
+  display: 25.07.2018
+  title: "HIV/AIDS as a latent discourse"
+  event: "World AIDS Conference 2018"
+  place: Amsterdam
+- kind: poster
+  date: 2018-01-18
+  display: 18.01.2018
+  title: "Diskursarenen. Gedanken zum Begriff Öffentlichkeit aus diskurslinguistischer Perspektive"
+  event: "Workshop *Öffentlichkeit als Interaktion*"
+  place: Universität Zürich
+- kind: poster
+  date: 2015-08-05
+  display: 05.08.2015
+  title: "Communication and (lack of) knowledge about HIV/AIDS"
+  event: "6. European Summer University in Digital Humanities"
+  place: Universität Leipzig
+
+# --- Workshops und Sommerschulkurse ---
+- kind: course
+  date: 2026-09-01
+  display: 01.09.2026
+  title: "Schweizerische Parlamentsprotokolle: Datengrundlage und korpuspragmatische Analyse"
+  event: "Workshop für das Cluster Begriffsgeschichte"
+  place: Université de Genève
+- kind: course
+  date: 2026-01-20
+  display: 20.01.2026
+  title: "Datenphilologie und Diagrammatik: Operationen des Lesens in den Digital Humanities"
+  event: "Workshop für Graduate Students"
+  place: University of North Carolina at Chapel Hill
+- kind: course
+  date: 2025-08-29
+  display: 25.–29.08.2025
+  title: "Grundlagen der Korpuspragmatik, Korpusanalysen mit Python (Keyness, Kollokationen, Word Embeddings), Korpuspragmatik der Zukunft"
+  event: "Kurse an der ZuKoKo-Sommerschule *Zürcher Korpuslinguistik und Korpuspragmatik*"
+  place: Universität Zürich
+- kind: course
+  date: 2023-08-01
+  display: Sommer 2023
+  title: "Korpuspragmatische Klassiker, eigene Ressourcen, Grundlagen der Zürcher Korpuslinguistik und Korpuspragmatik"
+  event: "Kurse an der ZuKoKo-Sommerschule"
+  place: Universität Zürich
+- kind: course
+  date: 2017-09-01
+  display: 2017
+  title: "Unsicherheiten beim Beschreiben des Gesund-/Krankseins"
+  with: Carolin Schwegler
+  event: "Workshop an der ESZ-Sommerschule *Artikulation des Unsicheren*"
+  place: Universität Heidelberg
+- kind: course
+  date: 2017-03-01
+  display: 2017
+  title: "Vom Lesen zum Schreiben – Zentrale Schritte hin zur Seminar-/Abschlussarbeit"
+  event: "Schreibworkshop an der Langen Schreibnacht"
+  place: Universität Zürich
+
+# --- Organisation ---
+- kind: organisation
+  date: 2027-11-17
+  display: 17.–19.11.2027
+  title: "Tagung *Neue Perspektiven auf Johanna Spyri: Texte und Kontexte*"
+  with: Elias Zimmermann, Christine Lötscher und Sabine Schneider
+  event: "Universität Zürich"
+- kind: organisation
+  date: 2027-03-10
+  display: 10.–11.03.2027
+  title: "Internationaler Workshop *Doing Multilingualism with Generative AI: Recentering the Users*"
+  with: Naomi Truan (Leiden)
+  event: "Universität Zürich"
+- kind: organisation
+  date: 2024-09-02
+  display: 02.–03.09.2024
+  title: "Vierte KuLi-Netzwerk-Konferenz *Kulturlinguistik und Soziolinguistik: Wahlverwandtschaft oder Teil eines Ganzen?*"
+  with: Larissa Schüller, Noah Bubenhofer, Susanne Tienken, Stefan Hauser und Livia Sutter
+  event: "Universität Zürich"
+- kind: organisation
+  date: 2023-09-14
+  display: 14.–15.09.2023
+  title: "Tagung *Digitalität | Sprache | Kultur. Theoretische Modellierung und empirische Zugänge*"
+  with: Noah Bubenhofer
+  event: "Universität Zürich"
+- kind: organisation
+  date: 2021-08-16
+  display: 16.08.2021
+  title: "Symposium *Experiencing Illness and Disease. Putting Perceptions and Emotions into Language*"
+  with: Carolin Schwegler
+  event: "Panel am AILA-Weltkongress"
+  place: Groningen
+- kind: organisation
+  date: 2020-11-23
+  display: 23.–25.11.2020
+  title: "Konferenz *Digital Practices. Reading, Writing and Evaluation on the Web*"
+  with: dem Digital-Lives-Cluster Social Web Basel/Zürich
+  event: "Universität Basel"
+- kind: organisation
+  date: 2018-10-04
+  display: 04.–05.10.2018
+  title: "SuW-Jahrestagung *Sprache und Angst. Interdisziplinäre und linguistische Perspektiven*"
+  with: Janine Luth, Jürgen Spitzmüller, Jochen Bär und Gerd Antos
+  event: "Heidelberger Akademie der Wissenschaften"
+- kind: organisation
+  date: 2019-11-21
+  display: 21.–22.11.2019
+  title: "Workshop *Analyse von Bewertungspraktiken im Web. Perspektiven des Textminings, der Korpuspragmatik und der digitalen Literaturwissenschaft*"
+  with: Noah Bubenhofer
+  event: "Universität Zürich"
+- kind: organisation
+  date: 2018-10-19
+  display: 19.10.2018
+  title: "Workshop *Konzeptualisierungen im Diskurs. Was kann man mit linguistisch grundierten Ergebnissen kulturanalytisch anfangen?*"
+  with: Patricia Scheuer
+  event: "Universität Zürich"
+- kind: organisation
+  date: 2014-06-12
+  display: 12.06.2014
+  title: "Tagung *Wissenschaftliches Schreiben lehren müssen?*"
+  event: "Universität Zürich"
+
+# --- Öffentliche Vorträge und Medien ---
+- kind: outreach
+  date: 2025-06-21
+  display: 21.06.2025
+  title: "«Ich bin nicht dein Bro!»"
+  event: "Experteninterview, CH-Media-Mantelzeitung"
+- kind: outreach
+  date: 2025-05-19
+  display: 19.05.2025
+  title: "Wenn Worte die Demokratie zerstören. Die Rolle der Sprache bei der Verbreitung extremistischer Ideologien"
+  event: "Öffentliche Keynote am Palaver der Grünen Partei Schweiz"
+  place: Luzern
+- kind: outreach
+  date: 2024-12-04
+  display: 04.12.2024
+  title: "KI und Schreiben – aktuelle linguistische Perspektiven"
+  event: "Gastvortrag an der Spezialwoche *Digitalität und Sprache*, Realgymnasium Rämibühl"
+  place: Zürich
+- kind: outreach
+  date: 2024-06-21
+  display: 21.06.2024
+  title: "Textgenerierende KI – Kann ich? Soll ich? Muss ich? KI-Kompetenzen als Teil zukünftiger Kommunikationskompetenzen"
+  event: "Keynote am Jahresrapport der Schweizer Armee (KFK)"
+  place: Luzern
+- kind: outreach
+  date: 2024-01-25
+  display: 25.01.2024
+  title: "Über die allmähliche Verfertigung der Gedanken mit KI: Schreiben und Schreibaufgaben im Studium"
+  with: Lukas Loeffel
+  event: "Universitätstag *KI im Schulalltag und Studium*, ETH Zürich und Universität Zürich"
+- kind: outreach
+  date: 2023-03-02
+  display: 02.03.2023
+  title: "«Huere geil – jetzt spricht SRF-Kälin»"
+  event: "Experteneinschätzung, 20 Minuten"
+- kind: outreach
+  date: 2022-07-25
+  display: 25.–28.07.2022
+  title: "FAIRY TALKS"
+  event: "Performance an der Kunstinstallation *can you sense THE FRICTION*, Zentralwäscherei"
+  place: Zürich
+- kind: outreach
+  date: 2021-09-04
+  display: 04.–05.09.2021
+  title: "Fräulein vom Amt: Kommunikationsgeschichte in VR erforschen"
+  event: "Ausstellungsstand am Wissenschaftsfestival Scientifica, ETH Zürich"
+- kind: outreach
+  date: 2021-05-16
+  display: 16.05.2021
+  title: "Covidiot, Coronials und Geistermeister – Kennen Sie die neuen Worte aus dem deutschen Coronalexikon?"
+  event: "Experteninterview, AZ-Medien"
+- kind: outreach
+  date: 2019-11-01
+  display: 01.11.2019
+  title: "Wer frisst, isst nicht: von der sprachlichen Grenzziehung zwischen Tier und Mensch gestern und heute"
+  event: "Keynote am Kunstsymposium *Tyger, Tyger Burning Bright II*, Helmhaus"
+  place: Zürich
+- kind: outreach
+  date: 2018-10-04
+  display: 04.10.2018
+  title: "Die fürchterlichen Tage des schrecklichen Grauens – Literatur, Gesellschaft, Angst"
+  event: "Moderation von Lesung und Podium mit Roman Ehrlich"
+  place: Heidelberg
+- kind: outreach
+  date: 2017-05-11
+  display: 11.05.2017
+  title: "Skandalöse Kids? Einführende Bemerkungen und historische Kontextualisierung"
+  event: "Einführungsvortrag an der Filmreihe *Royal Scandal-Cinema*"
+  place: Baden
+- kind: outreach
+  date: 2016-08-06
+  display: 06.08.–14.09.2016
+  title: "Promiskuität ist der Motor der Seuche – Filmhistorische Betrachtungen zu HIV/AIDS"
+  event: "Kuration einer Filmreihe mit Einführungsvortrag *30 Jahre HIV/AIDS im Film*, Karlstorkino"
+  place: Heidelberg
+- kind: outreach
+  date: 2014-05-27
+  display: 27.05.2014
+  title: "Mathematikbücher sind nicht frei von Geschlechts-Stereotypen"
+  event: "Experteninterview, SRF 4 News aktuell"

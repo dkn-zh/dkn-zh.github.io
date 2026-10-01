@@ -1,0 +1,34 @@
+{% extends "page.html" %}
+{% block after %}
+{% set pubs = data.publications %}
+{% set done = pubs | rejectattr('status', 'in', ['submitted', 'in_prep']) | list %}
+{% for key, label in t.pub_groups.items() %}
+  {% set items = done | selectattr('type', 'equalto', key) | list %}
+  {% if items %}
+  <h2 id="{{ key }}">{{ label }}</h2>
+  <ol class="pubs">
+    {% for p in items %}
+    <li>
+      {{ p.authors | join(' / ') }} ({{ p.year if not p.status else t.status[p.status] }}): <span class="title">{{ p.title | md_inline | safe }}</span>{% if p.peer_reviewed %}<sup>*</sup>{% endif %}.
+      {% if p.in %} {{ p.in | md_inline | safe }}{% endif %}
+      {% if p.doi %} <a class="doi" href="https://doi.org/{{ p.doi }}">{{ t.doi }}</a>{% endif %}
+      {% if p.url %} <a class="doi" href="{{ p.url }}">Link</a>{% endif %}
+      {% if p.pdf %} <a class="doi" href="{{ p.pdf }}">{{ t.pdf }}</a>{% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+  {% endif %}
+{% endfor %}
+<p class="muted small">{{ t.peer_reviewed }}</p>
+
+{% set wip = pubs | selectattr('status', 'in', ['submitted', 'in_prep']) | list %}
+{% if wip %}
+<h2 id="in-progress">{{ t.in_progress }}</h2>
+<p class="muted small">{{ t.in_progress_note }}</p>
+<ul class="pubs wip">
+  {% for p in wip %}
+  <li>{{ p.authors | join(' / ') }}: <span class="title">{{ p.title | md_inline | safe }}</span> <span class="badge">{{ t.status[p.status] }}</span></li>
+  {% endfor %}
+</ul>
+{% endif %}
+{% endblock %}

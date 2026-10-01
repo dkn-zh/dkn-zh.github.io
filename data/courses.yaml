@@ -1,0 +1,65 @@
+institutions:
+  - name: Universität Zürich, Deutsches Seminar
+    courses:
+      - {sem: FS 2027, title: "Hot Topics in Linguistics: LLMs and Linguistic Theory (mit Elisabeth Zima)", format: Seminar}
+      - {sem: FS 2027, title: "Akademische Textkompetenzen in Zeiten von LLMs (mit Elisabeth Zima)", format: Seminar}
+      - {sem: HS 2025, title: "Linguistik und Posthumanismus", format: MA-Seminar}
+      - {sem: HS 2025, title: "Historische Pragmatik", format: MA-Seminar}
+      - {sem: FS 2025, title: "Einführung Germanistische Linguistik B", format: Einführungskurs BA}
+      - {sem: HS 2024, title: "Züri brännt: die 1980er-Jugendunruhen aus kommunikationsgeschichtlicher Perspektive", format: MA-Seminar}
+      - {sem: FS 2024, title: "Kulturanalytische Linguistik", format: BA-Seminar}
+      - {sem: HS 2023, title: "Sexualität(en) im Wandel: lexikalisch-semantische Perspektiven", format: Proseminar}
+      - {sem: FS 2023, title: "Einführung Germanistische Linguistik B", format: Einführungskurs BA}
+      - {sem: HS 2022, title: "Sexualität(en) im Wandel: lexikalisch-semantische Perspektiven", format: Proseminar}
+      - {sem: FS 2022, title: "Visuelle Linguistik: Sprache digital explorieren (Konzept, Co-Teaching mit Noah Bubenhofer)", format: MA-Seminar}
+      - {sem: FS 2021, title: "Spanische Grippe, AIDS, Corona: diskurslinguistische Perspektiven", format: BA-Seminar}
+      - {sem: FS 2020, title: "Einführung in die Sprachwissenschaft des Deutschen: Neuere Sprachgeschichte", format: Proseminar}
+      - {sem: FS 2020, title: "Einführung in die Sprachwissenschaft des Deutschen: Synchrone Linguistik", format: Proseminar}
+      - {sem: HS 2017–2019, title: "Basismodul Linguistik diachron: Neuere Sprachgeschichte", format: Proseminar, jährlich}
+      - {sem: HS 2015, title: "Praktische Rhetorik", format: Übung}
+      - {sem: FS 2015, title: "Basismodul Linguistik synchron", format: Proseminar}
+      - {sem: HS 2014, title: "Wissenschaftliches Schreiben", format: Übung}
+  - name: Université de Genève, Département de langue et de littérature allemandes
+    courses:
+      - {sem: FS 2026, title: "Textkommunikation", format: Seminar}
+      - {sem: FS 2026, title: "Diskurslinguistik", format: Vorlesung}
+      - {sem: HS 2025, title: "Deutsche Sprachgeschichte", format: Vorlesung}
+      - {sem: HS 2025, title: "Helfende Interaktion", format: Seminar}
+      - {sem: FS 2025, title: "Let’s talk about sex: linguistische Perspektiven auf einen tabuisierten Gegenstand", format: Seminar}
+      - {sem: FS 2025, title: "Digitale Schreibkulturen", format: Seminar}
+      - {sem: HS 2024, title: "Protestkommunikation gestern und heute", format: Seminar}
+      - {sem: HS 2024, title: "Korpuslinguistik", format: Vorlesung mit Übung}
+      - {sem: FS 2024, title: "Fakten aus linguistischer Sicht", format: Vorlesung}
+      - {sem: FS 2024, title: "Angewandte Linguistik", format: Seminar}
+  - name: Universität Basel, Deutsches Seminar
+    courses:
+      - {sem: HS 2023, title: "Korpuspragmatik: Akquise, Aufbereitung und Analyse von Medien- und Webdaten", format: MA-Forschungsseminar}
+      - {sem: HS 2019, title: "Sprachliche Konstruktion(en) des 20. Jahrhunderts", format: BA-Seminar}
+  - name: Universität Heidelberg, Germanistisches Seminar
+    courses:
+      - {sem: WiSe 2016/17, title: "Deutsch als plurizentrische Sprache", format: Seminar BA/MA}
+      - {sem: SoSe 2016, title: "Schreibforschung", format: Seminar BA/MA}
+      - {sem: SoSe 2016, title: "Korpusarbeit für Diskurslinguistik (mit Katharina Jacob)", format: Übung}
+      - {sem: SoSe 2016, title: "Forschungsorientierte Diskurslinguistik (mit Ekkehard Felder und Katharina Jacob)", format: MA-Seminar}
+  - name: ZHAW, School of Applied Linguistics und School of Management and Law
+    courses:
+      - {sem: FS 2015, title: "Sprache im Beruf 2: Mündlichkeit", format: Übung Elektrotechnik}
+      - {sem: FS 2015, title: "Schreibcoaching Bachelorarbeit", format: School of Management and Law}
+      - {sem: HS 2014, title: "Sprache im Beruf 3: Wissenschaftlichkeit", format: Übung Elektrotechnik}
+      - {sem: HS 2014, title: "Sprache im Beruf 1: Schriftlichkeit", format: Übung Elektrotechnik}
+  - name: Ss. Cyril and Methodius University, Skopje
+    courses:
+      - {sem: 2025/2026, title: "Korpuslinguistik (Gastdozentur, PhD-Workshops)", format: ""}
+
+trainings:
+  - {when: 2027, title: "Linguistisches Forschen im Unterricht (mit Benedikt Knobel)", for: Weiterbildungsprogramm des Deutschen Seminars UZH}
+  - {when: 09/2026, title: "Herausforderung Maturaarbeit: Schreibprozesse begleiten, bewerten und der Einfluss von KI", for: Weiterbildungsprogramm des Deutschen Seminars UZH}
+  - {when: 06/2026, title: "Textproduktion mit generativer KI: Theorie und Praxis", for: Zentralbibliothek Zürich}
+  - {when: 04/2026, title: "KI-basierte Schreibpraktiken – Potenziale, Grenzen und Anwendungen (mit Xenia Bojarski)", for: Weiterbildungsprogramm des Deutschen Seminars UZH}
+  - {when: 03/2026, title: "Postdigitale Schreibkulturen: Texten mit genKI im Deutschunterricht", for: Realgymnasium Rämibühl}
+  - {when: 2022/2024, title: "Digitale Schreibkulturen (mit Karina Frick)", for: Weiterbildungsprogramm des Deutschen Seminars UZH}
+  - {when: 11/2023, title: "Maturaarbeiten als Gelenk zwischen Gymnasium und Hochschule", for: Kantonsschule Hottingen}
+  - {when: 10/2023, title: "KI / Large Language Models und Hochschullehre (mit Noah Bubenhofer)", for: Departement Geschichte, Universität Basel}
+  - {when: 05/2023, title: "Maturaarbeiten und Selbständige Arbeiten: Schreiben und KI (mit Stefan Jörissen)", for: GymFMS Thun}
+  - {when: 2016–2022, title: "Herausforderung Maturaarbeit. Schreibprozesse konstruktiv begleiten und sinnvoll bewerten (mit Stefan Jörissen)", for: "Weiterbildungsprogramm des Deutschen Seminars UZH, mehrfach; Kantonsschule Wettingen 2021"}
+  - {when: 11/2018, title: "Praktische Rhetorik (mit Thorben Päthe)", for: Weiterbildungsprogramm des Deutschen Seminars UZH}

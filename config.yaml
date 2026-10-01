@@ -1,0 +1,101 @@
+name: Daniel Knuchel
+url: https://danielknuchel.ch        # wird für canonical, sitemap und hreflang verwendet
+domain:                               # z. B. danielknuchel.ch -> erzeugt die CNAME-Datei für GitHub Pages
+languages: [de, en]                   # erste Sprache liegt auf /, zweite auf /en/
+email: daniel.knuchel@ds.uzh.ch
+orcid: 0000-0002-5226-0301
+
+tagline:
+  de: Sprachwissenschaftler an der Universität Zürich. Korpuspragmatik, digitale Linguistik, Diskurs- und Soziolinguistik des Gegenwartsdeutschen.
+  en: Linguist at the University of Zurich. Corpus pragmatics, digital linguistics, discourse and sociolinguistics of contemporary German.
+
+jobtitle:
+  de: Oberassistent für Deutsche Sprachwissenschaft, Universität Zürich
+  en: Senior Teaching and Research Fellow in German Linguistics, University of Zurich
+
+# Profile. Leere URLs werden nicht angezeigt.
+links:
+  - label: ORCID
+    url: https://orcid.org/0000-0002-5226-0301
+  - label: Google Scholar
+    url:
+  - label: Universität Zürich
+    url: https://www.ds.uzh.ch/apps/cms/pfs/personen.php?detail=315
+  - label: LinkedIn
+    url:
+  - label: GitHub
+    url:
+
+strings:
+  de:
+    switch: English
+    switch_lang: en
+    nav_label: Hauptnavigation
+    updated: Stand
+    imprint: Impressum
+    contact: Kontakt
+    upcoming: bevorstehend
+    with: mit
+    doi: DOI
+    pdf: PDF
+    peer_reviewed: "* begutachtet (peer-reviewed)"
+    status:
+      in_press: im Druck
+      accepted: akzeptiert
+      submitted: eingereicht
+      in_prep: in Vorbereitung
+    pub_groups:
+      monograph: Monographien
+      edited: Herausgaben
+      article: Aufsätze und Buchkapitel
+      small: Rezensionen und kleinere Beiträge
+      report: Expertisen
+    in_progress: In Arbeit
+    in_progress_note: Eingereichte und in Vorbereitung befindliche Texte, nur Titel.
+    talk_groups:
+      talk: Wissenschaftliche Vorträge
+      poster: Poster
+      course: Workshops und Sommerschulkurse
+      organisation: Organisation von Tagungen und Workshops
+      outreach: Öffentliche Vorträge und Medien
+    invited: eingeladen
+    older: Frühere Jahre
+    courses_title: Lehrveranstaltungen
+    trainings_title: Weiterbildungen für Lehrpersonen
+    supervision_title: Betreuung
+  en:
+    switch: Deutsch
+    switch_lang: de
+    nav_label: Main navigation
+    updated: Last updated
+    imprint: Imprint
+    contact: Contact
+    upcoming: upcoming
+    with: with
+    doi: DOI
+    pdf: PDF
+    peer_reviewed: "* peer-reviewed"
+    status:
+      in_press: in press
+      accepted: accepted
+      submitted: submitted
+      in_prep: in preparation
+    pub_groups:
+      monograph: Monographs
+      edited: Edited volumes and special issues
+      article: Articles and book chapters
+      small: Reviews and shorter pieces
+      report: Expert reports
+    in_progress: Work in progress
+    in_progress_note: Submitted and forthcoming texts, titles only.
+    talk_groups:
+      talk: Conference and invited talks
+      poster: Posters
+      course: Workshops and summer school courses
+      organisation: Conference and workshop organisation
+      outreach: Public talks and media
+    invited: invited
+    older: Earlier years
+    courses_title: Courses taught
+    trainings_title: Teacher training
+    supervision_title: Supervision
