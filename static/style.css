@@ -82,7 +82,7 @@ main { padding: 4rem var(--space) 5rem; }
 /* Home */
 .hero { display: grid; grid-template-columns: 1fr 260px; gap: 2rem 4rem; align-items: start; margin-bottom: 4rem; }
 .hero-text { order: 1; }
-.portrait { order: 2; width: 260px; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 4px; filter: saturate(0.9); }
+.portrait { order: 2; width: 260px; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 4px; filter: saturate(0.8) contrast(0.95); }  /* leichter Filter; für reine Farbe diese Zeile auf 'filter: none;' setzen */
 .hero h1 { font-size: 3.2rem; font-weight: 500; letter-spacing: -0.03em; margin-bottom: 1.4rem; }
 .hero .lead { font-size: 1.3rem; }
 .hero .links { display: flex; flex-wrap: wrap; gap: 0.4rem 1.4rem; font-size: 0.9rem; margin: 0; }
