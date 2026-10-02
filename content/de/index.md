@@ -9,18 +9,15 @@ lead: "Ich untersuche mit korpuspragmatischen und digitalen Methoden, wie im Spr
 portrait_alt: Porträt von Daniel Knuchel
 pillars_label: Forschungsschwerpunkte
 pillars:
-  - title: Korpuspragmatik und digitale Methoden
-    text: Sprachgebrauchsmuster in grossen Datensammlungen, und die Frage, was die Werkzeuge dabei mit den Daten machen.
-    href: /forschung/#korpuspragmatik
   - title: Diskurs, Wissen, Gesellschaft
-    text: Wie Diskurse Wissen ordnen, auch wenn das öffentliche Interesse schwindet. Diskurslatenz am Beispiel HIV/AIDS.
+    text: Wie Gesellschaften über Krankheit, Sexualität oder Protest sprechen, und was dabei als Wissen gilt. Mit dem Konzept der Diskurslatenz frage ich, was mit einem Thema geschieht, wenn die Öffentlichkeit weiterzieht.
     href: /forschung/#diskurs
+  - title: Korpuspragmatik und digitale Methoden
+    text: Sprachgebrauchsmuster in Millionen von Texten, von der Kollokation bis zum Sprachmodell. Ich entwickle Verfahren und frage zugleich, was sie sichtbar machen und was nicht.
+    href: /forschung/#korpuspragmatik
   - title: Postdigitale Schreibkulturen
-    text: Wie sich Schreibpraktiken, Texte und Vorstellungen vom Schreiben verändern, wenn digitale Werkzeuge und Sprachmodelle zur Schreibumgebung gehören.
+    text: Schreiben, wenn Sprachmodelle mitschreiben, in Schule, Universität und Verwaltung. Was sich an Praktiken, Texten und Vorstellungen vom Schreiben verändert, erforsche ich gemeinsam mit Schüler:innen und Lehrpersonen.
     href: /forschung/#schreibkulturen
-  - title: Lehre und Transfer
-    text: Forschendes Lernen, die Sommerschule ZuKoKo, Citizen Science mit Schulen, Weiterbildungen zu KI und Schreiben.
-    href: /lehre/
 ---
 ## Aktuell
 
@@ -30,4 +27,4 @@ pillars:
 
 ## Kurz
 
-Ich bin Oberassistent am Lehrstuhl von Noah Bubenhofer am Deutschen Seminar der Universität Zürich. Promoviert habe ich 2023 in Zürich und Heidelberg mit einer korpuspragmatischen Arbeit zum Sprechen über HIV/AIDS. Gelehrt habe ich an den Universitäten Zürich, Basel, Genf, Heidelberg und Skopje. Mehr dazu im [Lebenslauf](/cv/).
+Ich bin Oberassistent am Lehrstuhl von Noah Bubenhofer am Deutschen Seminar der Universität Zürich. Promoviert habe ich 2023 in Zürich und Heidelberg mit einer korpuspragmatischen Arbeit zum Sprechen über HIV/AIDS. Gelehrt habe ich an den Universitäten Zürich, Basel, Genf, Heidelberg und Skopje, mehr dazu unter [Lehre](/lehre/). Der ganze Werdegang steht im [Lebenslauf](/cv/).
