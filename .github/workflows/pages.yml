@@ -4,6 +4,8 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    - cron: "0 5 * * 1"   # jeden Montag neu bauen, damit «Nächste Vorträge» aktuell bleibt
 
 permissions:
   contents: write

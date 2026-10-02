@@ -10,21 +10,25 @@ portrait_alt: Porträt von Daniel Knuchel
 pillars_label: Forschungsschwerpunkte
 pillars:
   - title: Diskurs, Wissen, Gesellschaft
-    text: Wie Gesellschaften über Krankheit, Sexualität oder Protest sprechen, und was dabei als Wissen gilt. Mit dem Konzept der Diskurslatenz frage ich, was mit einem Thema geschieht, wenn die Öffentlichkeit weiterzieht.
+    text: "Mich interessiert, wie in sprachlicher Praxis Wissen, Identität und kommunikative Normen entstehen und sich verschieben: wie eine Gesellschaft über HIV/AIDS, Sexualität oder Protest spricht, was dabei als Wissen gilt und was mit einem Thema geschieht, wenn das öffentliche Interesse schwindet."
     href: /forschung/#diskurs
-  - title: Korpuspragmatik und digitale Methoden
-    text: Sprachgebrauchsmuster in Millionen von Texten, von der Kollokation bis zum Sprachmodell. Ich entwickle Verfahren und frage zugleich, was sie sichtbar machen und was nicht.
-    href: /forschung/#korpuspragmatik
   - title: Postdigitale Schreibkulturen
-    text: Schreiben, wenn Sprachmodelle mitschreiben, in Schule, Universität und Verwaltung. Was sich an Praktiken, Texten und Vorstellungen vom Schreiben verändert, erforsche ich gemeinsam mit Schüler:innen und Lehrpersonen.
+    text: "Mich interessiert, wie sich Schreiben verändert, wenn digitale Werkzeuge und generative KI zur Schreibumgebung gehören: welche Praktiken entstehen, welche Texte, welche Vorstellungen von Autorschaft und Authentizität. In Schule, Universität und Verwaltung, oft gemeinsam mit den Schreibenden selbst."
     href: /forschung/#schreibkulturen
+  - title: Korpuspragmatik und digitale Methoden
+    text: "Um diesen Fragen nachzugehen, adaptiere ich digitale Methoden und entwickle sie weiter: von Keyness und Kollokationen über Word Embeddings bis zu multimodalen Korpora und Sprachmodellen. Jedes Verfahren prüfe ich darauf, welche Forschungslogik es in die Analyse einbringt."
+    href: /forschung/#korpuspragmatik
+news_label: Aktuell
+news:
+  - when: Januar 2027
+    text: Gastwissenschaftler am Critical AI Language and Literacy Lab der Universität Wien.
+  - when: Seit September 2026
+    text: Leitung des Zürcher Teilprojekts «Chatbots an der Schnittstelle von Sozialverwaltung und ihrem Publikum».
+  - when: 2026
+    text: "Aufsatz «Postdigitale Schreibkulturen im Kontext generativer KI» in der *Zeitschrift für Kulturlinguistik* 1. [Alle Publikationen](/publikationen/)"
+upcoming_label: Nächste Vorträge und Veranstaltungen
+upcoming_more: Alle Vorträge
 ---
-## Aktuell
-
-- **Januar 2027:** Gastwissenschaftler am Critical AI Language and Literacy Lab der Universität Wien.
-- **4. Dezember 2026:** Vortrag «Linguistik, Schule und KI» am Germanistiktag 2026 an der Universität Bern.
-- **2026:** Aufsatz «Postdigitale Schreibkulturen im Kontext generativer KI» in der *Zeitschrift für Kulturlinguistik* 1. [Alle Publikationen](/publikationen/)
-
 ## Kurz
 
 Ich bin Oberassistent am Lehrstuhl von Noah Bubenhofer am Deutschen Seminar der Universität Zürich. Promoviert habe ich 2023 in Zürich und Heidelberg mit einer korpuspragmatischen Arbeit zum Sprechen über HIV/AIDS. Gelehrt habe ich an den Universitäten Zürich, Basel, Genf, Heidelberg und Skopje, mehr dazu unter [Lehre](/lehre/). Der ganze Werdegang steht im [Lebenslauf](/cv/).

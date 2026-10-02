@@ -45,6 +45,29 @@
   </div>
 </section>
 
+<section class="news-wrap">
+  <div class="news-col">
+    <p class="section-label">{{ page.news_label }}</p>
+    <ul class="news">
+      {% for n in page.news %}
+      <li><span class="date">{{ n.when }}</span><span>{{ n.text | md_inline | safe }}</span></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% set upcoming = data.talks | selectattr('date', 'ge', build_date.isoformat()) | rejectattr('kind', 'equalto', 'course') | sort(attribute='date') | list %}
+  {% if upcoming %}
+  <div class="news-col">
+    <p class="section-label">{{ page.upcoming_label }}</p>
+    <ul class="news">
+      {% for x in upcoming[:4] %}
+      <li><span class="date">{{ x.display or x.date }}</span><span><span class="title">{{ x.title | md_inline | safe }}</span>. {{ x.event | md_inline | safe }}{% if x.place %}, {{ x.place }}{% endif %}.</span></li>
+      {% endfor %}
+    </ul>
+    <p class="small"><a href="{{ '/vortraege/' if lang == 'de' else '/en/talks/' }}">{{ page.upcoming_more }} →</a></p>
+  </div>
+  {% endif %}
+</section>
+
 <section class="prose home-body">
   {{ page.html | safe }}
 </section>

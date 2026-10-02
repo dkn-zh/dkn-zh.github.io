@@ -7,10 +7,6 @@ lead: "Meine Forschung liegt in der Korpuspragmatik und digitalen Linguistik sow
 ---
 Mich interessiert, wie in sprachlich-kommunikativer Praxis Wissen, Identität und kommunikative Normen hergestellt und verändert werden, und wie sich das unter digitalen Bedingungen beschreiben lässt. Digitalität verändert dabei beides: die Gegenstände der Sprachwissenschaft, von Webforen bis zur Interaktion mit Sprachmodellen, und die Verfahren, mit denen wir sie untersuchen.
 
-## Korpuspragmatik und digitale Methoden {#korpuspragmatik}
-
-Ich arbeite mit grossen, meist selbst aufgebauten Datensammlungen und verbinde quantitative Verfahren mit qualitativer Lektüre. Dabei frage ich immer auch, was ein Werkzeug mit den Daten macht und welche Befunde es erst hervorbringt. Aus dieser Haltung sind eigene Implementierungen korpuspragmatischer Verfahren und eine offene Toolbox für Analyse und Visualisierung entstanden. Aktuell beschäftigen mich multimodale Korpora, in denen Text und Bild zusammen gelesen werden müssen, und der Einsatz grosser Sprachmodelle als Analysewerkzeug.
-
 ## Diskurs, Wissen, Gesellschaft {#diskurs}
 
 In meiner Dissertation habe ich untersucht, wie HIV/AIDS in der Deutschschweiz sprachlich konzeptualisiert wird, seit die Infektion behandelbar ist und aus der öffentlichen Aufmerksamkeit verschwunden scheint. Daraus ist das Konzept der *Diskurslatenz* entstanden: eine Antwort auf die Frage, was mit Diskursen geschieht, wenn das öffentliche Interesse schwindet. Die Monographie dazu ist in Vorbereitung. Weitere Arbeiten gelten der Wikipedia, Verschwörungstheorien, der Protestkommunikation der 1980er-Jahre und der sprachlichen Konstruktion von Sexualität.
@@ -18,6 +14,10 @@ In meiner Dissertation habe ich untersucht, wie HIV/AIDS in der Deutschschweiz s
 ## Postdigitale Schreibkulturen {#schreibkulturen}
 
 Postdigital nenne ich Schreibkulturen, in denen digitale Werkzeuge und generative KI keine Ausnahme mehr sind, sondern Teil der Schreibumgebung. In meinem Habilitationsprojekt untersuche ich, wie sich darin Schreibpraktiken, Schreibprodukte und Vorstellungen vom Schreiben verändern, vor allem im schulischen und akademischen Schreiben. Ich lese das nicht als Bruch, sondern als Zuspitzung von Entwicklungen, die im digitalen Schreiben bereits angelegt sind. Ein Teil der Daten stammt aus partizipativen Projekten mit Schulen, in denen Schüler:innen und Lehrpersonen mitforschen.
+
+## Korpuspragmatik und digitale Methoden {#korpuspragmatik}
+
+Ich arbeite mit grossen, meist selbst aufgebauten Datensammlungen und verbinde quantitative Verfahren mit qualitativer Lektüre. Dabei frage ich immer auch, was ein Werkzeug mit den Daten macht und welche Befunde es erst hervorbringt. Aus dieser Haltung sind eigene Implementierungen korpuspragmatischer Verfahren und eine offene Toolbox für Analyse und Visualisierung entstanden. Aktuell beschäftigen mich multimodale Korpora, in denen Text und Bild zusammen gelesen werden müssen, und der Einsatz grosser Sprachmodelle als Analysewerkzeug.
 
 ## Projekte
 
