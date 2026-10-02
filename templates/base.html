@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{% if page.slug %}{{ page.title }} · {% endif %}{{ cfg.name }}</title>
+<title>{% if page.slug %}{{ page.title }} · {% endif %}{{ cfg.title_name }}</title>
 <meta name="description" content="{{ page.description or cfg.tagline[lang] }}">
 <meta name="author" content="{{ cfg.name }}">
 <link rel="canonical" href="{{ cfg.url }}{{ page.url }}">
@@ -16,8 +16,8 @@
 <meta property="og:url" content="{{ cfg.url }}{{ page.url }}">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/static/img/favicon.svg" type="image/svg+xml">
-<link rel="preload" href="/static/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/static/fonts/inter.css">
+<link rel="preload" href="/static/fonts/plex-400-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/static/fonts/plex.css">
 <link rel="stylesheet" href="/static/style.css">
 {% block head %}{% endblock %}
 </head>

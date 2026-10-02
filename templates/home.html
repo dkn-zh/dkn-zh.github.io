@@ -24,7 +24,7 @@
   <img class="portrait" src="/static/img/daniel-knuchel.jpg" width="1000" height="1250" alt="{{ page.portrait_alt }}">
   <div class="hero-text">
     <p class="eyebrow">{{ cfg.jobtitle[lang] }}</p>
-    <h1>{{ cfg.name }}</h1>
+    <h1>{{ cfg.title_name }}</h1>
     <p class="lead">{{ page.lead }}</p>
     <p class="links">
       {% for l in cfg.links if l.url %}<a href="{{ l.url }}" rel="me">{{ l.label }}</a>{% endfor %}

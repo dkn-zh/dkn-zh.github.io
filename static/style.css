@@ -7,10 +7,10 @@
   --text-2: #4a4a47;
   --muted: #7d7c77;
   --line: #e1dfda;
-  --accent: #2f4f66;        /* Blau: Links, Navigation, Hover */
-  --accent-2: #8a6a4a;      /* Braun: Zwischentitel, Nummern, Jahre */
+  --accent: #6e4f33;        /* Braun dunkel: Links, Navigation, Hover */
+  --accent-2: #8a6a4a;      /* Braun: Zwischentitel, Jahre, Labels */
   --tint: #f1ece4;          /* warme Fläche für Hintergründe */
-  --sans: "Inter", "Helvetica Neue", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  --sans: "IBM Plex Sans", "Helvetica Neue", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
   --measure: 44rem;
   --wide: 64rem;
   --space: 1.5rem;
@@ -23,7 +23,7 @@
     --text-2: #bdbbb4;
     --muted: #8c8a84;
     --line: #2b2b29;
-    --accent: #9cb6c4;
+    --accent: #d6b48f;
     --accent-2: #c7a47e;
     --tint: #1f1d1a;
   }
@@ -33,7 +33,6 @@
 html { font-size: 17px; -webkit-text-size-adjust: 100%; }
 body {
   margin: 0;
-  font-feature-settings: "cv11", "ss01";
   background: var(--bg);
   color: var(--text);
   font-family: var(--sans);
@@ -84,10 +83,10 @@ main { padding: 4rem var(--space) 5rem; }
 .prose hr { border: 0; border-top: 1px solid var(--line); margin: 2.5rem 0; }
 
 /* Home */
-.hero { display: grid; grid-template-columns: 260px 1fr; gap: 2rem 3.5rem; align-items: start; margin-bottom: 4rem; }
+.hero { display: grid; grid-template-columns: 300px 1fr; gap: 2rem 3.5rem; align-items: start; margin-bottom: 4rem; }
 .hero-text { order: 2; }
-.portrait { order: 1; width: 260px; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 4px; filter: saturate(0.92); }
-.hero h1 { font-size: 3.2rem; font-weight: 500; letter-spacing: -0.03em; margin-bottom: 1.4rem; }
+.portrait { order: 1; width: 300px; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 14px; filter: saturate(0.92); margin-top: 0.3rem; }
+.hero h1 { font-size: 2.8rem; font-weight: 600; letter-spacing: -0.02em; margin-bottom: 1.3rem; }
 .hero .lead { font-size: 1.3rem; }
 .hero .links { display: flex; flex-wrap: wrap; gap: 0.4rem 1.4rem; font-size: 0.9rem; margin: 0; }
 .hero .links a { color: var(--accent); text-decoration: none; }
@@ -95,10 +94,9 @@ main { padding: 4rem var(--space) 5rem; }
 .pillars-wrap { margin-bottom: 4rem; }
 .section-label { font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent-2); margin: 0 0 0.2rem; }
 .pillars { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0 2.5rem; border-top: 1px solid var(--line); }
-.pillar { display: block; padding: 1.3rem 0 1.6rem; border-bottom: 1px solid var(--line); text-decoration: none; transition: background .15s; }
+.pillar { display: block; padding: 1.3rem 0 1.2rem; text-decoration: none; }
 .pillar h2 { font-size: 1.1rem; font-weight: 500; text-transform: none; letter-spacing: -0.01em; color: var(--text); margin: 0 0 0.4rem; padding: 0; border: 0; }
 .pillar p { margin: 0; font-size: 0.93rem; color: var(--text-2); }
-.pillar:hover { background: var(--tint); }
 .pillar:hover h2 { color: var(--accent); }
 .home-body { max-width: var(--measure); }
 .home-body h2:first-child { margin-top: 0; }
@@ -153,7 +151,7 @@ details.course summary:hover { color: var(--accent); }
   main { padding-top: 2.5rem; }
   h1 { font-size: 2rem; }
   .hero { grid-template-columns: 1fr; gap: 1.6rem; }
-  .portrait { order: 0; width: 160px; }
+  .portrait { order: 0; width: 180px; }
   .hero-text { order: 2; }
   .hero h1 { font-size: 2.4rem; }
   .hero .lead { font-size: 1.15rem; }
