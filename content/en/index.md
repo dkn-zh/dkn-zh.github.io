@@ -5,7 +5,7 @@ nav: 1
 template: home
 alt: ""
 description: "Daniel Knuchel, linguist at the University of Zurich. Corpus pragmatics, digital linguistics, discourse and sociolinguistics, writing with generative AI."
-lead: "Using corpus-pragmatic and digital methods, I study how knowledge, identity and communicative norms emerge in language use, from the discourse on HIV/AIDS to postdigital writing cultures."
+lead: "I work on a linguistics for the digital present: usage-based, cultural-analytic and methodologically reflective. I understand language as a practice in which a society orders knowledge, marks belonging and negotiates norms. Computing and reading belong together for me, and every tool has to answer for what it makes visible and what it hides."
 portrait_alt: Portrait of Daniel Knuchel
 pillars_label: Research areas
 pillars:

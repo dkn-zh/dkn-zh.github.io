@@ -5,7 +5,7 @@ nav: 1
 template: home
 alt: ""
 description: "Daniel Knuchel, Sprachwissenschaftler an der Universität Zürich. Korpuspragmatik, digitale Linguistik, Diskurs- und Soziolinguistik, Schreiben mit generativer KI."
-lead: "Ich untersuche mit korpuspragmatischen und digitalen Methoden, wie im Sprachgebrauch Wissen, Identität und kommunikative Normen entstehen – vom Diskurs über HIV/AIDS bis zu postdigitalen Schreibkulturen."
+lead: "Ich arbeite an einer Sprachwissenschaft für die digitale Gegenwart: gebrauchsbasiert, kulturanalytisch und methodisch reflektiert. Sprache verstehe ich als Praxis, in der eine Gesellschaft Wissen ordnet, Zugehörigkeit markiert und Normen aushandelt. Rechnen und Lesen gehören für mich zusammen, und jedes Werkzeug muss sich fragen lassen, was es sichtbar macht und was nicht."
 portrait_alt: Porträt von Daniel Knuchel
 pillars_label: Forschungsschwerpunkte
 pillars:
