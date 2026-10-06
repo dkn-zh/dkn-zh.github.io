@@ -86,8 +86,9 @@ main { padding: 4rem var(--space) 5rem; }
 .hero { display: grid; grid-template-columns: 300px 1fr; gap: 2rem 3.5rem; align-items: start; margin-bottom: 4rem; }
 .hero-text { order: 2; }
 .portrait { order: 1; width: 300px; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 14px; filter: saturate(0.92); margin-top: 0.3rem; }
-.hero h1 { font-size: 2.8rem; font-weight: 600; letter-spacing: -0.02em; margin-bottom: 1.3rem; }
-.hero .lead { font-size: 1.3rem; }
+.hero h1 { font-size: 2.6rem; font-weight: 600; letter-spacing: -0.02em; margin-bottom: 1.1rem; }
+.hero .lead { font-size: 1.12rem; line-height: 1.55; margin-bottom: 1rem; }
+.hero .lead-2 { font-size: 1rem; color: var(--text-2); }
 .hero .links { display: flex; flex-wrap: wrap; gap: 0.4rem 1.4rem; font-size: 0.9rem; margin: 0; }
 .hero .links a { color: var(--accent); text-decoration: none; }
 .hero .links a:hover { color: var(--text); }

@@ -26,6 +26,7 @@
     <p class="eyebrow">{{ cfg.jobtitle[lang] }}</p>
     <h1>{{ cfg.title_name }}</h1>
     <p class="lead">{{ page.lead }}</p>
+    {% if page.lead2 %}<p class="lead lead-2">{{ page.lead2 }}</p>{% endif %}
     <p class="links">
       {% for l in cfg.links if l.url %}<a href="{{ l.url }}" rel="me">{{ l.label }}</a>{% endfor %}
       <a href="mailto:{{ cfg.email }}">E-Mail</a>
