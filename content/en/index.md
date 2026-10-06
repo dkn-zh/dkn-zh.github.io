@@ -5,7 +5,7 @@ nav: 1
 template: home
 alt: ""
 description: "Daniel Knuchel, linguist at the University of Zurich. Corpus pragmatics, digital linguistics, discourse and sociolinguistics, writing with generative AI."
-lead: "I work on a linguistics for the digital present: usage-based, cultural-analytic and methodologically reflective. I understand language as a practice in which a society orders knowledge, marks belonging and negotiates norms. Computing and reading belong together for me, and every tool has to answer for what it makes visible and what it hides."
+lead: "I believe you can recognise a society by its language use: by what it talks about, how it does so, and what it keeps silent about. That is why I study language as practice, in large text collections as much as in single documents, with the computer and with the pen. And because the tools shape what we see, every analysis for me includes the question of what they show us and what they do not."
 portrait_alt: Portrait of Daniel Knuchel
 pillars_label: Research areas
 pillars:
@@ -20,8 +20,8 @@ pillars:
     href: /en/research/#corpus-pragmatics
 news_label: News
 news:
-  - when: January 2027
-    text: Visiting researcher at the Critical AI Language and Literacy Lab, University of Vienna.
+  - when: Call for papers
+    text: "International workshop “Doing Multilingualism with Generative AI: Recentering the Users”, University of Zurich, 10–11 March 2027, with Naomi Truan (Leiden). Keynotes: Bettina Migge and Anna Weichselbraun. Abstracts by 30 October 2026 to [daniel.knuchel@ds.uzh.ch](mailto:daniel.knuchel@ds.uzh.ch)."
   - when: Since September 2026
     text: Lead of the Zurich subproject “Chatbots at the interface between social administration and its public”.
   - when: 2026
