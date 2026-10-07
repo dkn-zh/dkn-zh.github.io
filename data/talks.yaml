@@ -9,9 +9,16 @@
 - kind: talk
   date: 2027-01-20
   display: 20.01.2027
-  title: "Was ist eine Schreibideologie? Textur, Text und Zurechnung im Schreiben mit generativer KI"
+  title: "What is a writing ideology? Texture, text, and attribution in writing with generative AI"
   event: "Forschungskolloquium von Prof. Dr. Britta Schneider"
   place: Universität Wien
+  invited: true
+- kind: talk
+  date: 2026-11-13
+  display: 13.11.2026
+  title: "Postdigitale Schreibkulturen in Zeiten von LLM"
+  event: "Online-Kolloquium *Artificial Friday*, auf Einladung von Dr. Nina Kalwa"
+  place: Universität Tübingen (online)
   invited: true
 - kind: talk
   date: 2026-12-04
