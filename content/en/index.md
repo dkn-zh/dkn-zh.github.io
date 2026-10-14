@@ -21,6 +21,8 @@ pillars:
     href: /en/research/#corpus-pragmatics
 news_label: News
 news:
+  - when: October 2026
+    text: "The project [Language Regimes of the Machine](/en/research/#projects) with Naomi Truan (Leiden) has been funded by the University of Zurich Global Funding Scheme."
   - when: Call for papers
     text: "International workshop “Doing Multilingualism with Generative AI: Recentering the Users”, University of Zurich, 10–11 March 2027, with Naomi Truan (Leiden). Keynotes: Bettina Migge and Anna Weichselbraun. Abstracts by 30 October 2026 to [daniel.knuchel@ds.uzh.ch](mailto:daniel.knuchel@ds.uzh.ch)."
   - when: Since September 2026

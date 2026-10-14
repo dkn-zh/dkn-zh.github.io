@@ -21,6 +21,8 @@ pillars:
     href: /forschung/#korpuspragmatik
 news_label: Aktuell
 news:
+  - when: Oktober 2026
+    text: "Das Projekt [Language Regimes of the Machine](/forschung/#projekte) mit Naomi Truan (Leiden) ist bewilligt, gefördert durch das Global Funding Scheme der Universität Zürich."
   - when: Call for Papers
     text: "Internationaler Workshop «Doing Multilingualism with Generative AI: Recentering the Users», Universität Zürich, 10.–11. März 2027, mit Naomi Truan (Leiden). Keynotes: Bettina Migge und Anna Weichselbraun. Abstracts bis 30. Oktober 2026 an [daniel.knuchel@ds.uzh.ch](mailto:daniel.knuchel@ds.uzh.ch)."
   - when: Seit September 2026

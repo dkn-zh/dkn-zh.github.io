@@ -22,6 +22,7 @@ Ich arbeite mit grossen, meist selbst aufgebauten Datensammlungen und verbinde q
 ## Projekte
 
 - **Postdigitale Schreibkulturen** – Habilitationsprojekt, Universität Zürich, seit 2024.
+- **Language Regimes of the Machine: Language Ideologies and Multilingual Practice under Generative AI** – mit Naomi Truan (Leiden), gefördert durch das Global Funding Scheme der Universität Zürich, seit 2026. Das Projekt untersucht, wie mehrsprachige Sprecher:innen mit generativer KI umgehen: welche Praktiken, Erfahrungen und Sprachideologien sie in die Interaktion einbringen und was die Systeme mit ihrer Mehrsprachigkeit machen. Erste Aktivität ist der internationale Workshop *Doing Multilingualism with Generative AI: Recentering the Users* am 10. und 11. März 2027 in Zürich, Keynotes Bettina Migge (Dublin) und Anna Weichselbraun (Wien); ein Themenheft ist in Vorbereitung. Abstracts bis 30. Oktober 2026 an [daniel.knuchel@ds.uzh.ch](mailto:daniel.knuchel@ds.uzh.ch).
 - **KI in der Lehre: Promising Practices in den Geistes- und Sozialwissenschaften** – Projektkoordination, Universitäre Lehrförderung UZH, 2025–2027.
 - **SchrAIb-Tutor: Online-Schreibcoaching in Zeiten von KI** – Co-Projektleitung mit Elisabeth Zima, Universitäre Lehrförderung UZH, seit 2026.
 - **Mit KI schreiben? Kann ich!** – Citizen-Science-Projekt mit Gymnasiast:innen, Projektleitung, Citizen Science Zürich, 2024–2025.

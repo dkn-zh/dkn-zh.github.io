@@ -7,6 +7,13 @@
   event: "Tagung *Transformation for the better? Sprachliche Un/Gleichheit im Spannungsfeld zwischen Wandel und Kontinuität*"
   place: Universität zu Köln
 - kind: talk
+  date: 2027-01-19
+  display: 19.01.2027
+  title: "Diskurs-Latenz: Korpuspragmatische Analysen zu ›HIV|AIDS‹ in der Ära der Post-Infektiosität"
+  event: "Gastvortrag am Germanistischen Seminar auf Einladung von Prof. Dr. Ekkehard Felder, in Zusammenarbeit mit dem Europäischen Zentrum für Sprachwissenschaften (EZS)"
+  place: Universität Heidelberg
+  invited: true
+- kind: talk
   date: 2027-01-20
   display: 20.01.2027
   title: "What is a writing ideology? Texture, text, and attribution in writing with generative AI"
@@ -26,6 +33,14 @@
   title: "Linguistik, Schule und KI"
   event: "Germanistiktag 2026 *Germanistik und Schule*"
   place: Universität Bern
+- kind: talk
+  date: 2026-11-27
+  display: 27.11.2026
+  title: "Chatbots in der kommunalen Grundsicherung als Beispiel für automatisierte Kommunikation"
+  with: Daniela Böhringer, Max Kaufmann und Marie-Julie Althof (Duisburg-Essen)
+  event: "Arbeitsgruppe an der Tagung *Bessere Sozialpolitik durch technologischen Wandel? Ansätze und Ausblicke*, Institut Arbeit und Qualifikation"
+  place: Universität Duisburg-Essen
+  invited: true
 - kind: talk
   date: 2026-11-20
   display: 20.11.2026
