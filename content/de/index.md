@@ -26,7 +26,7 @@ news:
   - when: Call for Papers
     text: "Internationaler Workshop «Doing Multilingualism with Generative AI: Recentering the Users», Universität Zürich, 10.–11. März 2027, mit Naomi Truan (Leiden). Keynotes: Bettina Migge und Anna Weichselbraun. Abstracts bis 30. Oktober 2026 an [daniel.knuchel@ds.uzh.ch](mailto:daniel.knuchel@ds.uzh.ch)."
   - when: Seit September 2026
-    text: Leitung des Zürcher Teilprojekts «Chatbots an der Schnittstelle von Sozialverwaltung und ihrem Publikum».
+    text: "Zürcher Anteil der wissenschaftlichen Expertise [Chatbots an der Schnittstelle von Sozialverwaltung und ihrem Publikum](/forschung/#projekte) für das IAQ Duisburg-Essen, mit Bettina M. Bock (Köln)."
   - when: 2026
     text: "Aufsatz «Postdigitale Schreibkulturen im Kontext generativer KI» in der *Zeitschrift für Kulturlinguistik* 1. [Alle Publikationen](/publikationen/)"
 upcoming_label: Nächste Vorträge und Veranstaltungen
