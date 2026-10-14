@@ -264,6 +264,12 @@
 
 # --- Workshops und Sommerschulkurse ---
 - kind: course
+  date: 2026-10-26
+  display: 26.10.2026
+  title: "From Page to Corpus: Preparing Multimodal Sources for Cultural-Linguistic Analysis"
+  event: "Workshop der International Max Planck Research School for Multimodal Digital Humanities, Bibliotheca Hertziana"
+  place: Rom
+- kind: course
   date: 2026-09-01
   display: 01.09.2026
   title: "Schweizerische Parlamentsprotokolle: Datengrundlage und korpuspragmatische Analyse"
