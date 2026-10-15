@@ -143,13 +143,13 @@
 
 # --- Im Druck, akzeptiert, eingereicht, in Vorbereitung (eigener Block am Seitenende) ---
 - type: article
-  status: in_press
+  status: submitted
   peer_reviewed: true
   authors: ["Knuchel, Daniel"]
   title: "Quantitative Wortkritik und funktionale Angemessenheit"
   in: "In: Kilian, Jörg / Niehr, Thomas / Schiewe, Jürgen (Hrsg.): Handbuch Sprachkritik. 2., aktualisierte und erweiterte Auflage. Heidelberg/Berlin: J. B. Metzler."
 - type: article
-  status: accepted
+  status: submitted
   peer_reviewed: true
   authors: ["Knuchel, Daniel"]
   title: "Schüler:innen als Ko-Forschende: Herausforderungen und Potenziale partizipativer Forschung zu KI-basierten Schreibpraktiken"
