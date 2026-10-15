@@ -49,6 +49,12 @@
   place: Universität Zürich
   invited: true
 - kind: talk
+  date: 2026-09-24
+  display: 24.09.2026
+  title: "Postdigitale Schreibkulturen: Annäherungen an Schreibassemblagen über Interaktionsdaten"
+  event: "Linguistisches Kolloquium des Deutschen Seminars (Organisation: Prof. Dr. Guido Seiler und Prof. Dr. Andreas Trotzke)"
+  place: Universität Zürich
+- kind: talk
   date: 2026-09-21
   display: 21.09.2026
   title: "Prompten als postdigitale Kulturtechnik und Interaktionspraxis im Deutschunterricht"
