@@ -1,7 +1,7 @@
 name: Daniel Knuchel
 title_name: Dr. Daniel Knuchel        # Überschrift der Startseite und Browser-Titel
-url: https://dkn-zh.github.io        # wird für canonical, sitemap und hreflang verwendet; nach Aufschaltung der Domain anpassen
-domain:                               # z. B. danielknuchel.ch -> erzeugt die CNAME-Datei für GitHub Pages
+url: https://danielknuchel.ch        # wird für canonical, sitemap und hreflang verwendet
+domain: danielknuchel.ch              # erzeugt die CNAME-Datei für GitHub Pages
 languages: [de, en]                   # erste Sprache liegt auf /, zweite auf /en/
 email: daniel.knuchel@ds.uzh.ch
 orcid: 0000-0002-5226-0301
