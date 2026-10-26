@@ -3,6 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; img-src 'self'; font-src 'self'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <title>{% if page.slug %}{{ page.title }} · {% endif %}{{ cfg.title_name }}</title>
 <meta name="description" content="{{ page.description or cfg.tagline[lang] }}">
 <meta name="author" content="{{ cfg.name }}">
@@ -43,7 +45,7 @@
   <div class="wrap footer-row">
     <p>© {{ build_date.year }} {{ cfg.name }} · {{ t.updated }}: {{ build_date.strftime('%m/%Y') }}</p>
     <p>
-      {% for l in cfg.links if l.url %}<a href="{{ l.url }}" rel="me">{{ l.label }}</a>{{ ' · ' if not loop.last }}{% endfor %}
+      {% for l in cfg.links if l.url %}<a href="{{ l.url }}" rel="me noopener">{{ l.label }}</a>{{ ' · ' if not loop.last }}{% endfor %}
       · <a href="{{ '/impressum/' if lang == 'de' else '/en/imprint/' }}">{{ t.imprint }}</a>
     </p>
   </div>
