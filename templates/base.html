@@ -27,15 +27,14 @@
 <a class="skip" href="#main">{{ 'Zum Inhalt' if lang == 'de' else 'Skip to content' }}</a>
 <header class="site-header">
   <div class="wrap header-row">
-    <a class="brand" href="{{ home_url }}">{{ cfg.name }}</a>
     <nav aria-label="{{ t.nav_label }}">
       <ul>
         {% for n in nav %}
         <li><a href="{{ n.url }}"{% if n.slug == page.slug %} aria-current="page"{% endif %}>{{ n.nav_title or n.title }}</a></li>
         {% endfor %}
-        <li class="lang"><a href="{{ page.alt_url }}" lang="{{ t.switch_lang }}" hreflang="{{ t.switch_lang }}">{{ t.switch }}</a></li>
       </ul>
     </nav>
+    <p class="lang-switch"><a href="{{ page.url if lang == 'de' else page.alt_url }}" lang="de" hreflang="de"{% if lang == 'de' %} aria-current="true"{% endif %}>DE</a><span aria-hidden="true">/</span><a href="{{ page.url if lang == 'en' else page.alt_url }}" lang="en" hreflang="en"{% if lang == 'en' %} aria-current="true"{% endif %}>EN</a></p>
   </div>
 </header>
 <main id="main" class="wrap">
@@ -43,7 +42,7 @@
 </main>
 <footer class="site-footer">
   <div class="wrap footer-row">
-    <p>© {{ build_date.year }} {{ cfg.name }} · {{ t.updated }}: {{ build_date.strftime('%m/%Y') }}</p>
+    <p><a href="{{ home_url }}">© {{ build_date.year }} {{ cfg.name }}</a> · {{ t.updated }}: {{ build_date.strftime('%m/%Y') }}</p>
     <p>
       {% for l in cfg.links if l.url %}<a href="{{ l.url }}" rel="me noopener">{{ l.label }}</a>{{ ' · ' if not loop.last }}{% endfor %}
       · <a href="{{ '/impressum/' if lang == 'de' else '/en/imprint/' }}">{{ t.imprint }}</a>

@@ -4,7 +4,7 @@ alt: impressum
 description: Imprint and privacy notice.
 ---
 **Responsible for the content**
-Daniel Knuchel, Department of German Studies, University of Zurich, Schönberggasse 9, 8001 Zurich, Switzerland. [daniel.knuchel@ds.uzh.ch](mailto:daniel.knuchel@ds.uzh.ch)
+Daniel Knuchel, Department of German Studies, University of Zurich, Schönberggasse 9, 8001 Zurich, Switzerland. Contact via the [form at the Department of German Studies](https://www.ds.uzh.ch/apps/cms/pfs/personen_en.php?detail=315).
 
 This is a private, non-commercial website. It is not part of the University of Zurich's web presence.
 

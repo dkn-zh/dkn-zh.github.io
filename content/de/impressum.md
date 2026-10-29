@@ -4,7 +4,7 @@ alt: imprint
 description: Impressum und Datenschutzhinweis.
 ---
 **Verantwortlich für den Inhalt**
-Daniel Knuchel, Deutsches Seminar, Universität Zürich, Schönberggasse 9, 8001 Zürich. [daniel.knuchel@ds.uzh.ch](mailto:daniel.knuchel@ds.uzh.ch)
+Daniel Knuchel, Deutsches Seminar, Universität Zürich, Schönberggasse 9, 8001 Zürich. Kontakt über das [Formular am Deutschen Seminar](https://www.ds.uzh.ch/apps/cms/pfs/personen.php?detail=315).
 
 Diese Website ist eine private, nicht-kommerzielle Seite. Sie ist nicht Teil des Webauftritts der Universität Zürich.
 

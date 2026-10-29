@@ -10,7 +10,7 @@ talks_since: '2023'      # Vorträge, Poster, Kurse, Medien erst ab diesem Jahr 
 courses_since: '2019'    # Lehrveranstaltungen erst ab diesem Jahr anzeigen
 
 tagline:
-  de: "Sprach- und Kulturwissenschaftler an der Universität Zürich. Korpuspragmatik und digitale Linguistik, Diskurs- und Soziolinguistik des Gegenwartsdeutschen, postdigitale Schreibkulturen."
+  de: "Sprach- und Kulturwissenschaftler an der Universität Zürich. Korpuspragmatik und digitale Linguistik, Kultur-, Diskurs- und Soziolinguistik des Gegenwartsdeutschen, postdigitale Schreibkulturen."
   en: "Linguist and German studies scholar at the University of Zurich. Corpus pragmatics and digital linguistics, discourse analysis and sociolinguistics of contemporary German, postdigital writing cultures."
 
 # Anzeige auf der Startseite (Positionierung als Person)
@@ -28,7 +28,7 @@ links:
     url: https://orcid.org/0000-0002-5226-0301
   - label: Google Scholar
     url:
-  - label: Universität Zürich
+  - label: Deutsches Seminar UZH
     url: https://www.ds.uzh.ch/apps/cms/pfs/personen.php?detail=315
   - label: LinkedIn
     url:
