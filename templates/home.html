@@ -20,9 +20,15 @@
 {% endblock %}
 {% block content %}
 {% if cfg.banner %}<img class="banner banner-bleed" src="/static/img/{{ cfg.banner }}" alt="{{ 'Schematische Darstellung eines Vektorraums mit Begriffen aus der Forschung' if lang == 'de' else 'Schematic vector space with terms from the research' }}">{% endif %}
+<div class="about about-top">
+  <div><img class="portrait" src="/static/img/daniel-knuchel.jpg?v={{ portrait_v }}" width="900" height="900" alt="{{ page.portrait_alt }}"></div>
+  <div class="about-head">
+    <h1>{{ cfg.title_name }}</h1>
+    <p class="lead">{{ page.tagline }}</p>
+  </div>
+</div>
 <div class="about">
   <aside class="side">
-    <img class="portrait" src="/static/img/daniel-knuchel.jpg?v={{ portrait_v }}" width="900" height="900" alt="{{ page.portrait_alt }}">
     <p class="side-name">{{ page.role }}</p>
     <p class="side-role">{{ page.affiliation }}</p>
     <dl class="side-facts">
@@ -33,8 +39,6 @@
     </ul>
   </aside>
   <section class="prose about-text">
-    <h1>{{ cfg.title_name }}</h1>
-    <p class="lead">{{ page.tagline }}</p>
     {{ page.html | safe }}
     <h2>{{ page.news_label }}</h2>
     <ul class="news">
