@@ -1,15 +1,15 @@
 /* danielknuchel.ch – nordisch-minimalistisch. Eine Schriftfamilie, eine Akzentfarbe, Hairlines statt Kästen. */
 
 :root {
-  --bg: #f7f6f3;
-  --bg-2: #efeeea;
+  --bg: #ffffff;
+  --bg-2: #f3f2ef;
   --text: #1b1b1a;
   --text-2: #4a4a47;
   --muted: #7d7c77;
-  --line: #e1dfda;
+  --line: #e6e4df;
   --accent: #6e4f33;        /* Braun dunkel: Links, Navigation, Hover */
   --accent-2: #8a6a4a;      /* Braun: Zwischentitel, Jahre, Labels */
-  --tint: #f1ece4;          /* warme Fläche für Hintergründe */
+  --tint: #f3f2ef;          /* graue Fläche für Kopf- und Fusszeile */
   --sans: "IBM Plex Sans", "Helvetica Neue", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
   --measure: 44rem;
   --wide: 64rem;
@@ -46,39 +46,39 @@ a:hover { text-decoration-color: var(--accent); }
 img { max-width: 100%; height: auto; display: block; }
 h1, h2, h3 { font-weight: 500; line-height: 1.15; letter-spacing: -0.015em; margin: 0; }
 h1 { font-size: 2.4rem; margin-bottom: 1.6rem; }
-h2 { font-size: 1.05rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; color: var(--accent-2); margin: 3.2rem 0 1rem; padding-top: 1rem; border-top: 1px solid var(--line); }
+h2 { font-size: 1.35rem; font-weight: 600; margin: 2.6rem 0 0.8rem; }
 h3 { font-size: 1.05rem; margin: 2rem 0 0.6rem; }
 p, ul, ol { margin: 0 0 1.1rem; }
 .wrap { max-width: var(--wide); margin: 0 auto; padding: 0 var(--space); }
 .muted { color: var(--muted); }
 .small { font-size: 0.88rem; }
 .lead { font-size: 1.25rem; line-height: 1.5; color: var(--text); max-width: var(--measure); margin-bottom: 1.6rem; }
-.eyebrow { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--accent); margin: 0 0 1rem; }
-.badge { display: inline-block; font-size: 0.7rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--accent-2); border: 1px solid var(--accent-2); border-radius: 2px; padding: 0 0.4em; margin-left: 0.4em; vertical-align: middle; line-height: 1.5; }
+.eyebrow { font-size: 0.9rem; color: var(--muted); margin: 0 0 1rem; }
+.badge { display: inline-block; font-size: 0.75rem; color: var(--accent-2); border: 1px solid var(--accent-2); border-radius: 3px; padding: 0 0.4em; margin-left: 0.4em; vertical-align: middle; line-height: 1.5; }
 .skip { position: absolute; left: -999px; top: 0; background: var(--text); color: var(--bg); padding: 0.5rem 1rem; }
 .skip:focus { left: 0.5rem; top: 0.5rem; z-index: 10; }
 
 /* Header */
-.site-header { padding: 2rem 0 0; }
-.header-row { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 0.6rem 2rem; padding-bottom: 1.4rem; border-bottom: 1px solid var(--line); }
-.brand { font-weight: 500; letter-spacing: -0.01em; text-decoration: none; }
+.site-header { background: var(--tint); }
+.header-row { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 0.6rem 2rem; padding-top: 1rem; padding-bottom: 1rem; }
+.brand { font-weight: 600; font-size: 1.05rem; letter-spacing: -0.01em; text-decoration: none; }
 nav ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.3rem 1.4rem; font-size: 0.92rem; }
 nav a { color: var(--text-2); text-decoration: none; }
 nav a:hover { color: var(--accent); }
-nav a[aria-current="page"] { color: var(--accent); border-bottom: 1px solid var(--accent); padding-bottom: 0.1rem; }
+nav a[aria-current="page"] { color: var(--text); font-weight: 600; }
 nav .lang a { color: var(--muted); }
 
 /* Main */
-main { padding: 4rem var(--space) 5rem; }
+main { padding: 3rem var(--space) 4rem; }
 .prose { max-width: var(--measure); }
 .prose ul, .prose ol { padding-left: 1.2rem; }
 .prose .pubs, .prose .talks, .prose .courses, .prose .readings { padding-left: 0; }
 .prose li { margin-bottom: 0.45rem; }
 .prose li::marker { color: var(--muted); }
-.prose strong { font-weight: 500; }
+.prose strong { font-weight: 600; }
 .prose table { border-collapse: collapse; width: 100%; font-size: 0.95rem; margin: 0 0 1.5rem; }
 .prose th, .prose td { text-align: left; vertical-align: top; padding: 0.55rem 1rem 0.55rem 0; border-bottom: 1px solid var(--line); }
-.prose th { font-weight: 500; color: var(--accent-2); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; }
+.prose th { font-weight: 600; color: var(--text); font-size: 0.9rem; }
 .prose td:first-child { color: var(--muted); white-space: nowrap; width: 9rem; }
 .prose hr { border: 0; border-top: 1px solid var(--line); margin: 2.5rem 0; }
 
@@ -86,17 +86,18 @@ main { padding: 4rem var(--space) 5rem; }
 .banner { width: 100%; aspect-ratio: 3 / 1; object-fit: cover; border-radius: 4px; margin-bottom: 2.5rem; }
 .about { display: grid; grid-template-columns: 220px 1fr; gap: 2rem 3.5rem; align-items: start; }
 .side { position: sticky; top: 1.5rem; }
-.portrait { width: 160px; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 4px; margin-bottom: 1rem; }
-.side-name { font-weight: 600; font-size: 1.05rem; margin: 0 0 0.2rem; }
+.portrait { width: 170px; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 3px; margin-bottom: 1rem; box-shadow: 0 0 0 1px var(--line); }
+.side-name { font-weight: 600; font-size: 1rem; margin: 0 0 0.1rem; }
 .side-role { font-size: 0.9rem; color: var(--text-2); line-height: 1.45; margin: 0 0 1rem; }
 .side-facts { margin: 0 0 1.1rem; padding: 0; font-size: 0.85rem; }
-.side-facts dt { font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent-2); margin: 0.6rem 0 0.1rem; }
+.side-facts dt { font-weight: 600; color: var(--text); margin: 0.8rem 0 0.1rem; }
 .side-facts dd { margin: 0; color: var(--text-2); line-height: 1.4; }
 .side-links { list-style: none; padding: 0; margin: 0; font-size: 0.9rem; }
-.side-links li { margin: 0 0 0.35rem; }
+.side-links li { margin: 0 0 0.45rem; display: flex; align-items: center; gap: 0.45rem; color: var(--accent); }
 .side-links a { color: var(--accent); text-decoration: none; }
 .side-links a:hover { text-decoration: underline; }
-.about-text h1.intro { font-size: 1.4rem; font-weight: 500; line-height: 1.45; letter-spacing: -0.01em; margin: 0.2rem 0 1.4rem; }
+.about-text h1 { font-size: 2.4rem; font-weight: 700; letter-spacing: -0.02em; margin: 0.4rem 0 0.4rem; }
+.about-text .lead { font-size: 1.15rem; color: var(--text-2); margin-bottom: 1.6rem; }
 .about-text h2 { margin-top: 2.4rem; }
 @media (max-width: 720px) {
   .about { grid-template-columns: 1fr; }
@@ -127,7 +128,7 @@ main { padding: 4rem var(--space) 5rem; }
 /* Talks and courses */
 .talks, .courses { list-style: none; padding: 0; margin: 0; max-width: var(--measure); }
 .talks li, .courses li { display: grid; grid-template-columns: 7rem 1fr; gap: 1rem; padding: 0.6rem 0; border-bottom: 1px solid var(--line); font-size: 0.95rem; }
-.talks li.year { display: block; border: 0; padding: 1.6rem 0 0.2rem; font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent-2); }
+.talks li.year { display: block; border: 0; padding: 1.6rem 0 0.2rem; font-weight: 600; color: var(--text); }
 .talks .date, .courses .sem { color: var(--muted); font-size: 0.85rem; padding-top: 0.15rem; white-space: nowrap; }
 .talks .title { font-weight: 500; }
 .courses li { grid-template-columns: 6rem 1fr; }
@@ -139,12 +140,12 @@ details.course[open] summary::after { transform: rotate(180deg); }
 details.course summary:hover { color: var(--accent); }
 .course-body { margin: 0.8rem 0 0.4rem; padding-left: 1rem; border-left: 2px solid var(--accent-2); color: var(--text-2); font-size: 0.93rem; }
 .course-body p { margin-bottom: 0.7rem; }
-.readings-label { font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent-2); margin: 0.8rem 0 0.3rem; }
+.readings-label { font-weight: 600; font-size: 0.9rem; margin: 0.8rem 0 0.3rem; }
 .readings { list-style: none; padding: 0; margin: 0; }
 .readings li { padding: 0.25rem 0; border: 0; display: block; }
 
 /* Footer */
-.site-footer { padding: 2rem 0 3rem; color: var(--muted); font-size: 0.85rem; background: var(--tint); }
+.site-footer { padding: 1.6rem 0 2rem; color: var(--muted); font-size: 0.85rem; background: var(--tint); }
 .footer-row { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.4rem 1.5rem; }
 .footer-row p { margin: 0; }
 .footer-row a { color: var(--muted); text-decoration: none; }

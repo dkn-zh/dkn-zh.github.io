@@ -24,19 +24,20 @@
 <div class="about">
   <aside class="side">
     <img class="portrait" src="/static/img/daniel-knuchel.jpg?v={{ portrait_v }}" width="900" height="900" alt="{{ page.portrait_alt }}">
-    <p class="side-name">{{ cfg.title_name }}</p>
-    <p class="side-role">{{ page.role }}<br>{{ page.affiliation }}</p>
+    <p class="side-name">{{ page.role }}</p>
+    <p class="side-role">{{ page.affiliation }}</p>
     <dl class="side-facts">
       {% for f in page.facts %}<dt>{{ f.label }}</dt><dd>{{ f.value }}</dd>{% endfor %}
     </dl>
     <ul class="side-links">
-      <li><a href="mailto:{{ cfg.email }}">{{ cfg.email }}</a></li>
-      {% for l in cfg.links if l.url %}<li><a href="{{ l.url }}" rel="me noopener">{{ l.label }}</a></li>{% endfor %}
-      <li><a href="{{ '/cv/' if lang == 'de' else '/en/cv/' }}">{{ 'Lebenslauf' if lang == 'de' else 'Curriculum vitae' }}</a></li>
+      <li><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M3 5h18a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1zm1 2.4V17h16V7.4l-8 5-8-5zM4.6 7l7.4 4.6L19.4 7H4.6z"/></svg><a href="mailto:{{ cfg.email }}">{{ cfg.email }}</a></li>
+      {% for l in cfg.links if l.url %}<li>{% if l.label == 'ORCID' %}<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm-3.3 5.1a.9.9 0 1 1 0 1.8.9.9 0 0 1 0-1.8zM9.4 17H8V9.7h1.4V17zm2.3-7.3h2.9c2.8 0 4 2 4 3.7 0 1.9-1.5 3.6-4 3.6h-2.9V9.7zm1.4 1.2v4.9h1.4c2.3 0 2.7-1.7 2.7-2.4 0-1.3-.8-2.5-2.8-2.5h-1.3z"/></svg>{% elif l.label == 'GitHub' %}<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 0 0-3.2 19.5c.5.1.7-.2.7-.5v-1.8c-2.8.6-3.4-1.2-3.4-1.2-.4-1.1-1.1-1.4-1.1-1.4-.9-.6.1-.6.1-.6 1 .1 1.5 1 1.5 1 .9 1.6 2.4 1.1 3 .9.1-.7.4-1.1.6-1.4-2.2-.3-4.6-1.1-4.6-5 0-1.1.4-2 1-2.7-.1-.3-.4-1.3.1-2.7 0 0 .8-.3 2.8 1a9.4 9.4 0 0 1 5 0c1.9-1.3 2.8-1 2.8-1 .5 1.4.2 2.4.1 2.7.6.7 1 1.6 1 2.7 0 3.9-2.4 4.7-4.6 5 .4.3.7.9.7 1.9v2.8c0 .3.2.6.7.5A10 10 0 0 0 12 2z"/></svg>{% else %}<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M10.6 13.4a1 1 0 0 1 0-1.4l3.5-3.5a3 3 0 1 1 4.2 4.2l-1.6 1.6a1 1 0 1 1-1.4-1.4l1.6-1.6a1 1 0 1 0-1.4-1.4l-3.5 3.5a1 1 0 0 1-1.4 0zm2.8-2.8a1 1 0 0 1 0 1.4l-3.5 3.5a3 3 0 1 1-4.2-4.2l1.6-1.6a1 1 0 1 1 1.4 1.4l-1.6 1.6a1 1 0 1 0 1.4 1.4l3.5-3.5a1 1 0 0 1 1.4 0z"/></svg>{% endif %}<a href="{{ l.url }}" rel="me noopener">{{ l.label }}</a></li>{% endfor %}
+      <li><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M6 2h8l5 5v15H6V2zm7 1.5V8h4.5L13 3.5zM8 11h8v1.5H8V11zm0 3h8v1.5H8V14zm0 3h8v1.5H8V17z"/></svg><a href="{{ '/cv/' if lang == 'de' else '/en/cv/' }}">{{ 'Lebenslauf' if lang == 'de' else 'Curriculum vitae' }}</a></li>
     </ul>
   </aside>
   <section class="prose about-text">
-    <h1 class="intro">{{ page.tagline }}</h1>
+    <h1>{{ cfg.title_name }}</h1>
+    <p class="lead">{{ page.tagline }}</p>
     {{ page.html | safe }}
     <h2>{{ page.news_label }}</h2>
     <ul class="news">
