@@ -20,7 +20,7 @@
 </script>
 {% endblock %}
 {% block content %}
-{% if cfg.banner %}<img class="banner" src="/static/img/{{ cfg.banner }}" alt="">{% endif %}
+{% if cfg.banner %}<img class="banner" src="/static/img/{{ cfg.banner }}" alt="{{ 'Schematische Darstellung eines Vektorraums mit Begriffen aus der Forschung' if lang == 'de' else 'Schematic vector space with terms from the research' }}">{% endif %}
 <div class="about">
   <aside class="side">
     <img class="portrait" src="/static/img/daniel-knuchel.jpg?v={{ portrait_v }}" width="900" height="900" alt="{{ page.portrait_alt }}">

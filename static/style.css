@@ -83,7 +83,7 @@ main { padding: 3rem var(--space) 4rem; }
 .prose hr { border: 0; border-top: 1px solid var(--line); margin: 2.5rem 0; }
 
 /* Home: Banner, Seitenleiste, Über mich */
-.banner { width: 100%; aspect-ratio: 3 / 1; object-fit: cover; border-radius: 4px; margin-bottom: 2.5rem; }
+.banner { width: 100%; aspect-ratio: 3 / 1; object-fit: cover; border-radius: 0; margin-bottom: 2.2rem; }
 .about { display: grid; grid-template-columns: 220px 1fr; gap: 2rem 3.5rem; align-items: start; }
 .side { position: sticky; top: 1.5rem; }
 .portrait { width: 170px; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 3px; margin-bottom: 1rem; box-shadow: 0 0 0 1px var(--line); }
