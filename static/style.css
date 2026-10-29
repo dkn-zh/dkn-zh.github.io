@@ -7,9 +7,9 @@
   --text-2: #333333;
   --muted: #6b6b6b;
   --line: #d9d5cc;
-  --accent: #24497a;        /* Blau dunkel: Links, Navigation, Hover */
-  --accent-2: #3a6396;      /* Blau: Jahre, Labels, Badges */
-  --heading: #1e3a5f;       /* Blau des Banners: Überschriften, Hervorhebungen */
+  --accent: #314693;        /* Blau dunkel: Links, Navigation, Hover */
+  --accent-2: #4a5ca8;      /* Blau: Jahre, Labels, Badges */
+  --heading: #314693;       /* Blau des Banners: Überschriften, Hervorhebungen */
   --tint: #ebe7df;          /* dunklere Eierschale für Kopf- und Fusszeile */
   --sans: "IBM Plex Sans", "Helvetica Neue", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
   --measure: 44rem;
