@@ -1,7 +1,7 @@
 ---
 title: Curriculum vitae
 nav_title: CV
-nav: 7
+nav: 1
 alt: cv
 description: "CV of Daniel Knuchel: positions, education, funding, academic service."
 ---

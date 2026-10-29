@@ -1,7 +1,5 @@
 ---
 title: Daniel Knuchel
-nav_title: Home
-nav: 1
 template: home
 alt: ""
 description: "Daniel Knuchel, linguist and German studies scholar at the University of Zurich. Corpus pragmatics and digital linguistics, discourse and sociolinguistics, postdigital writing cultures."

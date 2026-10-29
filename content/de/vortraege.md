@@ -1,6 +1,6 @@
 ---
 title: Vorträge
-nav: 5
+nav: 4
 template: talks
 alt: talks
 description: Vorträge, Poster, Workshops, Tagungsorganisation und öffentliche Auftritte von Daniel Knuchel.

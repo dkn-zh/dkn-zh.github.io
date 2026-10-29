@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Digital resources
 nav: 6
 alt: ressourcen
 description: "Digital resources by Daniel Knuchel: corpus pipelines, analysis tools, scripts and learning environments on GitHub and at the University of Zurich."

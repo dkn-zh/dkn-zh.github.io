@@ -1,7 +1,7 @@
 ---
 title: Lebenslauf
 nav_title: CV
-nav: 7
+nav: 1
 alt: cv
 description: "Lebenslauf von Daniel Knuchel: Positionen, Ausbildung, Förderungen, Gremien."
 ---

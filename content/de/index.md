@@ -1,7 +1,5 @@
 ---
 title: Daniel Knuchel
-nav_title: Start
-nav: 1
 template: home
 alt: ""
 description: "Daniel Knuchel, Sprach- und Kulturwissenschaftler an der Universität Zürich. Korpuspragmatik und digitale Linguistik, Diskurs- und Soziolinguistik, postdigitale Schreibkulturen."

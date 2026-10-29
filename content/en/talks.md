@@ -1,6 +1,6 @@
 ---
 title: Talks
-nav: 5
+nav: 4
 template: talks
 alt: vortraege
 description: Talks, posters, workshops, conference organisation and public engagement by Daniel Knuchel.

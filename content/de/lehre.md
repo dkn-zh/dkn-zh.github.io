@@ -1,6 +1,6 @@
 ---
 title: Lehre
-nav: 4
+nav: 5
 template: teaching
 alt: teaching
 description: "Lehre von Daniel Knuchel an den Universitäten Zürich, Genf, Basel und Heidelberg."

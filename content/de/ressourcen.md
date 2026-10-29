@@ -1,5 +1,5 @@
 ---
-title: Ressourcen
+title: Digitale Ressourcen
 nav: 6
 alt: resources
 description: "Digitale Ressourcen von Daniel Knuchel: Korpuspipelines, Analysewerkzeuge, Skripte und Lernumgebungen auf GitHub und an der Universität Zürich."
