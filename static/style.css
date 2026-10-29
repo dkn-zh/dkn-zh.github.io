@@ -16,20 +16,6 @@
   --wide: 64rem;
   --space: 1.5rem;
 }
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #141618;
-    --bg-2: #1c1f23;
-    --text: #e9e8e4;
-    --text-2: #bfbdb8;
-    --muted: #8c8b87;
-    --line: #2b2e33;
-    --accent: #9fbbe0;
-    --accent-2: #8aa9d0;
-    --heading: #b9cfea;
-    --tint: #1a1d21;
-  }
-}
 
 * { box-sizing: border-box; }
 html { font-size: 17px; -webkit-text-size-adjust: 100%; }
