@@ -1,6 +1,5 @@
 ---
 title: Kontakt
-nav: 7
 alt: contact
 description: Kontakt zu Daniel Knuchel, Deutsches Seminar der Universität Zürich.
 ---

@@ -1,6 +1,5 @@
 ---
 title: Contact
-nav: 7
 alt: kontakt
 description: Contact Daniel Knuchel, Department of German Studies, University of Zurich.
 ---
