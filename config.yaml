@@ -1,6 +1,6 @@
 name: Daniel Knuchel
 title_name: Dr. Daniel Knuchel        # Name in der Seitenleiste und Browser-Titel
-banner: banner.jpg                    # Bild über die ganze Breite der Startseite; leer lassen, um es auszublenden
+banner: banner.svg                    # Bild über die ganze Breite der Startseite; leer lassen, um es auszublenden
 url: https://danielknuchel.ch        # wird für canonical, sitemap und hreflang verwendet
 domain: danielknuchel.ch              # erzeugt die CNAME-Datei für GitHub Pages
 languages: [de, en]                   # erste Sprache liegt auf /, zweite auf /en/
