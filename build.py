@@ -105,7 +105,7 @@ def build():
         page["alt_url"] = url_for(cfg, other, alt) if (other, alt) in pages else url_for(cfg, other, "")
 
     nav = {
-        lang: sorted((p for (l, _), p in pages.items() if l == lang and p.get("nav")), key=lambda p: p["nav"])
+        lang: sorted((p for (l, _), p in pages.items() if l == lang and p.get("nav") is not None), key=lambda p: p["nav"])
         for lang in cfg["languages"]
     }
 
