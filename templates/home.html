@@ -12,7 +12,7 @@
   "description": "{{ page.tagline }}",
   "affiliation": {"@type": "Organization", "name": "Universität Zürich, Deutsches Seminar", "url": "https://www.ds.uzh.ch"},
   "email": "mailto:{{ cfg.email }}",
-  "image": "{{ cfg.url }}/static/img/daniel-knuchel.jpg",
+  "image": "{{ cfg.url }}/static/img/daniel-knuchel.jpg?v={{ portrait_v }}",
   "url": "{{ cfg.url }}/",
   "identifier": "https://orcid.org/{{ cfg.orcid }}",
   "sameAs": [{% for l in cfg.links if l.url %}"{{ l.url }}"{{ ', ' if not loop.last }}{% endfor %}]
@@ -23,7 +23,7 @@
 {% if cfg.banner %}<img class="banner" src="/static/img/{{ cfg.banner }}" alt="">{% endif %}
 <div class="about">
   <aside class="side">
-    <img class="portrait" src="/static/img/daniel-knuchel.jpg" width="1000" height="1250" alt="{{ page.portrait_alt }}">
+    <img class="portrait" src="/static/img/daniel-knuchel.jpg?v={{ portrait_v }}" width="1000" height="1250" alt="{{ page.portrait_alt }}">
     <p class="side-name">{{ cfg.title_name }}</p>
     <p class="side-role">{{ page.role }}<br>{{ page.affiliation }}</p>
     <ul class="side-links">

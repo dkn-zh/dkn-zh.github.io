@@ -12,6 +12,7 @@ Struktur:
     static/            CSS, Bilder, PDFs (werden 1:1 kopiert)
 """
 import argparse
+import hashlib
 import datetime
 import functools
 import http.server
@@ -82,6 +83,9 @@ def build():
         lstrip_blocks=True,
     )
     env.globals.update(cfg=cfg, data=data, build_date=today)
+    # Versionskennung für das Porträt, damit Browser nach einem Fotowechsel nicht das alte Bild aus dem Cache zeigen
+    portrait = ROOT / "static/img/daniel-knuchel.jpg"
+    env.globals["portrait_v"] = hashlib.md5(portrait.read_bytes()).hexdigest()[:8] if portrait.exists() else "0"
     env.filters["md"] = lambda s: markdown.markdown(s or "", extensions=["extra"])
     env.filters["md_inline"] = lambda s: re.sub(r"^<p>|</p>$", "", markdown.markdown(s or "", extensions=["extra"]).strip())
 

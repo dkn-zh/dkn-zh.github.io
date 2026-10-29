@@ -14,7 +14,7 @@
 <meta property="og:type" content="profile">
 <meta property="og:title" content="{% if page.slug %}{{ page.title }} · {% endif %}{{ cfg.name }}">
 <meta property="og:description" content="{{ page.description or cfg.tagline[lang] }}">
-<meta property="og:image" content="{{ cfg.url }}/static/img/daniel-knuchel.jpg">
+<meta property="og:image" content="{{ cfg.url }}/static/img/daniel-knuchel.jpg?v={{ portrait_v }}">
 <meta property="og:url" content="{{ cfg.url }}{{ page.url }}">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/static/img/favicon.svg" type="image/svg+xml">
