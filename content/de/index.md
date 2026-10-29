@@ -11,7 +11,7 @@ role: Sprach- und Kulturwissenschaftler
 affiliation: Universität Zürich
 facts:
   - label: Forschungsschwerpunkte
-    value: Digitale Linguistik, Korpuspragmatik, Kultur-, Diskurs- und Soziolinguistik, Posthumanismus, Postdigitale Schreibkulturen
+    value: Semantik und Pragmatik, Digitale Linguistik, Korpuspragmatik, Kultur-, Diskurs- und Soziolinguistik, Posthumanismus, Postdigitale Schreibkulturen
   - label: Adresse
     value: Deutsches Seminar, Universität Zürich, Schönberggasse 9, 8001 Zürich
 news_label: Aktuell
@@ -23,7 +23,7 @@ news:
 upcoming_label: Nächster Vortrag
 upcoming_more: Alle Vorträge
 ---
-Sprache und Digitalität zusammenzudenken, ist der Kern meines Forschungsprogramms, methodisch wie thematisch. Meine Forschung liegt in der **Korpuspragmatik und digitalen Linguistik** sowie in der **Kultur-, Diskurs- und Soziolinguistik** des Gegenwartsdeutschen. Semantik und Pragmatik sind dafür die Grundlagen. Ich arbeite kulturanalytisch, empirisch und mit digitalen Methoden. Digitalität spielt dabei eine doppelte Rolle. Sie verändert die **Gegenstände** der Sprachwissenschaft, von Webforen und Plattformkommunikation bis zur Interaktion mit Sprachmodellen. Und sie verändert die **Verfahren**, mit denen wir sie untersuchen.
+Sprache und Digitalität zusammenzudenken, ist der Kern meines Forschungsprogramms, methodisch wie thematisch. Meine Forschung liegt in der **Korpuspragmatik und digitalen Linguistik** sowie in der **Kultur-, Diskurs- und Soziolinguistik** des Gegenwartsdeutschen. Ich arbeite kulturanalytisch, empirisch und mit digitalen Methoden. Digitalität spielt dabei eine doppelte Rolle. Sie verändert die **Gegenstände** der Sprachwissenschaft, von Webforen und Plattformkommunikation bis zur Interaktion mit Sprachmodellen. Und sie verändert die **Verfahren**, mit denen wir sie untersuchen.
 
 Mein Sprachbegriff ist **gebrauchsbasiert und kulturanalytisch**. Sprache ist eine Praxis, in der Wissen und Bedeutung hergestellt werden und sich als Sprachgebrauchsmuster verfestigen. Daraus ergeben sich meine beiden Leitfragen. Was lässt sich am Gegenwartsdeutschen darüber lernen, wie eine digital geprägte Gesellschaft Wissen ordnet, Zugehörigkeit markiert und kommunikative Normen verschiebt? Und wie ist Sprache zu beschreiben, wenn an ihrer Hervorbringung neben Menschen zunehmend Plattformen, Werkzeuge und generative Systeme beteiligt sind? **Rechnen und Lesen** greifen in meiner Arbeit ineinander. Jedes Werkzeug prüfe ich auf die Forschungslogik, die es in die Analyse einbringt.
 

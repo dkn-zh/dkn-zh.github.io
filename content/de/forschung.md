@@ -3,7 +3,7 @@ title: Forschung
 nav: 2
 alt: research
 description: "Forschung von Daniel Knuchel: Korpuspragmatik und digitale Linguistik, Diskurslatenz, Schreiben mit generativer KI."
-lead: "Meine Forschung liegt in der Korpuspragmatik und digitalen Linguistik sowie der Kultur-, Diskurs- und Soziolinguistik des Gegenwartsdeutschen. Semantik und Pragmatik sind dafür die Grundlagen. Ich arbeite kulturanalytisch, empirisch und mit digitalen Methoden."
+lead: "Meine Forschung liegt in der Korpuspragmatik und digitalen Linguistik sowie der Kultur-, Diskurs- und Soziolinguistik des Gegenwartsdeutschen. Ich arbeite kulturanalytisch, empirisch und mit digitalen Methoden."
 ---
 Mich interessiert, wie in sprachlich-kommunikativer Praxis Wissen, Identität und kommunikative Normen hergestellt und verändert werden, und wie sich das unter digitalen Bedingungen beschreiben lässt. Digitalität verändert dabei beides: die Gegenstände der Sprachwissenschaft, von Webforen bis zur Interaktion mit Sprachmodellen, und die Verfahren, mit denen wir sie untersuchen.
 
