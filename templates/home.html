@@ -9,7 +9,7 @@
   "familyName": "Knuchel",
   "honorificPrefix": "Dr.",
   "jobTitle": "{{ cfg.role[lang] }}",
-  "description": "{{ cfg.jobtitle[lang] }}",
+  "description": "{{ page.tagline }}",
   "affiliation": {"@type": "Organization", "name": "Universität Zürich, Deutsches Seminar", "url": "https://www.ds.uzh.ch"},
   "email": "mailto:{{ cfg.email }}",
   "image": "{{ cfg.url }}/static/img/daniel-knuchel.jpg",
@@ -20,56 +20,30 @@
 </script>
 {% endblock %}
 {% block content %}
-<section class="hero">
-  <img class="portrait" src="/static/img/daniel-knuchel.jpg" width="1000" height="1250" alt="{{ page.portrait_alt }}">
-  <div class="hero-text">
-    <p class="eyebrow">{{ cfg.jobtitle[lang] }}</p>
-    <h1>{{ cfg.title_name }}</h1>
-    <p class="lead">{{ page.lead }}</p>
-    {% if page.lead2 %}<p class="lead lead-2">{{ page.lead2 }}</p>{% endif %}
-    <p class="links">
-      {% for l in cfg.links if l.url %}<a href="{{ l.url }}" rel="me noopener">{{ l.label }}</a>{% endfor %}
-      <a href="mailto:{{ cfg.email }}">E-Mail</a>
-    </p>
-  </div>
-</section>
-
-<section class="pillars-wrap">
-  <p class="section-label">{{ page.pillars_label }}</p>
-  <div class="pillars" aria-label="{{ page.pillars_label }}">
-  {% for p in page.pillars %}
-  <a class="pillar" href="{{ p.href }}">
-    <h2>{{ p.title }}</h2>
-    <p>{{ p.text }}</p>
-  </a>
-  {% endfor %}
-  </div>
-</section>
-
-<section class="news-wrap">
-  <div class="news-col">
-    <p class="section-label">{{ page.news_label }}</p>
-    <ul class="news">
-      {% for n in page.news %}
-      <li><span class="date">{{ n.when }}</span><span>{{ n.text | md_inline | safe }}</span></li>
-      {% endfor %}
+{% if cfg.banner %}<img class="banner" src="/static/img/{{ cfg.banner }}" alt="">{% endif %}
+<div class="about">
+  <aside class="side">
+    <img class="portrait" src="/static/img/daniel-knuchel.jpg" width="1000" height="1250" alt="{{ page.portrait_alt }}">
+    <p class="side-name">{{ cfg.title_name }}</p>
+    <p class="side-role">{{ page.role }}<br>{{ page.affiliation }}</p>
+    <ul class="side-links">
+      <li><a href="mailto:{{ cfg.email }}">{{ cfg.email }}</a></li>
+      {% for l in cfg.links if l.url %}<li><a href="{{ l.url }}" rel="me noopener">{{ l.label }}</a></li>{% endfor %}
+      <li><a href="{{ '/cv/' if lang == 'de' else '/en/cv/' }}">{{ 'Lebenslauf' if lang == 'de' else 'Curriculum vitae' }}</a></li>
     </ul>
-  </div>
-  {% set upcoming = data.talks | selectattr('date', 'ge', build_date.isoformat()) | rejectattr('kind', 'equalto', 'course') | sort(attribute='date') | list %}
-  {% if upcoming %}
-  <div class="news-col">
-    <p class="section-label">{{ page.upcoming_label }}</p>
+  </aside>
+  <section class="prose about-text">
+    <h1>{{ page.heading }}</h1>
+    <p class="lead">{{ page.tagline }}</p>
+    {{ page.html | safe }}
+    <h2>{{ page.news_label }}</h2>
     <ul class="news">
-      {% for x in upcoming[:4] %}
-      <li><span class="date">{{ x.display or x.date }}</span><span><span class="title">{{ x.title | md_inline | safe }}</span>. {{ x.event | md_inline | safe }}{% if x.place %}, {{ x.place }}{% endif %}.</span></li>
-      {% endfor %}
+      {% for n in page.news %}<li><span class="date">{{ n.when }}</span><span>{{ n.text | md_inline | safe }}</span></li>{% endfor %}
+      {% set upcoming = data.talks | selectattr('date', 'ge', build_date.isoformat()) | rejectattr('kind', 'equalto', 'course') | sort(attribute='date') | list %}
+      {% if upcoming %}{% set x = upcoming[0] %}
+      <li><span class="date">{{ x.display or x.date }}</span><span>{{ page.upcoming_label }}: <span class="title">{{ x.title | md_inline | safe }}</span>, {{ x.place }}. <a href="{{ '/vortraege/' if lang == 'de' else '/en/talks/' }}">{{ page.upcoming_more }} →</a></span></li>
+      {% endif %}
     </ul>
-    <p class="small"><a href="{{ '/vortraege/' if lang == 'de' else '/en/talks/' }}">{{ page.upcoming_more }} →</a></p>
-  </div>
-  {% endif %}
-</section>
-
-<section class="prose home-body">
-  {{ page.html | safe }}
-</section>
+  </section>
+</div>
 {% endblock %}

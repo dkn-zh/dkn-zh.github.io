@@ -4,34 +4,25 @@ nav_title: Start
 nav: 1
 template: home
 alt: ""
-description: "Daniel Knuchel, Sprachwissenschaftler an der Universität Zürich. Korpuspragmatik, digitale Linguistik, Diskurs- und Soziolinguistik, Schreiben mit generativer KI."
-lead: "Sprache und Digitalität zusammenzudenken, ist der Kern meines Forschungsprogramms, methodisch wie thematisch. Meine Forschung liegt in der Korpuspragmatik und digitalen Linguistik sowie in der Diskurs- und Soziolinguistik des Gegenwartsdeutschen; ich arbeite kulturanalytisch, empirisch und mit digitalen Methoden. Digitalität spielt dabei eine doppelte Rolle: Sie verändert die Gegenstände der Sprachwissenschaft, von Webforen und Plattformkommunikation bis zur Interaktion mit Sprachmodellen, und sie verändert die Verfahren, mit denen wir sie untersuchen."
-lead2: "Mein Sprachbegriff ist gebrauchsbasiert und kulturanalytisch: Sprache ist eine Praxis, in der Wissen und Bedeutung hergestellt werden und sich als Sprachgebrauchsmuster verfestigen. Daraus ergeben sich meine beiden Leitfragen. Was lässt sich am Gegenwartsdeutschen darüber lernen, wie eine digital geprägte Gesellschaft Wissen ordnet, Zugehörigkeit markiert und kommunikative Normen verschiebt? Und wie ist Sprache zu beschreiben, wenn an ihrer Hervorbringung neben Menschen zunehmend Plattformen, Werkzeuge und generative Systeme beteiligt sind? Rechnen und Lesen greifen in meiner Arbeit ineinander, und jedes Werkzeug prüfe ich auf die Forschungslogik, die es in die Analyse einbringt."
+description: "Daniel Knuchel, Sprach- und Kulturwissenschaftler an der Universität Zürich. Korpuspragmatik und digitale Linguistik, Diskurs- und Soziolinguistik, postdigitale Schreibkulturen."
+heading: Über mich
+tagline: "Sprach- und Kulturwissenschaftler mit Schwerpunkt auf der digitalen und gebrauchsbasierten Linguistik des Deutschen."
 portrait_alt: Porträt von Daniel Knuchel
-pillars_label: Forschungsschwerpunkte
-pillars:
-  - title: Diskurs, Wissen, Gesellschaft
-    text: "Mich interessiert, wie in sprachlicher Praxis Wissen, Identität und kommunikative Normen entstehen und sich verschieben: wie eine Gesellschaft über HIV/AIDS, Sexualität oder Protest spricht, was dabei als Wissen gilt und was mit einem Thema geschieht, wenn das öffentliche Interesse schwindet."
-    href: /forschung/#diskurs
-  - title: Postdigitale Schreibkulturen
-    text: "Mich interessiert, wie sich Schreiben verändert, wenn digitale Werkzeuge und generative KI zur Schreibumgebung gehören: welche Praktiken entstehen, welche Texte, welche Vorstellungen von Autorschaft und Authentizität. In Schule, Universität und Verwaltung, oft gemeinsam mit den Schreibenden selbst."
-    href: /forschung/#schreibkulturen
-  - title: Korpuspragmatik und digitale Methoden
-    text: "Um diesen Fragen nachzugehen, adaptiere ich digitale Methoden und entwickle sie weiter: von Keyness und Kollokationen über Word Embeddings bis zu multimodalen Korpora und Sprachmodellen. Jedes Verfahren prüfe ich darauf, welche Forschungslogik es in die Analyse einbringt."
-    href: /forschung/#korpuspragmatik
+role: Sprach- und Kulturwissenschaftler
+affiliation: Deutsches Seminar, Universität Zürich
 news_label: Aktuell
 news:
   - when: Oktober 2026
-    text: "Das Projekt [Language Regimes of the Machine](/forschung/#projekte) mit Naomi Truan (Leiden) ist bewilligt, gefördert durch das Global Funding Scheme der Universität Zürich."
+    text: "Projekt [Language Regimes of the Machine](/forschung/#projekte) mit Naomi Truan (Leiden) bewilligt, Global Funding Scheme der Universität Zürich."
   - when: Call for Papers
-    text: "Internationaler Workshop «Doing Multilingualism with Generative AI: Recentering the Users», Universität Zürich, 10.–11. März 2027, mit Naomi Truan (Leiden). Keynotes: Bettina Migge und Anna Weichselbraun. Abstracts bis 30. Oktober 2026 an [daniel.knuchel@ds.uzh.ch](mailto:daniel.knuchel@ds.uzh.ch)."
-  - when: Seit September 2026
-    text: "Zürcher Anteil der wissenschaftlichen Expertise [Chatbots an der Schnittstelle von Sozialverwaltung und ihrem Publikum](/forschung/#projekte) für das IAQ Duisburg-Essen, mit Bettina M. Bock (Köln)."
+    text: "Workshop [Doing Multilingualism with Generative AI](/forschung/#projekte), Universität Zürich, 10.–11. März 2027. Abstracts bis 30. Oktober 2026."
   - when: 2026
     text: "Aufsatz «Postdigitale Schreibkulturen im Kontext generativer KI» in der *Zeitschrift für Kulturlinguistik* 1. [Alle Publikationen](/publikationen/)"
-upcoming_label: Nächste Vorträge und Veranstaltungen
+upcoming_label: Nächster Vortrag
 upcoming_more: Alle Vorträge
 ---
-## Kurz
+Ich bin Oberassistent am Deutschen Seminar der Universität Zürich, am Lehrstuhl von Noah Bubenhofer. Promoviert habe ich 2023 in Zürich und Heidelberg mit einer korpuspragmatischen Studie zum Sprechen über HIV/AIDS. Davor habe ich Germanistik, Publizistik und Filmwissenschaft in Zürich und Barcelona studiert.
 
-Ich bin Oberassistent am Lehrstuhl von Noah Bubenhofer am Deutschen Seminar der Universität Zürich. Promoviert habe ich 2023 in Zürich und Heidelberg mit einer korpuspragmatischen Arbeit zum Sprechen über HIV/AIDS. Gelehrt habe ich an den Universitäten Zürich, Basel, Genf, Heidelberg und Skopje, mehr dazu unter [Lehre](/lehre/). Der ganze Werdegang steht im [Lebenslauf](/cv/).
+Mich interessiert, wie in sprachlicher Praxis Wissen, Identität und kommunikative Normen entstehen, und was sich daran unter digitalen Bedingungen verändert. Dafür nutze und entwickle ich korpuspragmatische und digitale Methoden, von Kollokationen bis zu Sprachmodellen. Zurzeit arbeite ich an meiner Habilitation zu [postdigitalen Schreibkulturen](/forschung/#schreibkulturen) und leite Projekte zu Mehrsprachigkeit mit generativer KI, zu Chatbots in der Sozialverwaltung und zum akademischen Schreiben.
+
+Ich lehre in Zürich und habe in Basel, Genf, Heidelberg und Skopje unterrichtet. Mehr dazu unter [Forschung](/forschung/), [Publikationen](/publikationen/) und [Lehre](/lehre/). Für Anfragen zu Vorträgen, Weiterbildungen oder Zusammenarbeit schreiben Sie mir eine [E-Mail](mailto:daniel.knuchel@ds.uzh.ch).
