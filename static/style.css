@@ -89,7 +89,7 @@ main { padding: 4rem var(--space) 5rem; }
 .portrait { width: 160px; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 4px; margin-bottom: 1rem; }
 .side-name { font-weight: 600; font-size: 1.05rem; margin: 0 0 0.2rem; }
 .side-role { font-size: 0.9rem; color: var(--text-2); line-height: 1.45; margin: 0 0 1rem; }
-.side-facts { margin: 0 0 1.1rem; padding: 0.9rem 0 0.2rem; border-top: 1px solid var(--line); font-size: 0.85rem; }
+.side-facts { margin: 0 0 1.1rem; padding: 0; font-size: 0.85rem; }
 .side-facts dt { font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent-2); margin: 0.6rem 0 0.1rem; }
 .side-facts dd { margin: 0; color: var(--text-2); line-height: 1.4; }
 .side-links { list-style: none; padding: 0; margin: 0; font-size: 0.9rem; }

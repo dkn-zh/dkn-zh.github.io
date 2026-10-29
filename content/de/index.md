@@ -5,21 +5,15 @@ nav: 1
 template: home
 alt: ""
 description: "Daniel Knuchel, Sprach- und Kulturwissenschaftler an der Universität Zürich. Korpuspragmatik und digitale Linguistik, Diskurs- und Soziolinguistik, postdigitale Schreibkulturen."
-tagline: "Ich bin Sprach- und Kulturwissenschaftler am Deutschen Seminar der Universität Zürich und erforsche, wie Sprache und Digitalität zusammenhängen: in Diskursen, in denen Wissen verhandelt wird, und in Schreibkulturen, die sich mit generativer KI verändern."
+tagline: "Ich bin Sprach- und Kulturwissenschaftler am Deutschen Seminar der Universität Zürich."
 portrait_alt: Porträt von Daniel Knuchel
 role: Sprach- und Kulturwissenschaftler
-affiliation: Deutsches Seminar, Universität Zürich
+affiliation: Universität Zürich
 facts:
-  - label: Position
-    value: Oberassistent, Lehrstuhl Noah Bubenhofer, seit 2024
-  - label: Promotion
-    value: 2023, Universitäten Zürich und Heidelberg
-  - label: Habilitation
-    value: Postdigitale Schreibkulturen, laufend
-  - label: Lehre
-    value: Zürich, Genf, Basel, Heidelberg, Skopje
-  - label: Schwerpunkte
-    value: Korpuspragmatik, Diskurs- und Soziolinguistik, Sprache und generative KI
+  - label: Forschungsschwerpunkte
+    value: Digitale Linguistik, Korpuspragmatik, Kultur-, Diskurs- und Soziolinguistik, Posthumanismus, Postdigitale Schreibkulturen
+  - label: Adresse
+    value: Deutsches Seminar, Universität Zürich, Schönberggasse 9, 8001 Zürich
 news_label: Aktuell
 news:
   - when: Oktober 2026
@@ -29,6 +23,8 @@ news:
 upcoming_label: Nächster Vortrag
 upcoming_more: Alle Vorträge
 ---
-Mich interessiert, wie in sprachlicher Praxis Wissen, Identität und kommunikative Normen entstehen, und was sich daran unter digitalen Bedingungen verändert. Dafür nutze und entwickle ich korpuspragmatische und digitale Methoden, von Kollokationen bis zu Sprachmodellen. Zurzeit arbeite ich an meiner Habilitation zu [postdigitalen Schreibkulturen](/forschung/#schreibkulturen) und leite Projekte zu Mehrsprachigkeit mit generativer KI, zu Chatbots in der Sozialverwaltung und zum akademischen Schreiben.
+Sprache und Digitalität zusammenzudenken, ist der Kern meines Forschungsprogramms, methodisch wie thematisch. Meine Forschung liegt in der Korpuspragmatik und digitalen Linguistik sowie in der Diskurs- und Soziolinguistik des Gegenwartsdeutschen; ich arbeite kulturanalytisch, empirisch und mit digitalen Methoden. Digitalität spielt dabei eine doppelte Rolle: Sie verändert die Gegenstände der Sprachwissenschaft, von Webforen und Plattformkommunikation bis zur Interaktion mit Sprachmodellen, und sie verändert die Verfahren, mit denen wir sie untersuchen.
+
+Mein Sprachbegriff ist gebrauchsbasiert und kulturanalytisch: Sprache ist eine Praxis, in der Wissen und Bedeutung hergestellt werden und sich als Sprachgebrauchsmuster verfestigen. Daraus ergeben sich meine beiden Leitfragen. Was lässt sich am Gegenwartsdeutschen darüber lernen, wie eine digital geprägte Gesellschaft Wissen ordnet, Zugehörigkeit markiert und kommunikative Normen verschiebt? Und wie ist Sprache zu beschreiben, wenn an ihrer Hervorbringung neben Menschen zunehmend Plattformen, Werkzeuge und generative Systeme beteiligt sind? Rechnen und Lesen greifen in meiner Arbeit ineinander, und jedes Werkzeug prüfe ich auf die Forschungslogik, die es in die Analyse einbringt.
 
 Mehr dazu unter [Forschung](/forschung/), [Publikationen](/publikationen/) und [Lehre](/lehre/). Für Anfragen zu Vorträgen, Weiterbildungen oder Zusammenarbeit schreiben Sie mir eine [E-Mail](mailto:daniel.knuchel@ds.uzh.ch).
