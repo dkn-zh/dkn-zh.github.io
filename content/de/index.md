@@ -5,8 +5,7 @@ nav: 1
 template: home
 alt: ""
 description: "Daniel Knuchel, Sprach- und Kulturwissenschaftler an der Universität Zürich. Korpuspragmatik und digitale Linguistik, Diskurs- und Soziolinguistik, postdigitale Schreibkulturen."
-heading: Über mich
-tagline: "Sprach- und Kulturwissenschaftler mit Schwerpunkt auf der digitalen und gebrauchsbasierten Linguistik des Deutschen."
+tagline: "Ich bin Sprach- und Kulturwissenschaftler am Deutschen Seminar der Universität Zürich und erforsche, wie Sprache und Digitalität zusammenhängen: in Diskursen, in denen Wissen verhandelt wird, und in Schreibkulturen, die sich mit generativer KI verändern."
 portrait_alt: Porträt von Daniel Knuchel
 role: Sprach- und Kulturwissenschaftler
 affiliation: Deutsches Seminar, Universität Zürich
@@ -21,7 +20,7 @@ news:
 upcoming_label: Nächster Vortrag
 upcoming_more: Alle Vorträge
 ---
-Ich bin Oberassistent am Deutschen Seminar der Universität Zürich, am Lehrstuhl von Noah Bubenhofer. Promoviert habe ich 2023 in Zürich und Heidelberg mit einer korpuspragmatischen Studie zum Sprechen über HIV/AIDS. Davor habe ich Germanistik, Publizistik und Filmwissenschaft in Zürich und Barcelona studiert.
+Seit 2024 bin ich Oberassistent am Lehrstuhl von Noah Bubenhofer. Promoviert habe ich 2023 in Zürich und Heidelberg mit einer korpuspragmatischen Studie zum Sprechen über HIV/AIDS; davor habe ich Germanistik, Publizistik und Filmwissenschaft in Zürich und Barcelona studiert.
 
 Mich interessiert, wie in sprachlicher Praxis Wissen, Identität und kommunikative Normen entstehen, und was sich daran unter digitalen Bedingungen verändert. Dafür nutze und entwickle ich korpuspragmatische und digitale Methoden, von Kollokationen bis zu Sprachmodellen. Zurzeit arbeite ich an meiner Habilitation zu [postdigitalen Schreibkulturen](/forschung/#schreibkulturen) und leite Projekte zu Mehrsprachigkeit mit generativer KI, zu Chatbots in der Sozialverwaltung und zum akademischen Schreiben.
 

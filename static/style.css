@@ -93,8 +93,7 @@ main { padding: 4rem var(--space) 5rem; }
 .side-links li { margin: 0 0 0.35rem; }
 .side-links a { color: var(--accent); text-decoration: none; }
 .side-links a:hover { text-decoration: underline; }
-.about-text h1 { font-size: 2.2rem; margin-bottom: 0.8rem; }
-.about-text .lead { font-size: 1.15rem; color: var(--text-2); margin-bottom: 1.4rem; }
+.about-text h1.intro { font-size: 1.45rem; font-weight: 500; line-height: 1.4; letter-spacing: -0.01em; margin: 0.2rem 0 1.4rem; }
 .about-text h2 { margin-top: 2.4rem; }
 @media (max-width: 720px) {
   .about { grid-template-columns: 1fr; }

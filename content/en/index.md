@@ -5,8 +5,7 @@ nav: 1
 template: home
 alt: ""
 description: "Daniel Knuchel, linguist and German studies scholar at the University of Zurich. Corpus pragmatics and digital linguistics, discourse and sociolinguistics, postdigital writing cultures."
-heading: About me
-tagline: "Linguist and German studies scholar with a focus on digital and usage-based linguistics of German."
+tagline: "I am a linguist and German studies scholar at the Department of German Studies, University of Zurich, and I study how language and digitality are intertwined: in discourses where knowledge is negotiated, and in writing cultures that are changing with generative AI."
 portrait_alt: Portrait of Daniel Knuchel
 role: Linguist and German studies scholar
 affiliation: Department of German Studies, University of Zurich
@@ -21,7 +20,7 @@ news:
 upcoming_label: Next talk
 upcoming_more: All talks
 ---
-I am a senior teaching and research fellow (Oberassistent) at the Department of German Studies, University of Zurich, at the chair of Noah Bubenhofer. I completed my PhD in 2023 at Zurich and Heidelberg with a corpus-pragmatic study of how HIV/AIDS is talked about. Before that I studied German, media studies and film studies in Zurich and Barcelona.
+Since 2024 I have been a senior teaching and research fellow (Oberassistent) at the chair of Noah Bubenhofer. I completed my PhD in 2023 at Zurich and Heidelberg with a corpus-pragmatic study of how HIV/AIDS is talked about; before that I studied German, media studies and film studies in Zurich and Barcelona.
 
 I am interested in how knowledge, identity and communicative norms emerge in linguistic practice, and in what changes under digital conditions. To that end I use and develop corpus-pragmatic and digital methods, from collocations to language models. I am currently working on my habilitation on [postdigital writing cultures](/en/research/#writing-cultures) and lead projects on multilingualism with generative AI, on chatbots in social administration and on academic writing.
 
