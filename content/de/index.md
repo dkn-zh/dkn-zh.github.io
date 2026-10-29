@@ -7,11 +7,13 @@ alt: ""
 description: "Daniel Knuchel, Sprach- und Kulturwissenschaftler an der Universität Zürich. Korpuspragmatik und digitale Linguistik, Kultur-, Diskurs- und Soziolinguistik des Gegenwartsdeutschen, postdigitale Schreibkulturen."
 tagline: "Sprach- und Kulturwissenschaftler am Deutschen Seminar der Universität Zürich"
 portrait_alt: Porträt von Daniel Knuchel
+role: Sprach- und Kulturwissenschaftler
+affiliation: Universität Zürich
 facts:
   - label: Forschungsschwerpunkte
     value: Semantik und Pragmatik, Digitale Linguistik, Korpuspragmatik und Sprachgebrauchsanalyse, Kultur-, Diskurs- und Soziolinguistik, Postdigitalität und postdigitale Schreibkulturen, Sprache und generative KI, Posthumanismus
   - label: Laufende Projekte
-    value: "[Language Regimes of the Machine](/forschung/#projekte) · [SchrAIb-Tutor](/forschung/#projekte) · [Multimodale Korpuspragmatik](/forschung/#projekte)"
+    value: "[Postdigitale Schreibkulturen](/forschung/#projekte) · [Language Regimes of the Machine](/forschung/#projekte) · [SchrAIb-Tutor](/forschung/#projekte) · [Multimodale Korpuspragmatik](/forschung/#projekte)"
 news_label: Aktuell
 news:
   - when: Oktober 2026

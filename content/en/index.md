@@ -7,11 +7,13 @@ alt: ""
 description: "Daniel Knuchel, linguist and German studies scholar at the University of Zurich. Corpus pragmatics and digital linguistics, discourse and sociolinguistics, postdigital writing cultures."
 tagline: "Linguist and German studies scholar at the Department of German Studies, University of Zurich"
 portrait_alt: Portrait of Daniel Knuchel
+role: Linguist and German studies scholar
+affiliation: University of Zurich
 facts:
   - label: Research interests
     value: Semantics and pragmatics, digital linguistics, corpus pragmatics and usage analysis, cultural, discourse and sociolinguistics, postdigitality and postdigital writing cultures, language and generative AI, posthumanism
   - label: Current projects
-    value: "[Language Regimes of the Machine](/en/research/#projects) · [SchrAIb-Tutor](/en/research/#projects) · [Multimodal corpus pragmatics](/en/research/#projects)"
+    value: "[Postdigital writing cultures](/en/research/#projects) · [Language Regimes of the Machine](/en/research/#projects) · [SchrAIb-Tutor](/en/research/#projects) · [Multimodal corpus pragmatics](/en/research/#projects)"
 news_label: News
 news:
   - when: October 2026

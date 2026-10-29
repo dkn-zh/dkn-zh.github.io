@@ -29,6 +29,8 @@
 </div>
 <div class="about">
   <aside class="side">
+    <p class="side-name">{{ page.role }}</p>
+    <p class="side-role">{{ page.affiliation }}</p>
     <dl class="side-facts">
       {% for f in page.facts %}<dt>{{ f.label }}</dt><dd>{{ f.value | md_inline | safe }}</dd>{% endfor %}
     </dl>
