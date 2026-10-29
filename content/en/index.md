@@ -9,19 +9,26 @@ tagline: "I am a linguist and German studies scholar at the Department of German
 portrait_alt: Portrait of Daniel Knuchel
 role: Linguist and German studies scholar
 affiliation: Department of German Studies, University of Zurich
+facts:
+  - label: Position
+    value: Senior teaching and research fellow, chair of Noah Bubenhofer, since 2024
+  - label: PhD
+    value: 2023, universities of Zurich and Heidelberg
+  - label: Habilitation
+    value: Postdigital writing cultures, in progress
+  - label: Teaching
+    value: Zurich, Geneva, Basel, Heidelberg, Skopje
+  - label: Areas
+    value: Corpus pragmatics, discourse and sociolinguistics, language and generative AI
 news_label: News
 news:
   - when: October 2026
-    text: "Project [Language Regimes of the Machine](/en/research/#projects) with Naomi Truan (Leiden) funded by the University of Zurich Global Funding Scheme."
+    text: "Project [Language Regimes of the Machine](/en/research/#projects) with Naomi Truan (Leiden) funded."
   - when: Call for papers
-    text: "Workshop [Doing Multilingualism with Generative AI](/en/research/#projects), University of Zurich, 10–11 March 2027. Abstracts by 30 October 2026."
-  - when: 2026
-    text: "Article “Postdigitale Schreibkulturen im Kontext generativer KI” in *Zeitschrift für Kulturlinguistik* 1. [All publications](/en/publications/)"
+    text: "Workshop [Doing Multilingualism with Generative AI](/en/research/#projects), Zurich, 10–11 March 2027."
 upcoming_label: Next talk
 upcoming_more: All talks
 ---
-Since 2024 I have been a senior teaching and research fellow (Oberassistent) at the chair of Noah Bubenhofer. I completed my PhD in 2023 at Zurich and Heidelberg with a corpus-pragmatic study of how HIV/AIDS is talked about; before that I studied German, media studies and film studies in Zurich and Barcelona.
-
 I am interested in how knowledge, identity and communicative norms emerge in linguistic practice, and in what changes under digital conditions. To that end I use and develop corpus-pragmatic and digital methods, from collocations to language models. I am currently working on my habilitation on [postdigital writing cultures](/en/research/#writing-cultures) and lead projects on multilingualism with generative AI, on chatbots in social administration and on academic writing.
 
-I teach in Zurich and have taught in Basel, Geneva, Heidelberg and Skopje. More under [Research](/en/research/), [Publications](/en/publications/) and [Teaching](/en/teaching/). For enquiries about talks, teacher training or collaboration, please [send me an e-mail](mailto:daniel.knuchel@ds.uzh.ch).
+More under [Research](/en/research/), [Publications](/en/publications/) and [Teaching](/en/teaching/). For enquiries about talks, teacher training or collaboration, please [send me an e-mail](mailto:daniel.knuchel@ds.uzh.ch).

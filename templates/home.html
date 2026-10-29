@@ -23,9 +23,12 @@
 {% if cfg.banner %}<img class="banner" src="/static/img/{{ cfg.banner }}" alt="">{% endif %}
 <div class="about">
   <aside class="side">
-    <img class="portrait" src="/static/img/daniel-knuchel.jpg?v={{ portrait_v }}" width="1000" height="1250" alt="{{ page.portrait_alt }}">
+    <img class="portrait" src="/static/img/daniel-knuchel.jpg?v={{ portrait_v }}" width="900" height="900" alt="{{ page.portrait_alt }}">
     <p class="side-name">{{ cfg.title_name }}</p>
     <p class="side-role">{{ page.role }}<br>{{ page.affiliation }}</p>
+    <dl class="side-facts">
+      {% for f in page.facts %}<dt>{{ f.label }}</dt><dd>{{ f.value }}</dd>{% endfor %}
+    </dl>
     <ul class="side-links">
       <li><a href="mailto:{{ cfg.email }}">{{ cfg.email }}</a></li>
       {% for l in cfg.links if l.url %}<li><a href="{{ l.url }}" rel="me noopener">{{ l.label }}</a></li>{% endfor %}

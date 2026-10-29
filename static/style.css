@@ -84,21 +84,25 @@ main { padding: 4rem var(--space) 5rem; }
 
 /* Home: Banner, Seitenleiste, Über mich */
 .banner { width: 100%; aspect-ratio: 3 / 1; object-fit: cover; border-radius: 4px; margin-bottom: 2.5rem; }
-.about { display: grid; grid-template-columns: 240px 1fr; gap: 2rem 3.5rem; align-items: start; }
+.about { display: grid; grid-template-columns: 220px 1fr; gap: 2rem 3.5rem; align-items: start; }
 .side { position: sticky; top: 1.5rem; }
-.portrait { width: 100%; max-width: 240px; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 4px; filter: saturate(0.92); margin-bottom: 1rem; }
+.portrait { width: 160px; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 4px; margin-bottom: 1rem; }
 .side-name { font-weight: 600; font-size: 1.05rem; margin: 0 0 0.2rem; }
 .side-role { font-size: 0.9rem; color: var(--text-2); line-height: 1.45; margin: 0 0 1rem; }
+.side-facts { margin: 0 0 1.1rem; padding: 0.9rem 0 0.2rem; border-top: 1px solid var(--line); font-size: 0.85rem; }
+.side-facts dt { font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent-2); margin: 0.6rem 0 0.1rem; }
+.side-facts dd { margin: 0; color: var(--text-2); line-height: 1.4; }
 .side-links { list-style: none; padding: 0; margin: 0; font-size: 0.9rem; }
 .side-links li { margin: 0 0 0.35rem; }
 .side-links a { color: var(--accent); text-decoration: none; }
 .side-links a:hover { text-decoration: underline; }
-.about-text h1.intro { font-size: 1.45rem; font-weight: 500; line-height: 1.4; letter-spacing: -0.01em; margin: 0.2rem 0 1.4rem; }
+.about-text h1.intro { font-size: 1.4rem; font-weight: 500; line-height: 1.45; letter-spacing: -0.01em; margin: 0.2rem 0 1.4rem; }
 .about-text h2 { margin-top: 2.4rem; }
 @media (max-width: 720px) {
   .about { grid-template-columns: 1fr; }
   .side { position: static; display: grid; grid-template-columns: 120px 1fr; gap: 0 1.2rem; align-items: start; }
-  .portrait { max-width: 120px; margin: 0; grid-row: span 3; }
+  .portrait { width: 110px; margin: 0; grid-row: span 2; }
+  .side-facts { grid-column: 1 / -1; }
   .banner { aspect-ratio: 2 / 1; margin-bottom: 1.5rem; }
 }
 
