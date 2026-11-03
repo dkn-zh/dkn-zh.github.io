@@ -40,13 +40,15 @@
   title: "Postdigitale Schreibkulturen im Kontext generativer KI. Ideologien, Praktiken und Produkte"
   cover: zfk.jpg
   in: "*Zeitschrift für Kulturlinguistik* 1."
+  doi: 10.5077/journals/zfkl.2026.e2379
 - type: article
   year: 2026
   peer_reviewed: true
   authors: ["Knuchel, Daniel", "Bojarski, Xenia", "Ventre, Davide", "Huber, Sonja", "Kaibel, Gunilla"]
-  title: "Diskursiven Wandel korpuspragmatisch aufspüren: Analyse- und Visualisierungsmethoden im Paradigma der data philology"
+  title: "Diskurswandel korpuspragmatisch aufspüren: Analyse- und Visualisierungsmethoden im Kontext der data philology"
   cover: ids-methodenmesse.jpg
   in: "In: Brunner, Annelen / Hansen, Sandra / Lang, Christian / Tu, Ngoc Duyen Tanja / Wolfer, Sascha (Hrsg.): IDS Methodenmesse 2025. Mannheim: IDS-Verlag, 140–157."
+  doi: 10.21248/idsopen.16.2026.88
 - type: article
   year: 2024
   authors: ["Merten, Marie-Luis", "Knuchel, Daniel"]
@@ -68,21 +70,21 @@
   title: "Germanistik als Sprach- und Literaturwissenschaft: Plädoyer für eine Kulturphilologie"
   cover: gis.jpg
   in: "*Germanistik in der Schweiz* 18, 97–107."
-  doi: 10.24894/1664-2457.00013
+  doi: 10.24894/1664-2457.00020
 - type: article
   year: 2022
   authors: ["Bubenhofer, Noah", "Knuchel, Daniel", "Schüller, Larissa"]
   title: "Digitalität als Gegenstand und Methode in der Kulturlinguistik"
   cover: gis.jpg
   in: "*Germanistik in der Schweiz* 18, 64–96."
-  doi: 10.24894/1664-2457.00012
+  doi: 10.24894/1664-2457.00019
 - type: article
   year: 2022
   authors: ["Bubenhofer, Noah", "Knuchel, Daniel", "Schüller, Larissa"]
   title: "Kulturlinguistik in der Schweiz – eine Einleitung"
   cover: gis.jpg
   in: "*Germanistik in der Schweiz* 18, 3–13."
-  doi: 10.24894/1664-2457.00009
+  doi: 10.24894/1664-2457.00016
 - type: article
   year: 2022
   authors: ["Herrmann, Berenike", "Bubenhofer, Noah", "Knuchel, Daniel", "Rebora, Simone", "Messerli, Thomas"]
@@ -110,6 +112,7 @@
   title: "Von Grenzen und Welten: Eine korpuspragmatische COVID-19-Diskursanalyse"
   cover: aptum.jpg
   in: "*Aptum* 16(2/3), 46–55."
+  doi: 10.46771/978-3-96769-102-3_7
 - type: article
   year: 2019
   peer_reviewed: true
@@ -123,6 +126,7 @@
   authors: ["Maci, Stefania M.", "Jablonkai, Réka R.", "Lukasik, Marek", "Daraselia, Sophiko", "Knuchel, Daniel"]
   title: "Disambiguating near synonyms in medical discourse: A multilayered corpus analysis of disease, illness and sickness in the BNC"
   in: "In: Baldry, Anthony / Bianchi, Francesca / Loiacono, Anna (Eds.): Representing and Redefining Specialised Knowledge: Medical Discourse. Lecce: Salento University Publishing, 127–150."
+  doi: 10.1285/i9788883051531p127
 - type: article
   year: 2018
   peer_reviewed: true
