@@ -1,0 +1,3 @@
+Albert Sans is licensed under the SIL Open Font License, Version 1.1.
+Copyright 2022 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)
+Full license text: https://openfontlicense.org
