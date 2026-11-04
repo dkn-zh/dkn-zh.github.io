@@ -11,10 +11,6 @@ lead: "Tools, scripts and learning environments from my research and teaching. W
 Processing and analysis pipeline for a linguistic corpus of the Official Bulletin of the Swiss Federal Assembly, National Council, Council of States and United Federal Assembly, 1999 to 2026, in German, French and Italian. The pipeline harvests the transcripts from the parliament's interface, builds a TEI corpus modelled on ParlaMint, annotates it with parts of speech and lemmas and enriches it with metadata on session, business item and committee. It comes with a browser workbench for frequency, dispersion, keyness, collocation and concordance analyses and with scripts for diachronic word embeddings. Current corpus size: about 90 million tokens in 224,000 speeches. The repository contains the code. The corpora can be reproduced with it.  
 Python. [github.com/dkn-zh/AmtlichesBulletin](https://github.com/dkn-zh/AmtlichesBulletin)
 
-**Discourse latency: scripts and data for the monograph**  
-Analysis scripts and derived data from the dissertation on ›HIV|AIDS‹ in the era of post-infectiousness: frequency lists, keyness and collocation computations, discourse network reconstruction. The primary texts are not included for legal reasons.  
-[github.com/dkn-zh/diskurslatenz](https://github.com/dkn-zh/diskurslatenz)
-
 ## Learning environments
 
 **KoDuP-Germanistik: corpus-linguistic thinking and programming**  

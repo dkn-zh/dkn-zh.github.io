@@ -11,10 +11,6 @@ lead: "Werkzeuge, Skripte und Lernumgebungen aus meiner Forschung und Lehre. Was
 Aufbereitungs- und Analysepipeline für ein linguistisches Korpus des Amtlichen Bulletins der Schweizerischen Bundesversammlung, Nationalrat, Ständerat und Vereinigte Bundesversammlung, 1999 bis 2026, auf Deutsch, Französisch und Italienisch. Die Pipeline erhebt die Protokolle über die Schnittstelle des Parlaments, baut daraus ein TEI-Korpus nach dem Vorbild von ParlaMint, annotiert es mit Wortarten und Lemmata und reichert es mit Metadaten zu Session, Geschäft und Gremium an. Dazu kommen eine Workbench für Frequenz-, Dispersions-, Keyness-, Kollokations- und Konkordanzanalysen im Browser sowie Skripte für diachrone Word Embeddings. Stand des Korpus: rund 90 Millionen Token in 224 000 Redebeiträgen. Das Repositorium enthält den Code, die Korpora lassen sich damit reproduzieren.  
 Python. [github.com/dkn-zh/AmtlichesBulletin](https://github.com/dkn-zh/AmtlichesBulletin)
 
-**Diskurslatenz: Skripte und Daten zur Monographie**  
-Analyseskripte und abgeleitete Daten aus der Dissertation zu ›HIV|AIDS‹ in der Ära der Post-Infektiosität: Frequenzlisten, Keyness- und Kollokationsberechnungen, Diskursnetz-Rekonstruktion. Die Primärtexte selbst sind aus rechtlichen Gründen nicht enthalten.  
-[github.com/dkn-zh/diskurslatenz](https://github.com/dkn-zh/diskurslatenz)
-
 ## Lernumgebungen
 
 **KoDuP-Germanistik: Korpuslinguistisches Denken und Programmieren**  
