@@ -10,7 +10,7 @@ lead: "Tools, scripts and learning environments from my research and teaching. W
 ### Visual corpus pragmatics toolbox
 
 Python scripts and instructions accompanying the article *Diskurswandel korpuspragmatisch aufspüren* (Knuchel et al. 2026). The toolbox computes dispersion, keyness and collocation analyses as well as diachronic word embeddings on verticalised corpus data and visualises the results in a web application for interactive exploration. It can be applied to and extended for corpora of your own.  
-Python, [code on the University of Zurich GitLab](https://gitlab.uzh.ch/daniel.knuchel/visual-corpus-pragmatics).
+Python, [code on the University of Zurich GitLab](https://gitlab.uzh.ch/daniel.knuchel/visual-corpus-pragmatics), access with a UZH login or on request.
 
 ### Parliamentary corpus: pipeline for the Amtliches Bulletin
 

@@ -10,7 +10,7 @@ lead: "Werkzeuge, Skripte und Lernumgebungen aus meiner Forschung und Lehre. Was
 ### Toolbox Visuelle Korpuspragmatik
 
 Python-Skripte und Anleitung zum Aufsatz *Diskurswandel korpuspragmatisch aufspüren* (Knuchel et al. 2026). Die Toolbox rechnet Dispersions-, Keyness- und Kollokationsanalysen sowie diachrone Word Embeddings auf vertikalisierten Korpusdaten und visualisiert die Ergebnisse in einer Webapplikation zur interaktiven Exploration. Sie lässt sich auf eigene Korpora anwenden und erweitern.  
-Python, [Code auf dem GitLab der Universität Zürich](https://gitlab.uzh.ch/daniel.knuchel/visual-corpus-pragmatics).
+Python, [Code auf dem GitLab der Universität Zürich](https://gitlab.uzh.ch/daniel.knuchel/visual-corpus-pragmatics), Zugang mit UZH-Login oder auf Anfrage.
 
 ### Parlamentskorpus: Pipeline für das Amtliche Bulletin
 
