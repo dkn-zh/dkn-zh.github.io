@@ -1,6 +1,6 @@
 ---
 title: Teaching
-nav: 5
+nav: 3
 template: teaching
 alt: lehre
 description: "Teaching by Daniel Knuchel at the universities of Zurich, Geneva, Basel, Heidelberg and Skopje."

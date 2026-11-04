@@ -1,6 +1,6 @@
 ---
 title: Publikationen
-nav: 3
+nav: 4
 template: publications
 alt: publications
 description: "Publikationen von Daniel Knuchel: Monographien, Herausgaben, Aufsätze und Buchkapitel zu Korpuspragmatik, Diskurslinguistik und Schreiben mit generativer KI."

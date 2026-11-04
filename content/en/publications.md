@@ -1,6 +1,6 @@
 ---
 title: Publications
-nav: 3
+nav: 4
 template: publications
 alt: publikationen
 description: "Publications by Daniel Knuchel: monographs, edited volumes, articles and book chapters on corpus pragmatics, discourse analysis and writing with generative AI."
