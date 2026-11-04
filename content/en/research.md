@@ -61,7 +61,7 @@ I developed this position in my dissertation and pursued it further in the proje
 <div class="course-body">
 <p>A modular, openly accessible self-learning environment accompanies students along the six phases of the academic writing process, from orientation to editing, and addresses writing practices such as excerpting, paraphrasing, citing and arguing. Generative AI is considered in every phase: what can a tool do, where are its limits, and which decisions remain with the writer?</p>
 
-<p class="meta">Principal investigator, with Elisabeth Zima | external partner Christian Rapp (ZHAW) | University Teaching Fund UZH (open_innovation)</p>
+<p class="meta">Principal investigator, with Elisabeth Zima | University Teaching Fund UZH (open_innovation)</p>
 </div></details></li>
 <li><span class="sem">2025–2027</span>
 <details class="course"><summary>AI in teaching: promising practices in the humanities and social sciences <span class="muted">(project coordination)</span></summary>

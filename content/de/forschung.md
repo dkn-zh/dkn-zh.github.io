@@ -61,7 +61,7 @@ Diese Position habe ich in der Dissertation entwickelt und im Projekt *Forschung
 <div class="course-body">
 <p>Eine modulare, öffentlich zugängliche Selbstlernumgebung begleitet Studierende entlang der sechs Phasen des wissenschaftlichen Schreibprozesses, vom Orientieren bis zum Editieren, und thematisiert Schreibpraktiken wie Exzerpieren, Paraphrasieren, Zitieren und Argumentieren. Generative KI wird in jeder Phase mitgedacht: Was kann ein Werkzeug leisten, wo liegen seine Grenzen, und welche Entscheidung bleibt bei der schreibenden Person?</p>
 
-<p class="meta">Projektleitung, mit Elisabeth Zima | externer Partner Christian Rapp (ZHAW) | Universitäre Lehrförderung UZH (open_innovation)</p>
+<p class="meta">Projektleitung, mit Elisabeth Zima | Universitäre Lehrförderung UZH (open_innovation)</p>
 </div></details></li>
 <li><span class="sem">2025–2027</span>
 <details class="course"><summary>KI in der Lehre: Promising Practices in den Geistes- und Sozialwissenschaften <span class="muted">(Projektkoordination)</span></summary>
