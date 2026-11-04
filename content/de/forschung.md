@@ -45,7 +45,7 @@ Generative KI gilt als mehrsprachig, behandelt Sprachen aber wie ein Menü aus g
 <li markdown="1"><span class="sem">seit 2026</span>
 <details class="course" markdown="1"><summary>Multimodale Korpuspragmatik: die Jugendzeitschrift Bravo als Testfall <span class="muted">(Methodenprojekt, IMPRS)</span></summary>
 <div class="course-body" markdown="1">
-Die Korpuspragmatik ist textuell orientiert und blendet Layout und Bild weitgehend aus. An einem multimodalen Korpus der Bravo (1956–1999) untersuche ich, wie sich Text, Bild und Layout so erschliessen lassen, dass Sprache-Bild-Relationen korpuspragmatisch analysierbar werden, und was Vision-Language-Modelle bei Segmentierung und Annotation im Vergleich zur manuellen Arbeit leisten.
+Die Korpuspragmatik ist textuell orientiert und blendet Layout und Bild weitgehend aus. An einem multimodalen Korpus der Bravo (1956–1999) untersuche ich, wie sich Text, Bild und Layout so erschliessen lassen, dass Sprache-Bild-Relationen korpuspragmatisch analysierbar werden, und was Sprach- und Vision-Language-Modelle im Vergleich zur manuellen Arbeit leisten, bei Segmentierung und Annotation ebenso wie bei der Analyse der Daten selbst.
 
 <p class="meta">Methodenprojekt · International Max Planck Research School for Multimodal Digital Humanities (Bibliotheca Hertziana, Rom)</p>
 </div></details></li>

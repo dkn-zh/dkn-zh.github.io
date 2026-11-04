@@ -45,7 +45,7 @@ Generative AI counts as multilingual, yet it treats languages like a menu of sep
 <li markdown="1"><span class="sem">since 2026</span>
 <details class="course" markdown="1"><summary>Multimodal corpus pragmatics: the youth magazine Bravo as a test case <span class="muted">(methods project, IMPRS)</span></summary>
 <div class="course-body" markdown="1">
-Corpus pragmatics is text-oriented and largely ignores layout and image. Using a multimodal corpus of Bravo (1956–1999), I examine how text, image and layout can be processed so that text-image relations become analysable corpus-pragmatically, and what vision-language models contribute to segmentation and annotation compared with manual work.
+Corpus pragmatics is text-oriented and largely ignores layout and image. Using a multimodal corpus of Bravo (1956–1999), I examine how text, image and layout can be processed so that text-image relations become analysable corpus-pragmatically, and what language and vision-language models contribute compared with manual work, in segmentation and annotation as well as in the analysis of the data itself.
 
 <p class="meta">Methods project · International Max Planck Research School for Multimodal Digital Humanities (Bibliotheca Hertziana, Rome)</p>
 </div></details></li>
