@@ -246,6 +246,6 @@ institutions:
 
   - name: Ss. Cyril and Methodius University, Skopje
     courses:
-      - {sem: 2025/2026, title: "Korpuslinguistik (Gastdozentur, PhD-Workshops)", format: ""}
+      - {sem: 2025/2026, title: "Korpuslinguistik (Gastdozentur)", format: "PhD-Workshops"}
 
 trainings: []
