@@ -96,7 +96,8 @@ def build():
             meta, body = read_page(path)
             slug = meta.get("slug", "" if path.stem == "index" else path.stem)
             md = markdown.Markdown(extensions=MD_EXTENSIONS)
-            meta.update(slug=slug, lang=lang, html=md.convert(body), url=url_for(cfg, lang, slug))
+            body, _, after = body.partition("<!-- after -->")
+            meta.update(slug=slug, lang=lang, html=md.convert(body), html_after=md.convert(after) if after.strip() else "", url=url_for(cfg, lang, slug))
             pages[(lang, slug)] = meta
 
     for (lang, slug), page in pages.items():
