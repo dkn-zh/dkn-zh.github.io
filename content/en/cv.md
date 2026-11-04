@@ -30,7 +30,7 @@ description: "CV of Daniel Knuchel: positions, education, funding, academic serv
 
 ## Funding
 
-Doc.CH fellowship of the Swiss National Science Foundation (2015–2018), Seed Grant of the University of Zurich Global Funding Scheme (2026), Research Fund (2018) and Competitive Teaching Fund (2020) of the University of Zurich, Citizen Science Seed Money Grant of ETH Zurich and the University of Zurich (2024), several projects of the University Teaching Fund (2025, 2026) and the Teaching Development Fund of UZH (2013, 2020).
+Doc.CH fellowship of the Swiss National Science Foundation (2015), Seed Grant of the University of Zurich Global Funding Scheme (2026), Research Fund (2018) and Competitive Teaching Fund (2020) of the University of Zurich, Citizen Science Seed Money Grant of ETH Zurich and the University of Zurich (2024), several projects of the University Teaching Fund (2025, 2026) and the Teaching Development Fund of UZH (2013, 2020).
 
 ## Academic service and memberships
 
