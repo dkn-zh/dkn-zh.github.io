@@ -5,11 +5,18 @@ alt: ressourcen
 description: "Digital resources by Daniel Knuchel: corpus pipelines, analysis tools, scripts and learning environments on GitHub and at the University of Zurich."
 lead: "Tools, scripts and learning environments from my research and teaching. What is on GitHub is openly accessible. The learning environments run on the platforms of the University of Zurich."
 ---
-## Code and data
+## Code
+
+### Visual corpus pragmatics toolbox
+
+Python scripts and instructions accompanying the article *Diskurswandel korpuspragmatisch aufspüren* (Knuchel et al. 2026). The toolbox computes dispersion, keyness and collocation analyses as well as diachronic word embeddings on verticalised corpus data and visualises the results in a web application for interactive exploration. It can be applied to and extended for corpora of your own.  
+Python, [code on the University of Zurich GitLab](https://gitlab.uzh.ch/daniel.knuchel/visual-corpus-pragmatics).
 
 ### Parliamentary corpus: pipeline for the Amtliches Bulletin
 
-Processing and analysis pipeline for a linguistic corpus of the Official Bulletin of the Swiss Federal Assembly, National Council, Council of States and United Federal Assembly, 1999 to 2026, in German, French and Italian. The pipeline harvests the transcripts from the parliament's interface, builds a TEI corpus modelled on ParlaMint, annotates it with parts of speech and lemmas and enriches it with metadata on session, business item and committee. It comes with a browser workbench for frequency, dispersion, keyness, collocation and concordance analyses and with scripts for diachronic word embeddings. Current corpus size: about 90 million tokens in 224,000 speeches. The repository contains the code. The corpora can be reproduced with it.  
+Processing and analysis pipeline for a linguistic corpus of the Official Bulletin of the Swiss Federal Assembly, National Council, Council of States and United Federal Assembly, 1999 to 2026, in German, French and Italian. The pipeline harvests the transcripts from the parliament's interface, builds a TEI corpus modelled on ParlaMint, annotates it with parts of speech and lemmas and enriches it with metadata on session, business item and committee. Current corpus size: about 90 million tokens in 224,000 speeches.
+
+It comes with a browser workbench for frequency, dispersion, keyness, collocation and concordance analyses and with scripts for diachronic word embeddings, both reusable for other corpora. The repository contains the code. The corpora can be reproduced with it.  
 Python, [code on GitHub](https://github.com/dkn-zh/AmtlichesBulletin).
 
 ## Learning environments
@@ -22,14 +29,8 @@ Access via the OLAT learning platform of the University of Zurich.
 ### Modern German language history online
 
 Interactive timeline of the history of German since 1650 with input videos, expert interviews, model analyses and quizzes, developed for the introductory courses at the Department of German Studies (with Noah Bubenhofer, 2020 to 2021).  
-Access via OLAT, University of Zurich.
+Access via the OLAT learning platform of the University of Zurich.
 
 ### SchrAIb-Tutor
 
 Openly accessible self-learning environment on academic writing in times of AI, along the six phases of the writing process. Under construction, launch January 2028.
-
-## Summer school
-
-### ZuKoKo: Zurich corpus linguistics and corpus pragmatics
-
-Summer school at the Department of German Studies, University of Zurich, every two years since 2021, designed and coordinated with Noah Bubenhofer. Courses on the foundations of corpus pragmatics, corpus-pragmatic classics, building one's own resources and corpus analysis with Python. The next edition is planned for 2027.
