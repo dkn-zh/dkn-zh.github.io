@@ -27,6 +27,8 @@ I developed this position in my dissertation and pursued it further in the proje
 
 <p class="muted small">Entries expand on click.</p>
 
+### Ongoing
+
 <ul class="courses projects">
 <li><span class="sem">since 2024</span>
 <details class="course"><summary>Postdigital writing cultures <span class="muted">(habilitation project)</span></summary>
@@ -42,12 +44,12 @@ I developed this position in my dissertation and pursued it further in the proje
 
 <p class="meta">Led with Naomi Truan (Leiden University) | University of Zurich Global Funding Scheme</p>
 </div></details></li>
-<li><span class="sem">since 2026</span>
-<details class="course"><summary>Multimodal corpus pragmatics: the youth magazine Bravo as a test case <span class="muted">(methods project, IMPRS)</span></summary>
+<li><span class="sem">2026–2028</span>
+<details class="course"><summary>SchrAIb-Tutor: fostering academic writing competence in times of AI <span class="muted">(principal investigator)</span></summary>
 <div class="course-body">
-<p>Corpus pragmatics is text-oriented and largely ignores layout and image. Using a multimodal corpus of Bravo (1956–1999), I examine how text, image and layout can be processed so that text-image relations become analysable corpus-pragmatically, and what language and vision-language models contribute compared with manual work, in segmentation and annotation as well as in the analysis of the data itself.</p>
+<p>A modular, openly accessible self-learning environment accompanies students along the six phases of the academic writing process, from orientation to editing, and addresses writing practices such as excerpting, paraphrasing, citing and arguing. Generative AI is considered in every phase: what can a tool do, where are its limits, and which decisions remain with the writer?</p>
 
-<p class="meta">Methods project | International Max Planck Research School for Multimodal Digital Humanities (Bibliotheca Hertziana, Rome)</p>
+<p class="meta">Principal investigator, with Elisabeth Zima | University Teaching Fund UZH (open_innovation)</p>
 </div></details></li>
 <li><span class="sem">2026–2027</span>
 <details class="course"><summary>Chatbots at the interface between social administration and its public <span class="muted">(expert report)</span></summary>
@@ -56,12 +58,12 @@ I developed this position in my dissertation and pursued it further in the proje
 
 <p class="meta">Expert report commissioned by the Institute for Work, Skills and Training, University of Duisburg-Essen | led by Bettina M. Bock (Cologne), Zurich part with Xenia Bojarski</p>
 </div></details></li>
-<li><span class="sem">2026–2028</span>
-<details class="course"><summary>SchrAIb-Tutor: fostering academic writing competence in times of AI <span class="muted">(principal investigator)</span></summary>
+<li><span class="sem">since 2026</span>
+<details class="course"><summary>Multimodal corpus pragmatics: the youth magazine Bravo as a test case <span class="muted">(methods project, IMPRS)</span></summary>
 <div class="course-body">
-<p>A modular, openly accessible self-learning environment accompanies students along the six phases of the academic writing process, from orientation to editing, and addresses writing practices such as excerpting, paraphrasing, citing and arguing. Generative AI is considered in every phase: what can a tool do, where are its limits, and which decisions remain with the writer?</p>
+<p>Corpus pragmatics is text-oriented and largely ignores layout and image. Using a multimodal corpus of Bravo (1956–1999), I examine how text, image and layout can be processed so that text-image relations become analysable corpus-pragmatically, and what language and vision-language models contribute compared with manual work, in segmentation and annotation as well as in the analysis of the data itself.</p>
 
-<p class="meta">Principal investigator, with Elisabeth Zima | University Teaching Fund UZH (open_innovation)</p>
+<p class="meta">Methods project | International Max Planck Research School for Multimodal Digital Humanities (Bibliotheca Hertziana, Rome)</p>
 </div></details></li>
 <li><span class="sem">2025–2027</span>
 <details class="course"><summary>AI in teaching: promising practices in the humanities and social sciences <span class="muted">(project coordination)</span></summary>
@@ -70,6 +72,11 @@ I developed this position in my dissertation and pursued it further in the proje
 
 <p class="meta">Project coordination | led by Sandro Zanetti and Peter Finke | University Teaching Fund UZH</p>
 </div></details></li>
+</ul>
+
+### Completed
+
+<ul class="courses projects">
 <li><span class="sem">2024–2025</span>
 <details class="course"><summary>Writing with AI? I can! <span class="muted">(citizen science project)</span></summary>
 <div class="course-body">
@@ -77,18 +84,18 @@ I developed this position in my dissertation and pursued it further in the proje
 
 <p class="meta">Principal investigator | Citizen Science Zurich (ETH Zurich and University of Zurich)</p>
 </div></details></li>
-<li><span class="sem">2015–2023</span>
-<details class="course"><summary>Communication and (non-)knowledge about HIV/AIDS <span class="muted">(doctoral project)</span></summary>
-<div class="course-body">
-<p>Doctoral project on the linguistic conceptualisation of HIV/AIDS in German-speaking Switzerland in media and web forums, from which the concept of discourse latency emerged.</p>
-
-<p class="meta">Doctoral project | Doc.CH fellowship of the Swiss National Science Foundation and Research Fund of the University of Zurich</p>
-</div></details></li>
 <li><span class="sem">2018–2020</span>
 <details class="course"><summary>Research logics in text-based digital humanities <span class="muted">(coordination)</span></summary>
 <div class="course-body">
 <p>The project examined which ideas of language and text are inscribed in the tools of text-based digital humanities and how they shape the findings.</p>
 
 <p class="meta">Coordination | SNSF project within the Digital Lives programme, led by Noah Bubenhofer</p>
+</div></details></li>
+<li><span class="sem">2015–2023</span>
+<details class="course"><summary>Communication and (non-)knowledge about HIV/AIDS <span class="muted">(doctoral project)</span></summary>
+<div class="course-body">
+<p>Doctoral project on the linguistic conceptualisation of HIV/AIDS in German-speaking Switzerland in media and web forums, from which the concept of discourse latency emerged.</p>
+
+<p class="meta">Doctoral project | Doc.CH fellowship of the Swiss National Science Foundation and Research Fund of the University of Zurich</p>
 </div></details></li>
 </ul>

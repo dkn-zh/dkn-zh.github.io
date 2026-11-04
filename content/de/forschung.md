@@ -27,6 +27,8 @@ Diese Position habe ich in der Dissertation entwickelt und im Projekt *Forschung
 
 <p class="muted small">Die Einträge lassen sich aufklappen.</p>
 
+### Laufend
+
 <ul class="courses projects">
 <li><span class="sem">seit 2024</span>
 <details class="course"><summary>Postdigitale Schreibkulturen <span class="muted">(Habilitationsprojekt)</span></summary>
@@ -42,12 +44,12 @@ Diese Position habe ich in der Dissertation entwickelt und im Projekt *Forschung
 
 <p class="meta">Leitung mit Naomi Truan (Universiteit Leiden) | Global Funding Scheme der Universität Zürich</p>
 </div></details></li>
-<li><span class="sem">seit 2026</span>
-<details class="course"><summary>Multimodale Korpuspragmatik: die Jugendzeitschrift Bravo als Testfall <span class="muted">(Methodenprojekt, IMPRS)</span></summary>
+<li><span class="sem">2026–2028</span>
+<details class="course"><summary>SchrAIb-Tutor: Förderung akademischer Textkompetenzen in Zeiten von KI <span class="muted">(Projektleitung)</span></summary>
 <div class="course-body">
-<p>Die Korpuspragmatik ist textuell orientiert und blendet Layout und Bild weitgehend aus. An einem multimodalen Korpus der Bravo (1956–1999) untersuche ich, wie sich Text, Bild und Layout so erschliessen lassen, dass Sprache-Bild-Relationen korpuspragmatisch analysierbar werden, und was Sprach- und Vision-Language-Modelle im Vergleich zur manuellen Arbeit leisten, bei Segmentierung und Annotation ebenso wie bei der Analyse der Daten selbst.</p>
+<p>Eine modulare, öffentlich zugängliche Selbstlernumgebung begleitet Studierende entlang der sechs Phasen des wissenschaftlichen Schreibprozesses, vom Orientieren bis zum Editieren, und thematisiert Schreibpraktiken wie Exzerpieren, Paraphrasieren, Zitieren und Argumentieren. Generative KI wird in jeder Phase mitgedacht: Was kann ein Werkzeug leisten, wo liegen seine Grenzen, und welche Entscheidung bleibt bei der schreibenden Person?</p>
 
-<p class="meta">Methodenprojekt | International Max Planck Research School for Multimodal Digital Humanities (Bibliotheca Hertziana, Rom)</p>
+<p class="meta">Projektleitung, mit Elisabeth Zima | Universitäre Lehrförderung UZH (open_innovation)</p>
 </div></details></li>
 <li><span class="sem">2026–2027</span>
 <details class="course"><summary>Chatbots an der Schnittstelle von Sozialverwaltung und ihrem Publikum <span class="muted">(Expertise)</span></summary>
@@ -56,12 +58,12 @@ Diese Position habe ich in der Dissertation entwickelt und im Projekt *Forschung
 
 <p class="meta">Wissenschaftliche Expertise im Auftrag des Instituts Arbeit und Qualifikation, Universität Duisburg-Essen | Projektleitung Bettina M. Bock (Köln), Zürcher Anteil mit Xenia Bojarski</p>
 </div></details></li>
-<li><span class="sem">2026–2028</span>
-<details class="course"><summary>SchrAIb-Tutor: Förderung akademischer Textkompetenzen in Zeiten von KI <span class="muted">(Projektleitung)</span></summary>
+<li><span class="sem">seit 2026</span>
+<details class="course"><summary>Multimodale Korpuspragmatik: die Jugendzeitschrift Bravo als Testfall <span class="muted">(Methodenprojekt, IMPRS)</span></summary>
 <div class="course-body">
-<p>Eine modulare, öffentlich zugängliche Selbstlernumgebung begleitet Studierende entlang der sechs Phasen des wissenschaftlichen Schreibprozesses, vom Orientieren bis zum Editieren, und thematisiert Schreibpraktiken wie Exzerpieren, Paraphrasieren, Zitieren und Argumentieren. Generative KI wird in jeder Phase mitgedacht: Was kann ein Werkzeug leisten, wo liegen seine Grenzen, und welche Entscheidung bleibt bei der schreibenden Person?</p>
+<p>Die Korpuspragmatik ist textuell orientiert und blendet Layout und Bild weitgehend aus. An einem multimodalen Korpus der Bravo (1956–1999) untersuche ich, wie sich Text, Bild und Layout so erschliessen lassen, dass Sprache-Bild-Relationen korpuspragmatisch analysierbar werden, und was Sprach- und Vision-Language-Modelle im Vergleich zur manuellen Arbeit leisten, bei Segmentierung und Annotation ebenso wie bei der Analyse der Daten selbst.</p>
 
-<p class="meta">Projektleitung, mit Elisabeth Zima | Universitäre Lehrförderung UZH (open_innovation)</p>
+<p class="meta">Methodenprojekt | International Max Planck Research School for Multimodal Digital Humanities (Bibliotheca Hertziana, Rom)</p>
 </div></details></li>
 <li><span class="sem">2025–2027</span>
 <details class="course"><summary>KI in der Lehre: Promising Practices in den Geistes- und Sozialwissenschaften <span class="muted">(Projektkoordination)</span></summary>
@@ -70,6 +72,11 @@ Diese Position habe ich in der Dissertation entwickelt und im Projekt *Forschung
 
 <p class="meta">Projektkoordination | Leitung Sandro Zanetti und Peter Finke | Universitäre Lehrförderung UZH</p>
 </div></details></li>
+</ul>
+
+### Abgeschlossen
+
+<ul class="courses projects">
 <li><span class="sem">2024–2025</span>
 <details class="course"><summary>Mit KI schreiben? Kann ich! <span class="muted">(Citizen-Science-Projekt)</span></summary>
 <div class="course-body">
@@ -77,18 +84,18 @@ Diese Position habe ich in der Dissertation entwickelt und im Projekt *Forschung
 
 <p class="meta">Projektleitung | Citizen Science Zürich (ETH Zürich und Universität Zürich)</p>
 </div></details></li>
-<li><span class="sem">2015–2023</span>
-<details class="course"><summary>Kommunikation und (Nicht-)Wissen über HIV/AIDS <span class="muted">(Dissertationsprojekt)</span></summary>
-<div class="course-body">
-<p>Dissertationsprojekt zur sprachlichen Konzeptualisierung von HIV/AIDS in der Deutschschweiz in Medien und Webforen, aus dem das Konzept der Diskurslatenz hervorgegangen ist.</p>
-
-<p class="meta">Dissertationsprojekt | Doc.CH-Stipendium des Schweizerischen Nationalfonds und Forschungskredit der Universität Zürich</p>
-</div></details></li>
 <li><span class="sem">2018–2020</span>
 <details class="course"><summary>Forschungslogiken in den textbasierten Digital Humanities <span class="muted">(Koordination)</span></summary>
 <div class="course-body">
 <p>Das Projekt hat untersucht, welche Vorstellungen von Sprache und Text in die Werkzeuge der textbasierten Digital Humanities eingeschrieben sind und wie sie die Befunde mitbestimmen.</p>
 
 <p class="meta">Koordination | SNF-Projekt im Verbund Digital Lives, Leitung Noah Bubenhofer</p>
+</div></details></li>
+<li><span class="sem">2015–2023</span>
+<details class="course"><summary>Kommunikation und (Nicht-)Wissen über HIV/AIDS <span class="muted">(Dissertationsprojekt)</span></summary>
+<div class="course-body">
+<p>Dissertationsprojekt zur sprachlichen Konzeptualisierung von HIV/AIDS in der Deutschschweiz in Medien und Webforen, aus dem das Konzept der Diskurslatenz hervorgegangen ist.</p>
+
+<p class="meta">Dissertationsprojekt | Doc.CH-Stipendium des Schweizerischen Nationalfonds und Forschungskredit der Universität Zürich</p>
 </div></details></li>
 </ul>
