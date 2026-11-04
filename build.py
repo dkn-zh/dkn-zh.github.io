@@ -86,6 +86,7 @@ def build():
     # Versionskennung für das Porträt, damit Browser nach einem Fotowechsel nicht das alte Bild aus dem Cache zeigen
     portrait = ROOT / "static/img/daniel-knuchel.jpg"
     env.globals["portrait_v"] = hashlib.md5(portrait.read_bytes()).hexdigest()[:8] if portrait.exists() else "0"
+    env.globals["css_v"] = hashlib.md5((ROOT / "static" / "style.css").read_bytes()).hexdigest()[:8]
     env.filters["md"] = lambda s: markdown.markdown(s or "", extensions=["extra"])
     env.filters["md_inline"] = lambda s: re.sub(r"^<p>|</p>$", "", markdown.markdown(s or "", extensions=["extra"]).strip())
 
