@@ -4,8 +4,9 @@ nav: 5
 template: teaching
 alt: lehre
 description: "Teaching by Daniel Knuchel at the universities of Zurich, Geneva, Basel, Heidelberg and Skopje."
+lead: "I have taught for about ten years at the universities of Zurich, Geneva, Basel, Heidelberg and Skopje at BA, MA and PhD level. Besides introductory courses in the diachronic and synchronic linguistics of German, I mainly teach thematic courses in corpus linguistics and corpus pragmatics, discourse, media and cultural linguistics, semantics and pragmatics, and academic writing."
 ---
-I have taught for about ten years at the universities of Zurich, Geneva, Basel, Heidelberg and Skopje at BA, MA and PhD level. Besides introductory courses in the diachronic and synchronic linguistics of German, I mainly teach thematic courses in corpus linguistics and corpus pragmatics, discourse, media and cultural linguistics, semantics and pragmatics, and academic writing.
+## Teaching philosophy
 
 In my courses, students work with data and sources and have the opportunity to get hands-on experience of the different phases of linguistic research. I do not treat methods as neutral: whoever understands a procedure knows which findings are due to the object and which to the tool. This applies to corpus tools as much as to generative AI.
 

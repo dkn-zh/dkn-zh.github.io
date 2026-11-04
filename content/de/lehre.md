@@ -4,8 +4,9 @@ nav: 5
 template: teaching
 alt: teaching
 description: "Lehre von Daniel Knuchel an den Universitäten Zürich, Genf, Basel, Heidelberg und Skopje."
+lead: "Ich lehre seit rund zehn Jahren an den Universitäten Zürich, Genf, Basel, Heidelberg und Skopje auf Bachelor-, Master- und Doktoratsstufe. Neben Einführungsveranstaltungen in die diachrone und synchrone Linguistik des Deutschen unterrichte ich insbesondere thematische Veranstaltungen in den Gebieten der Korpuslinguistik und Korpuspragmatik, der Diskurs-, Medien- und Kulturlinguistik, der Semantik und Pragmatik sowie des akademischen Schreibens."
 ---
-Ich lehre seit rund zehn Jahren an den Universitäten Zürich, Genf, Basel, Heidelberg und Skopje auf Bachelor-, Master- und Doktoratsstufe. Neben Einführungsveranstaltungen in die diachrone und synchrone Linguistik des Deutschen unterrichte ich insbesondere thematische Veranstaltungen in den Gebieten der Korpuslinguistik und Korpuspragmatik, der Diskurs-, Medien- und Kulturlinguistik, der Semantik und Pragmatik sowie des akademischen Schreibens.
+## Lehrphilosophie
 
 In meinen Veranstaltungen arbeiten Studierende daten- und quellengestützt und haben die Möglichkeit, die verschiedenen Phasen linguistischer Forschung hands-on kennenzulernen. Methoden behandle ich dabei nicht als neutral: Wer ein Verfahren versteht, weiss, welche Befunde dem Gegenstand und welche dem Werkzeug geschuldet sind. Das gilt für Korpustools wie für generative KI.
 
