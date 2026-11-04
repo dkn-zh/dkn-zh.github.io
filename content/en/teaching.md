@@ -3,8 +3,8 @@ title: Teaching
 nav: 5
 template: teaching
 alt: lehre
-description: "Teaching by Daniel Knuchel at the universities of Zurich, Geneva, Basel and Heidelberg."
-lead: "I have taught for about ten years at the universities of Zurich, Geneva, Basel and Heidelberg at BA and MA level: corpus linguistics and corpus pragmatics, discourse, media and cultural linguistics, semantics and pragmatics, modern language history, academic writing."
+description: "Teaching by Daniel Knuchel at the universities of Zurich, Geneva, Basel, Heidelberg and Skopje."
+lead: "I have taught for about ten years at the universities of Zurich, Geneva, Basel, Heidelberg and Skopje at BA and MA level: corpus linguistics and corpus pragmatics, discourse, media and cultural linguistics, semantics and pragmatics, modern language history, academic writing."
 ---
 In my courses, students work close to the sources and go through a small research cycle of their own, from question to presentation of results. I do not treat methods as neutral: whoever understands a procedure knows which findings are due to the object and which to the tool. This applies to corpus tools as much as to generative AI.
 

@@ -12,11 +12,12 @@ description: "CV of Daniel Knuchel: positions, education, funding, academic serv
 | since 01/2024 | Senior teaching and research fellow in German linguistics, chair of Noah Bubenhofer, University of Zurich |
 | 02/2024–08/2026 | Substitute (part-time) for the chair of German linguistics, University of Geneva |
 | 01/2026 | Visiting scholar, University of North Carolina at Chapel Hill |
+| 11/2025 and 06/2026 | Visiting lecturer in corpus linguistics, Ss. Cyril and Methodius University in Skopje (SEMP guest lectureship) |
 | 09/2019–12/2023 | Research and teaching assistant, chair of Noah Bubenhofer, University of Zurich |
 | 2019 and 2023 | Lecturer in German linguistics, University of Basel |
 | 2018–2019 | Research associate, Digital Linguistics unit, Zurich University of Applied Sciences (ZHAW) |
 | 2016–2017 | Visiting researcher and lecturer, Department of German, Heidelberg University |
-| 2013–2018 | Research assistant and SNSF fellow, chair of Angelika Linke, University of Zurich |
+| 2012–2018 | Student assistant, project collaborator and SNSF fellow, chair of Angelika Linke, University of Zurich |
 
 ## Education
 

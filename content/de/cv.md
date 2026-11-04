@@ -12,11 +12,12 @@ description: "Lebenslauf von Daniel Knuchel: Positionen, Ausbildung, Förderunge
 | seit 01/2024 | Oberassistent für Deutsche Sprachwissenschaft, Lehrstuhl Noah Bubenhofer, Universität Zürich |
 | 02/2024–08/2026 | Teilvertretung der Professur Germanistische Linguistik, Université de Genève |
 | 01/2026 | Gastwissenschaftler, University of North Carolina at Chapel Hill |
+| 11/2025 und 06/2026 | Gastdozent für Korpuslinguistik, Ss. Cyril and Methodius University Skopje (SEMP-Gastdozentur) |
 | 09/2019–12/2023 | Assistent, Lehrstuhl Noah Bubenhofer, Universität Zürich |
 | 2019 und 2023 | Lehrbeauftragter für Germanistische Linguistik, Universität Basel |
 | 2018–2019 | Wissenschaftlicher Mitarbeiter, Forschungsstelle Digitale Linguistik, ZHAW |
 | 2016–2017 | Gastwissenschaftler und Lehrbeauftragter, Germanistisches Seminar, Universität Heidelberg |
-| 2013–2018 | Hilfskraft und SNF-Stipendiat, Lehrstuhl Angelika Linke, Universität Zürich |
+| 2012–2018 | Hilfsassistent, Projektmitarbeiter und SNF-Stipendiat, Lehrstuhl Angelika Linke, Universität Zürich |
 
 ## Ausbildung
 

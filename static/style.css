@@ -39,6 +39,7 @@ h3 { font-size: 1.05rem; margin: 2rem 0 0.6rem; }
 p, ul, ol { margin: 0 0 1.1rem; }
 .wrap { max-width: var(--wide); margin: 0 auto; padding: 0 var(--space); }
 .muted { color: var(--muted); }
+.prose .meta { color: var(--muted); font-size: 0.9rem; margin-top: -0.6rem; }
 .small { font-size: 0.88rem; }
 .lead { font-size: 1.25rem; line-height: 1.5; color: var(--text); max-width: var(--measure); margin-bottom: 1.6rem; }
 .eyebrow { font-size: 0.9rem; color: var(--muted); margin: 0 0 1rem; }

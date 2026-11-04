@@ -5,8 +5,6 @@ alt: forschung
 description: "Research by Daniel Knuchel: corpus pragmatics and digital linguistics, discourse latency, writing with generative AI."
 lead: "My research lies in corpus pragmatics and digital linguistics as well as in the discourse analysis and sociolinguistics of contemporary German. I work empirically, with digital methods and from a cultural-analytic perspective."
 ---
-I am interested in how knowledge, identity and communicative norms are produced and changed in linguistic practice, and how this can be described under digital conditions. Digitality changes both the objects of linguistics, from web forums to interaction with language models, and the procedures we use to study them.
-
 ## Discourse, knowledge, society {#discourse}
 
 In my dissertation I examined how HIV/AIDS is conceptualised linguistically in German-speaking Switzerland since the infection became treatable and seemingly disappeared from public attention. This led to the concept of *discourse latency*: an answer to the question of what happens to discourses when public interest fades. The monograph is in preparation. Further work concerns Wikipedia, conspiracy theories, 1980s protest communication and the linguistic construction of sexuality.
@@ -21,12 +19,56 @@ I work with large, mostly self-built data collections and combine quantitative p
 
 ## Projects
 
-- **Postdigital writing cultures** – habilitation project, University of Zurich, since 2024.
-- **Language Regimes of the Machine: Language Ideologies and Multilingual Practice under Generative AI** – with Naomi Truan (Leiden), funded by the University of Zurich Global Funding Scheme, since 2026. The project studies how multilingual speakers engage with generative AI: which practices, experiences and language ideologies they bring to the interaction, and what the systems do to their multilingualism. Its first activity is the international workshop *Doing Multilingualism with Generative AI: Recentering the Users* on 10 and 11 March 2027 in Zurich, keynotes Bettina Migge (Dublin) and Anna Weichselbraun (Vienna); a special issue is in preparation. Abstracts by 30 October 2026 to the address given in the call.
-- **Multimodal corpus pragmatics: the youth magazine Bravo as a test case** – methods project within the International Max Planck Research School for Multimodal Digital Humanities (Bibliotheca Hertziana, Rome), since 2026. At its centre are questions of preparing multimodal data for cultural-linguistic research: how can text, image and layout be processed so that text-image relations become analysable corpus-pragmatically, and what do vision-language models contribute to segmentation and annotation compared with manual work?
-- **Chatbots at the interface between social administration and its public: making chatbot conversations usable for research** – expert report commissioned by the Institute for Work, Skills and Training (IAQ), University of Duisburg-Essen, led by Bettina M. Bock (Cologne), Zurich part with Xenia Bojarski, September 2026 to February 2027. The report asks how data from chat logs between social administrations, such as job centres, and citizens can be obtained and made usable for research. It reviews the state of data practice, surveys existing corpora and develops a best-practice guideline for handling chatbot data together with a prototype sketch. The Zurich part covers corpus building, preparation and documentation including legal and research-ethical questions, human–AI communication and the workshop demonstrator.
-- **AI in teaching: promising practices in the humanities and social sciences** – project coordination, University Teaching Fund UZH, 2025–2027.
-- **SchrAIb-Tutor: fostering academic writing competence in times of AI** – principal investigator, with Elisabeth Zima, University Teaching Fund UZH (open_innovation), September 2026 to January 2028. A modular, openly accessible self-learning environment that accompanies students along the six phases of the academic writing process, from orientation and collecting material through structuring, drafting and revising to editing, and addresses writing practices such as excerpting, paraphrasing, citing and arguing. Generative AI is considered in every phase: what can a tool do here, where are its limits, and which decisions must remain with the writer? External partner: Christian Rapp (ZHAW).
-- **Writing with AI? I can!** – citizen science project with upper-secondary students, principal investigator, Citizen Science Zurich, 2024–2025.
-- **Communication and (non-)knowledge about HIV/AIDS** – doctoral project, funded by a Doc.CH fellowship of the Swiss National Science Foundation and the Research Fund of the University of Zurich, 2015–2023.
-- **Research logics in text-based digital humanities** – SNSF project within the Digital Lives programme (lead Noah Bubenhofer), coordination, 2018–2020.
+### Postdigital writing cultures
+
+In my habilitation project I study how generative AI changes writing practices, texts and ideas about writing in postdigital environments, above all in school and academic writing. Three sub-studies address writing ideologies in guidelines, teaching material and online discourse, practices in screen recordings and writing process data, and products through text and corpus linguistic analysis. The aim is a theory of postdigital writing cultures as a cultural-linguistic contribution to the debate on AI literacy.
+
+<p class="meta">Habilitation project · University of Zurich · since 2024</p>
+
+### Language Regimes of the Machine: Language Ideologies and Multilingual Practice under Generative AI
+
+Generative AI counts as multilingual, yet it treats languages like a menu of separate, internally uniform units. The project puts speakers at the centre: what do multilingual people do with these systems, what do the systems do to their practices, and do the concepts of sociolinguistics still hold when one of the "persons" involved is a machine? Its first activity is the international workshop *Doing Multilingualism with Generative AI: Recentering the Users* on 10 and 11 March 2027 in Zurich, with keynotes by Bettina Migge (Dublin) and Anna Weichselbraun (Vienna).
+
+<p class="meta">Led with Naomi Truan (Leiden University) · University of Zurich Global Funding Scheme · since 2026</p>
+
+### Multimodal corpus pragmatics: the youth magazine Bravo as a test case
+
+Corpus pragmatics is text-oriented and largely ignores layout and image. Using a multimodal corpus of Bravo (1956–1999), I examine how text, image and layout can be processed so that text-image relations become analysable corpus-pragmatically, and what vision-language models contribute to segmentation and annotation compared with manual work.
+
+<p class="meta">Methods project · International Max Planck Research School for Multimodal Digital Humanities (Bibliotheca Hertziana, Rome) · since 2026</p>
+
+### Chatbots at the interface between social administration and its public
+
+Social administrations such as job centres increasingly use chatbots in their contact with citizens. The expert report asks how the resulting chat logs can be obtained and made usable for research, and develops a best-practice guideline together with a prototype sketch. The Zurich part covers corpus building, preparation and documentation including legal and research-ethical questions, as well as the workshop demonstrator.
+
+<p class="meta">Expert report commissioned by the Institute for Work, Skills and Training, University of Duisburg-Essen · led by Bettina M. Bock (Cologne), Zurich part with Xenia Bojarski · September 2026 to February 2027</p>
+
+### SchrAIb-Tutor: fostering academic writing competence in times of AI
+
+A modular, openly accessible self-learning environment accompanies students along the six phases of the academic writing process, from orientation to editing, and addresses writing practices such as excerpting, paraphrasing, citing and arguing. Generative AI is considered in every phase: what can a tool do, where are its limits, and which decisions remain with the writer?
+
+<p class="meta">Principal investigator, with Elisabeth Zima · external partner Christian Rapp (ZHAW) · University Teaching Fund UZH (open_innovation) · September 2026 to January 2028</p>
+
+### AI in teaching: promising practices in the humanities and social sciences
+
+The project examines how generative AI can be used meaningfully in humanities and social science teaching, or deliberately not used. Instead of rigid best practices it focuses on promising practices: approaches adapted to study programmes, modules and individual courses and developed further as the technology advances. The aim is a toolkit for teaching, learning and assessment processes at the Faculty of Arts and Social Sciences.
+
+<p class="meta">Project coordination · led by Sandro Zanetti and Peter Finke · University Teaching Fund UZH · September 2025 to August 2027</p>
+
+### Writing with AI? I can!
+
+Citizen science project in which upper-secondary students co-researched their own writing practices with generative AI: they collected data, analysed screen recordings and discussed the results. The material feeds into the habilitation project.
+
+<p class="meta">Principal investigator · Citizen Science Zurich (ETH Zurich and University of Zurich) · 2024–2025</p>
+
+### Communication and (non-)knowledge about HIV/AIDS
+
+Doctoral project on the linguistic conceptualisation of HIV/AIDS in German-speaking Switzerland in media and web forums, from which the concept of discourse latency emerged.
+
+<p class="meta">Doctoral project · Doc.CH fellowship of the Swiss National Science Foundation and Research Fund of the University of Zurich · 2015–2023</p>
+
+### Research logics in text-based digital humanities
+
+The project examined which ideas of language and text are inscribed in the tools of text-based digital humanities and how they shape the findings.
+
+<p class="meta">Coordination · SNSF project within the Digital Lives programme, led by Noah Bubenhofer · 2018–2020</p>

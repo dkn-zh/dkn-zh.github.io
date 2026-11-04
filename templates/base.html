@@ -45,6 +45,7 @@
     <p><a href="{{ home_url }}">© {{ build_date.year }} {{ cfg.name }}</a> · {{ t.updated }}: {{ build_date.strftime('%m/%Y') }}</p>
     <p>
       {% for l in cfg.links if l.url %}<a href="{{ l.url }}" rel="me noopener">{{ l.label }}</a>{{ ' · ' if not loop.last }}{% endfor %}
+      · <a href="{{ '/kontakt/' if lang == 'de' else '/en/contact/' }}">{{ t.contact }}</a>
       · <a href="{{ '/impressum/' if lang == 'de' else '/en/imprint/' }}">{{ t.imprint }}</a>
     </p>
   </div>

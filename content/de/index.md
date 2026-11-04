@@ -18,8 +18,8 @@ news_label: Aktuell
 news:
   - when: Oktober 2026
     text: "Projekt [Language Regimes of the Machine](/forschung/#projekte) mit Naomi Truan (Leiden) bewilligt."
-  - when: Call for Papers
-    text: "Workshop [Doing Multilingualism with Generative AI](/forschung/#projekte), Zürich, 10.–11. März 2027."
+  - when: März 2027
+    text: "Internationaler Workshop [Doing Multilingualism with Generative AI](/forschung/#projekte) mit Naomi Truan, Zürich, 10.–11. März 2027."
 upcoming_label: Nächster Vortrag
 upcoming_more: Alle Vorträge
 ---
