@@ -4,7 +4,7 @@ nav: 5
 template: teaching
 alt: teaching
 description: "Lehre von Daniel Knuchel an den Universitäten Zürich, Genf, Basel, Heidelberg und Skopje."
-lead: "Ich lehre seit rund zehn Jahren an den Universitäten Zürich, Genf, Basel, Heidelberg und Skopje auf Bachelor- und Masterstufe: Korpuslinguistik und Korpuspragmatik, Diskurs-, Medien- und Kulturlinguistik, Semantik und Pragmatik, neuere Sprachgeschichte, akademisches Schreiben."
+lead: "Ich lehre seit rund zehn Jahren an den Universitäten Zürich, Genf, Basel, Heidelberg und Skopje auf Bachelor-, Master- und Doktoratsstufe: Korpuslinguistik und Korpuspragmatik, Diskurs-, Medien- und Kulturlinguistik, Semantik und Pragmatik, neuere Sprachgeschichte, akademisches Schreiben."
 ---
 In meinen Veranstaltungen arbeiten Studierende möglichst quellennah und durchlaufen einen eigenen kleinen Forschungszyklus, von der Fragestellung bis zur Präsentation der Ergebnisse. Methoden behandle ich dabei nicht als neutral: Wer ein Verfahren versteht, weiss, welche Befunde dem Gegenstand und welche dem Werkzeug geschuldet sind. Das gilt für Korpustools wie für generative KI.
 
