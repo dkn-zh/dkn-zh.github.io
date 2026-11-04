@@ -30,7 +30,7 @@ description: "Lebenslauf von Daniel Knuchel: Positionen, Ausbildung, Förderunge
 
 ## Förderungen
 
-Doc.CH-Stipendium des Schweizerischen Nationalfonds, Seed Grant des Global Funding Scheme der Universität Zürich (2026), Forschungskredit und Kompetitiver Lehrkredit der Universität Zürich, Citizen Science Seed Money Grant von ETH Zürich und Universität Zürich, mehrere Projekte der Universitären Lehrförderung und des Lehrentwicklungsfonds der UZH.
+Doc.CH-Stipendium des Schweizerischen Nationalfonds (2015–2018), Seed Grant des Global Funding Scheme der Universität Zürich (2026), Forschungskredit (2018) und Kompetitiver Lehrkredit (2020) der Universität Zürich, Citizen Science Seed Money Grant von ETH Zürich und Universität Zürich (2024), mehrere Projekte der Universitären Lehrförderung (2025, 2026) und des Lehrentwicklungsfonds der UZH (2013, 2020).
 
 ## Gremien und Mitgliedschaften
 

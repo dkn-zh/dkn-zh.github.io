@@ -158,12 +158,6 @@
   in: "In: Rundschreiben Zentrum Lesen 24(4)."
 
 # --- Expertisen ---
-- type: report
-  year: 2021
-  authors: ["Knuchel, Daniel", "Schüller, Larissa", "Hottiger, Christoph"]
-  title: "Sprachgebrauch in der Deutschschweiz. Ergebnisse kulturhistorischer und -analytischer Linguistik"
-  in: "Expertise zuhanden des Schweizerischen Nationalmuseums für die Ausstellung «Sprachenland Schweiz»."
-
 # --- Im Druck, akzeptiert, eingereicht, in Vorbereitung (eigener Block am Seitenende) ---
 - type: article
   status: submitted
