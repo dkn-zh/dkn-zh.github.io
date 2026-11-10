@@ -222,6 +222,7 @@ institutions:
           - "Bubenhofer, Noah (2009): *Sprachgebrauchsmuster. Korpuslinguistik als Methode der Diskurs- und Kulturanalyse*. Berlin/New York: De Gruyter."
 
   - name: Universität Heidelberg, Germanistisches Seminar
+    always: true   # auch vor courses_since anzeigen
     courses:
       - {sem: WiSe 2016/17, title: "Deutsch als plurizentrische Sprache", format: Seminar BA/MA}
       - {sem: SoSe 2016, title: "Schreibforschung", format: Seminar BA/MA}

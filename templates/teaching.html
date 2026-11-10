@@ -3,7 +3,7 @@
 <h2 id="courses">{{ t.courses_title }}</h2>
 <p class="muted small">{{ t.courses_hint }}</p>
 {% for inst in data.courses.institutions %}
-{% set items = inst.courses | selectattr('year', 'ge', cfg.courses_since) | list %}
+{% set items = inst.courses if inst.always else (inst.courses | selectattr('year', 'ge', cfg.courses_since) | list) %}
 {% if items %}
 <h3>{{ inst.name }}</h3>
 <ul class="courses">
