@@ -232,7 +232,6 @@ institutions:
   - name: ZHAW, School of Applied Linguistics und School of Management and Law
     courses:
       - {sem: FS 2015, title: "Sprache im Beruf 2: Mündlichkeit", format: Übung Elektrotechnik}
-      - {sem: FS 2015, title: "Schreibcoaching Bachelorarbeit", format: School of Management and Law}
       - {sem: HS 2014, title: "Sprache im Beruf 3: Wissenschaftlichkeit", format: Übung Elektrotechnik}
       - {sem: HS 2014, title: "Sprache im Beruf 1: Schriftlichkeit", format: Übung Elektrotechnik}
 
