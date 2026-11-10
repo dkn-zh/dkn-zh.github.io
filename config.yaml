@@ -7,7 +7,7 @@ languages: [de, en]                   # erste Sprache liegt auf /, zweite auf /e
 email: daniel.knuchel@ds.uzh.ch
 orcid: 0000-0002-5226-0301
 talks_since: '2023'      # Vorträge, Poster, Kurse, Medien erst ab diesem Jahr anzeigen (Organisation immer)
-courses_since: '2019'    # Lehrveranstaltungen erst ab diesem Jahr anzeigen
+courses_since: '2000'    # Lehrveranstaltungen erst ab diesem Jahr anzeigen (2000 = alle)
 
 tagline:
   de: "Sprach- und Kulturwissenschaftler an der Universität Zürich. Korpuspragmatik und digitale Linguistik, Kultur-, Diskurs- und Soziolinguistik des Gegenwartsdeutschen, postdigitale Schreibkulturen."
